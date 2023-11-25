@@ -1,0 +1,2608 @@
+Unnamed: 0,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Transported
+2145,Earth,False,GS,55 Cancri e,37.0,False,1508.0,0.0,0.0,1.0,0.0,False
+5614,Mars,False,FS,TRAPPIST-1e,43.0,False,1086.0,4.0,202.0,401.0,0.0,False
+7762,Earth,False,GS,TRAPPIST-1e,61.0,False,67.0,0.0,654.0,0.0,86.0,False
+5836,Earth,True,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+7112,Earth,True,GS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4466,Mars,False,DS,TRAPPIST-1e,53.0,False,204.0,142.0,380.0,38.0,1.0,False
+1928,Mars,False,FS,TRAPPIST-1e,17.0,False,583.0,0.0,753.0,0.0,0.0,False
+179,Europa,True,BS,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,True
+2135,Earth,False,GS,TRAPPIST-1e,36.0,False,3.0,0.0,435.0,8.0,277.0,False
+4546,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,198.0,559.0,19.0,44.0,True
+4844,Earth,False,FS,TRAPPIST-1e,47.0,False,1.0,17.0,0.0,1069.0,0.0,False
+6678,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3162,Earth,True,GP,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+3416,Europa,True,BS,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+5860,Earth,False,FS,TRAPPIST-1e,39.0,False,0.0,176.0,43.0,660.0,0.0,False
+1451,Europa,False,BS,TRAPPIST-1e,27.0,False,0.0,31.0,0.0,1.0,11378.0,False
+5621,Europa,False,BS,TRAPPIST-1e,46.0,False,0.0,3259.0,761.0,4423.0,0.0,False
+8613,Earth,False,ES,55 Cancri e,53.0,False,0.0,4017.0,0.0,13.0,3147.0,False
+2877,Earth,True,GS,PSO J318.5-22,15.0,False,0.0,0.0,0.0,0.0,0.0,False
+4892,Earth,False,GP,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+2206,Earth,False,FP,TRAPPIST-1e,29.0,False,0.0,0.0,792.0,0.0,0.0,True
+1506,Europa,True,CP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+4580,Europa,False,BS,TRAPPIST-1e,29.0,False,9.0,2031.0,0.0,20.0,1837.0,False
+1100,Europa,True,BP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+7816,Europa,False,ES,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,408.0,293.0,True
+4599,Earth,False,GS,PSO J318.5-22,32.0,False,8.0,690.0,3.0,5.0,0.0,True
+3692,Earth,False,GP,TRAPPIST-1e,27.0,False,0.0,0.0,1020.0,0.0,0.0,True
+2255,Earth,False,GS,TRAPPIST-1e,43.0,False,9.0,0.0,1079.0,0.0,729.0,False
+8393,Mars,True,FS,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+6779,Mars,False,DS,TRAPPIST-1e,33.0,False,1631.0,0.0,754.0,0.0,0.0,False
+5182,Europa,False,CP,55 Cancri e,39.0,False,5645.0,132.0,0.0,1.0,1814.0,False
+932,Earth,True,GS,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,False
+2324,Earth,False,AP,55 Cancri e,38.0,False,0.0,2506.0,46.0,11001.0,5.0,False
+7628,Earth,False,GP,TRAPPIST-1e,20.0,False,0.0,142.0,0.0,3528.0,92.0,False
+4478,Mars,True,FP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+8555,Mars,False,FP,TRAPPIST-1e,28.0,False,1789.0,16.0,3.0,10.0,1.0,False
+3002,Earth,False,FS,55 Cancri e,53.0,False,8.0,0.0,236.0,0.0,2049.0,False
+2431,Mars,True,EP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+579,Mars,False,EP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+3762,Earth,False,EP,55 Cancri e,59.0,False,258.0,377.0,5.0,0.0,0.0,True
+7976,Mars,False,FS,TRAPPIST-1e,29.0,False,2502.0,0.0,44.0,23.0,29.0,False
+1999,Earth,False,GS,TRAPPIST-1e,61.0,False,2.0,0.0,17.0,868.0,28.0,False
+6490,Earth,False,EP,TRAPPIST-1e,52.0,False,2.0,46.0,800.0,0.0,773.0,False
+7714,Earth,False,GS,TRAPPIST-1e,33.0,False,201.0,819.0,0.0,0.0,0.0,True
+8194,Mars,False,FS,TRAPPIST-1e,45.0,False,74.0,0.0,0.0,1130.0,22.0,False
+2996,Earth,True,GS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+1690,Earth,False,GP,TRAPPIST-1e,19.0,False,5.0,639.0,0.0,84.0,180.0,False
+2022,Mars,True,FP,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+1720,Europa,False,DP,TRAPPIST-1e,22.0,False,0.0,8882.0,21.0,2204.0,19.0,True
+505,Earth,False,FS,TRAPPIST-1e,17.0,False,1471.0,0.0,0.0,45.0,16.0,False
+6190,Europa,False,CS,TRAPPIST-1e,37.0,False,0.0,4616.0,339.0,2008.0,175.0,True
+4518,Mars,True,FP,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+2632,Mars,False,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+2357,Europa,False,BP,TRAPPIST-1e,44.0,False,0.0,1482.0,127.0,1555.0,1257.0,False
+4848,Europa,True,CP,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+7803,Earth,True,GP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,False
+532,Earth,True,GS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+783,Earth,False,FS,TRAPPIST-1e,19.0,False,0.0,561.0,10.0,0.0,161.0,True
+5798,Mars,False,ES,TRAPPIST-1e,29.0,False,236.0,699.0,332.0,31.0,0.0,True
+6777,Mars,False,ES,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,True
+4867,Europa,False,CS,TRAPPIST-1e,34.0,False,0.0,914.0,0.0,2433.0,647.0,True
+3364,Earth,False,FS,TRAPPIST-1e,29.0,False,2.0,753.0,5.0,0.0,0.0,True
+3869,Earth,False,GP,55 Cancri e,33.0,False,0.0,0.0,589.0,2.0,255.0,True
+6685,Earth,False,FS,TRAPPIST-1e,13.0,False,0.0,999.0,0.0,0.0,4.0,True
+1885,Earth,True,GS,PSO J318.5-22,46.0,False,0.0,0.0,0.0,0.0,0.0,False
+6454,Earth,True,GP,55 Cancri e,3.0,False,0.0,0.0,0.0,0.0,0.0,False
+2663,Europa,False,CS,55 Cancri e,38.0,False,0.0,896.0,0.0,0.0,4168.0,False
+6677,Earth,True,GS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+5802,Europa,True,CS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+6955,Earth,False,GP,TRAPPIST-1e,62.0,False,240.0,0.0,0.0,586.0,10.0,False
+5008,Mars,False,FS,55 Cancri e,46.0,False,1082.0,80.0,1177.0,0.0,323.0,False
+5309,Europa,False,BS,TRAPPIST-1e,22.0,False,0.0,11594.0,0.0,10247.0,1.0,False
+5044,Earth,False,FS,TRAPPIST-1e,48.0,False,83.0,110.0,0.0,690.0,8.0,True
+5869,Mars,False,FP,TRAPPIST-1e,43.0,False,24.0,1.0,1167.0,0.0,0.0,True
+2579,Earth,False,ES,TRAPPIST-1e,42.0,False,0.0,0.0,213.0,166.0,1209.0,True
+3790,Mars,False,FS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+6918,Earth,False,FS,TRAPPIST-1e,26.0,False,0.0,0.0,902.0,0.0,0.0,False
+4768,Earth,False,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+5498,Earth,False,FP,TRAPPIST-1e,17.0,False,0.0,566.0,18.0,318.0,0.0,False
+6336,Europa,True,BP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+618,Mars,False,FP,TRAPPIST-1e,19.0,False,1019.0,266.0,141.0,0.0,0.0,True
+7389,Earth,True,GS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+4148,Earth,False,GP,55 Cancri e,38.0,False,8.0,0.0,1414.0,10.0,3.0,False
+5532,Earth,True,GS,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+4426,Europa,False,DP,55 Cancri e,30.0,False,818.0,44.0,2.0,2956.0,2311.0,False
+6434,Earth,False,GP,TRAPPIST-1e,56.0,False,2.0,736.0,0.0,71.0,0.0,False
+8295,Earth,True,FP,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+1547,Earth,False,ES,TRAPPIST-1e,19.0,False,414.0,0.0,66.0,307.0,0.0,False
+842,Mars,False,DP,PSO J318.5-22,29.0,False,4.0,0.0,421.0,435.0,19.0,False
+2577,Earth,False,GS,55 Cancri e,15.0,False,254.0,0.0,10.0,180.0,0.0,False
+3442,Earth,False,GP,55 Cancri e,35.0,False,432.0,0.0,377.0,0.0,0.0,False
+1675,Earth,False,GS,TRAPPIST-1e,43.0,False,0.0,0.0,870.0,0.0,14.0,True
+8558,Mars,False,FP,TRAPPIST-1e,35.0,False,3.0,1376.0,11.0,0.0,360.0,False
+8578,Earth,True,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+7379,Earth,True,GS,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+7544,Mars,False,ES,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+689,Earth,True,GP,55 Cancri e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+3660,Mars,False,DS,55 Cancri e,34.0,False,2.0,0.0,805.0,29.0,0.0,True
+8011,Mars,True,FS,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+5260,Europa,False,DS,TRAPPIST-1e,46.0,False,0.0,3477.0,0.0,1.0,5543.0,False
+3750,Earth,False,FP,55 Cancri e,51.0,False,8.0,0.0,206.0,1247.0,14.0,True
+1461,Earth,False,GP,TRAPPIST-1e,21.0,False,9.0,0.0,0.0,0.0,800.0,False
+7488,Mars,False,ES,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,False
+6123,Earth,False,FS,TRAPPIST-1e,28.0,False,0.0,602.0,0.0,115.0,0.0,True
+2332,Europa,True,CS,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+8033,Earth,True,GP,PSO J318.5-22,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+2521,Earth,False,FS,PSO J318.5-22,23.0,False,3.0,548.0,37.0,0.0,12.0,True
+1557,Earth,True,GP,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6463,Earth,False,FP,TRAPPIST-1e,43.0,False,142.0,1208.0,0.0,0.0,204.0,False
+1471,Earth,False,GP,TRAPPIST-1e,62.0,False,877.0,15.0,0.0,0.0,1.0,False
+2901,Europa,False,CS,PSO J318.5-22,62.0,True,0.0,4513.0,0.0,85.0,1437.0,True
+6768,Europa,False,AS,55 Cancri e,51.0,True,0.0,287.0,0.0,1442.0,66.0,True
+2633,Mars,True,FP,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+6658,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,750.0,957.0,0.0,722.0,False
+7839,Earth,False,GP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,False
+7035,Earth,False,EP,TRAPPIST-1e,53.0,False,2.0,794.0,425.0,0.0,397.0,False
+7481,Earth,True,GS,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+7863,Earth,False,GP,55 Cancri e,27.0,False,0.0,1283.0,0.0,2256.0,0.0,False
+339,Europa,True,BS,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,True
+7421,Europa,False,DS,TRAPPIST-1e,36.0,False,0.0,9532.0,0.0,2326.0,461.0,False
+6647,Earth,False,FS,TRAPPIST-1e,23.0,False,779.0,7.0,9.0,9.0,0.0,False
+638,Mars,False,FP,TRAPPIST-1e,15.0,False,1264.0,0.0,2.0,23.0,0.0,False
+281,Earth,False,FP,PSO J318.5-22,60.0,False,7.0,540.0,1.0,0.0,4.0,True
+5891,Earth,False,GS,TRAPPIST-1e,20.0,False,0.0,0.0,841.0,5.0,0.0,True
+2918,Earth,True,GS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,False
+1059,Mars,False,EP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+2283,Mars,True,EP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+1943,Earth,False,GP,TRAPPIST-1e,20.0,False,0.0,0.0,4.0,35.0,769.0,False
+8360,Europa,False,CP,TRAPPIST-1e,36.0,False,0.0,3423.0,0.0,466.0,349.0,True
+5386,Earth,False,FP,TRAPPIST-1e,42.0,False,439.0,0.0,0.0,0.0,254.0,False
+3194,Earth,False,GP,TRAPPIST-1e,17.0,False,0.0,83.0,0.0,0.0,943.0,False
+8234,Earth,False,FS,TRAPPIST-1e,34.0,False,14.0,748.0,0.0,41.0,0.0,True
+1236,Earth,False,FP,TRAPPIST-1e,19.0,False,0.0,4.0,109.0,0.0,671.0,True
+3,Europa,False,AS,TRAPPIST-1e,33.0,False,0.0,1283.0,371.0,3329.0,193.0,False
+8218,Mars,True,DP,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+456,Europa,True,FP,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+7769,Mars,True,ES,TRAPPIST-1e,62.0,False,0.0,0.0,0.0,0.0,0.0,True
+6266,Europa,True,BP,55 Cancri e,46.0,False,0.0,0.0,0.0,0.0,0.0,True
+6317,Europa,False,EP,TRAPPIST-1e,25.0,False,0.0,4.0,0.0,1525.0,475.0,False
+4261,Earth,False,GP,TRAPPIST-1e,20.0,False,25.0,0.0,796.0,44.0,44.0,False
+6272,Earth,True,GP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+4027,Earth,True,GP,55 Cancri e,6.0,False,0.0,0.0,0.0,0.0,0.0,True
+3409,Earth,False,ES,TRAPPIST-1e,50.0,False,43.0,661.0,1.0,85.0,0.0,False
+1489,Earth,False,GS,TRAPPIST-1e,18.0,False,428.0,0.0,36.0,0.0,424.0,False
+4576,Mars,False,FS,TRAPPIST-1e,36.0,False,108.0,0.0,941.0,861.0,0.0,False
+7615,Europa,True,CP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+6128,Mars,True,FP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+960,Earth,False,FP,55 Cancri e,18.0,False,187.0,12.0,0.0,1277.0,0.0,False
+914,Earth,False,FS,55 Cancri e,20.0,False,0.0,11.0,0.0,136.0,1088.0,False
+4255,Earth,False,FP,TRAPPIST-1e,20.0,False,9.0,0.0,157.0,525.0,0.0,False
+4399,Earth,True,FP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+6984,Earth,False,GP,TRAPPIST-1e,19.0,False,879.0,0.0,0.0,10.0,0.0,False
+7871,Europa,True,BS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+3184,Europa,False,CP,55 Cancri e,74.0,False,0.0,1026.0,0.0,6616.0,119.0,False
+1159,Earth,False,FP,TRAPPIST-1e,18.0,False,2.0,1311.0,60.0,28.0,1.0,True
+7532,Mars,False,FS,55 Cancri e,52.0,False,0.0,0.0,262.0,1425.0,571.0,False
+7000,Earth,True,GS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,False
+1384,Earth,False,GP,TRAPPIST-1e,63.0,False,3.0,801.0,0.0,0.0,5.0,True
+1464,Europa,True,BP,55 Cancri e,51.0,False,0.0,0.0,0.0,0.0,0.0,True
+1961,Mars,True,FP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+7655,Earth,False,FS,TRAPPIST-1e,21.0,False,644.0,0.0,0.0,0.0,2.0,False
+6822,Earth,False,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+2966,Earth,False,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+8239,Earth,False,FS,TRAPPIST-1e,37.0,False,10.0,557.0,51.0,83.0,0.0,False
+2410,Earth,False,GP,TRAPPIST-1e,45.0,False,406.0,148.0,285.0,0.0,0.0,False
+5413,Europa,True,BP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+5352,Earth,True,GS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+3971,Earth,False,FP,TRAPPIST-1e,68.0,False,0.0,1.0,223.0,580.0,0.0,False
+8004,Earth,False,GP,TRAPPIST-1e,22.0,False,3.0,214.0,0.0,0.0,591.0,False
+1409,Europa,False,DP,55 Cancri e,26.0,False,0.0,304.0,0.0,3998.0,0.0,False
+899,Mars,True,FP,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+625,Earth,True,GS,PSO J318.5-22,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+6326,Europa,False,CP,TRAPPIST-1e,46.0,False,0.0,370.0,0.0,2395.0,1638.0,False
+1134,Mars,False,FP,TRAPPIST-1e,28.0,False,42.0,1116.0,0.0,0.0,0.0,True
+6642,Earth,False,FS,55 Cancri e,14.0,False,0.0,1.0,400.0,297.0,0.0,False
+4954,Earth,False,FP,TRAPPIST-1e,30.0,False,0.0,6.0,621.0,0.0,433.0,False
+5479,Earth,False,EP,55 Cancri e,24.0,False,0.0,30.0,835.0,0.0,0.0,True
+4482,Earth,False,FS,55 Cancri e,22.0,False,0.0,509.0,2.0,8.0,74.0,True
+4743,Europa,True,CS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+2942,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,0.0,147.0,0.0,0.0,False
+5763,Europa,False,CP,TRAPPIST-1e,13.0,False,0.0,9.0,0.0,0.0,5648.0,False
+3318,Mars,False,DP,55 Cancri e,55.0,False,14.0,0.0,0.0,3778.0,1.0,False
+2917,Earth,False,FS,TRAPPIST-1e,55.0,False,0.0,0.0,5.0,0.0,2409.0,False
+4201,Earth,False,GS,55 Cancri e,31.0,False,23.0,0.0,0.0,0.0,17.0,False
+7744,Earth,True,GP,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+8150,Mars,False,DP,TRAPPIST-1e,50.0,False,1584.0,0.0,36.0,104.0,0.0,True
+5251,Europa,False,BP,55 Cancri e,18.0,False,0.0,3268.0,0.0,436.0,342.0,True
+5024,Earth,False,CS,TRAPPIST-1e,34.0,False,0.0,3195.0,0.0,102.0,1469.0,True
+87,Earth,True,GP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+5989,Europa,False,CP,TRAPPIST-1e,29.0,False,0.0,584.0,5468.0,7.0,661.0,True
+7310,Earth,False,FP,PSO J318.5-22,18.0,False,0.0,76.0,0.0,993.0,6.0,False
+4870,Earth,True,GP,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+2160,Earth,True,GP,PSO J318.5-22,5.0,False,0.0,0.0,0.0,0.0,0.0,False
+275,Europa,False,ES,TRAPPIST-1e,28.0,False,0.0,422.0,0.0,1851.0,5166.0,False
+8586,Earth,False,FS,TRAPPIST-1e,23.0,False,9.0,2.0,1.0,0.0,727.0,False
+2340,Europa,False,CP,TRAPPIST-1e,59.0,False,0.0,5407.0,0.0,285.0,1135.0,False
+4577,Earth,False,GP,TRAPPIST-1e,20.0,False,362.0,0.0,31.0,12.0,483.0,False
+2346,Earth,True,GS,PSO J318.5-22,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+7504,Earth,False,GS,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,False
+5461,Earth,True,GP,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+478,Europa,True,BS,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,True
+6810,Earth,False,FP,TRAPPIST-1e,14.0,False,0.0,0.0,766.0,0.0,0.0,False
+6923,Earth,True,GS,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+977,Earth,True,GS,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+4174,Europa,False,DP,TRAPPIST-1e,28.0,False,0.0,2560.0,0.0,134.0,307.0,False
+3751,Earth,True,GP,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,False
+5993,Earth,False,GP,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+4321,Earth,False,GP,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,774.0,0.0,False
+1310,Earth,True,GS,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+7406,Earth,False,GP,TRAPPIST-1e,24.0,False,0.0,80.0,106.0,344.0,0.0,False
+3305,Earth,True,GS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+4533,Mars,True,FP,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+8561,Europa,True,BS,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,True
+8503,Earth,True,GP,PSO J318.5-22,22.0,False,0.0,0.0,0.0,0.0,0.0,False
+4721,Mars,True,FS,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+4731,Mars,False,ES,TRAPPIST-1e,49.0,False,1176.0,0.0,20.0,103.0,0.0,False
+6601,Mars,False,FP,TRAPPIST-1e,65.0,False,3358.0,1.0,12.0,0.0,0.0,False
+7659,Earth,True,GS,PSO J318.5-22,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+4979,Europa,True,BP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+2197,Earth,False,GS,TRAPPIST-1e,35.0,False,0.0,722.0,0.0,0.0,185.0,False
+7512,Mars,False,ES,TRAPPIST-1e,52.0,False,1222.0,2.0,74.0,0.0,0.0,False
+669,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+991,Earth,False,FS,PSO J318.5-22,27.0,False,182.0,0.0,0.0,0.0,376.0,False
+7629,Earth,True,FP,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+7094,Earth,False,FS,TRAPPIST-1e,18.0,False,388.0,182.0,0.0,66.0,140.0,False
+4655,Mars,False,FS,TRAPPIST-1e,32.0,False,1016.0,0.0,307.0,5.0,0.0,True
+290,Earth,False,GS,TRAPPIST-1e,21.0,False,0.0,5.0,3.0,0.0,0.0,False
+8377,Earth,False,FP,55 Cancri e,39.0,False,0.0,0.0,1291.0,224.0,0.0,False
+1514,Europa,False,ES,TRAPPIST-1e,20.0,False,13.0,817.0,0.0,1435.0,22.0,True
+4644,Europa,False,AS,55 Cancri e,29.0,False,269.0,2171.0,2.0,2.0,0.0,True
+2057,Mars,False,FP,TRAPPIST-1e,51.0,False,1671.0,0.0,17.0,0.0,0.0,False
+2313,Mars,True,FS,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+8266,Europa,False,CP,TRAPPIST-1e,46.0,False,1384.0,229.0,0.0,1572.0,1.0,False
+385,Europa,False,EP,TRAPPIST-1e,31.0,False,417.0,0.0,7185.0,562.0,792.0,True
+7551,Europa,True,DS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+531,Mars,True,ES,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+5751,Mars,False,FS,TRAPPIST-1e,41.0,False,239.0,1.0,1048.0,0.0,0.0,True
+1484,Mars,False,EP,TRAPPIST-1e,28.0,False,641.0,0.0,372.0,0.0,16.0,False
+4244,Mars,False,ES,TRAPPIST-1e,34.0,False,849.0,51.0,375.0,0.0,24.0,False
+7188,Earth,True,GP,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,False
+5345,Earth,False,GP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,False
+1054,Europa,True,BS,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+716,Europa,False,BS,TRAPPIST-1e,34.0,False,47.0,287.0,0.0,4302.0,0.0,False
+6832,Europa,True,CP,TRAPPIST-1e,64.0,False,0.0,0.0,0.0,0.0,0.0,True
+4077,Europa,False,CS,TRAPPIST-1e,31.0,False,22.0,10025.0,2.0,124.0,1.0,True
+2185,Mars,False,FP,TRAPPIST-1e,46.0,False,1290.0,0.0,57.0,0.0,0.0,False
+3288,Mars,False,EP,TRAPPIST-1e,18.0,False,1749.0,50.0,280.0,2.0,0.0,False
+1881,Europa,False,BP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,False
+7387,Earth,True,GS,TRAPPIST-1e,69.0,False,0.0,0.0,0.0,0.0,0.0,False
+1425,Mars,False,DP,TRAPPIST-1e,61.0,False,1114.0,0.0,68.0,0.0,0.0,False
+374,Earth,False,FP,TRAPPIST-1e,16.0,False,691.0,0.0,101.0,140.0,0.0,False
+5490,Europa,False,ES,TRAPPIST-1e,29.0,False,0.0,2.0,64.0,139.0,3831.0,False
+2053,Europa,False,BP,55 Cancri e,42.0,False,0.0,1180.0,0.0,2677.0,283.0,False
+3808,Europa,True,BS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+51,Earth,False,FS,TRAPPIST-1e,25.0,False,0.0,0.0,1938.0,0.0,1.0,True
+5880,Earth,False,GS,TRAPPIST-1e,38.0,False,0.0,709.0,39.0,62.0,0.0,True
+6344,Earth,True,GS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+7032,Mars,True,EP,PSO J318.5-22,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+7539,Earth,False,GP,TRAPPIST-1e,20.0,False,0.0,38.0,0.0,0.0,1779.0,False
+2457,Earth,False,GS,TRAPPIST-1e,22.0,False,0.0,0.0,137.0,671.0,0.0,False
+4933,Europa,False,BP,55 Cancri e,43.0,False,0.0,1001.0,0.0,2393.0,0.0,False
+4487,Mars,True,FP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+7664,Europa,False,AS,55 Cancri e,28.0,False,5.0,8252.0,0.0,181.0,3027.0,False
+2807,Europa,False,CP,55 Cancri e,21.0,False,0.0,878.0,82.0,360.0,1784.0,False
+4210,Mars,True,FP,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+6692,Earth,True,GS,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,True
+4176,Earth,False,FP,TRAPPIST-1e,24.0,False,698.0,0.0,51.0,2.0,4.0,True
+1550,Earth,True,FP,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+7619,Earth,True,GP,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,False
+6043,Earth,False,GS,55 Cancri e,23.0,False,0.0,0.0,478.0,4560.0,0.0,False
+2398,Earth,False,GS,TRAPPIST-1e,24.0,False,19.0,676.0,0.0,26.0,0.0,False
+7833,Europa,False,AS,TRAPPIST-1e,26.0,False,0.0,690.0,1.0,1030.0,2273.0,False
+3264,Earth,False,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+7692,Earth,True,GS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+5932,Earth,False,GP,TRAPPIST-1e,57.0,False,0.0,1409.0,29.0,0.0,0.0,True
+7425,Europa,False,CP,TRAPPIST-1e,41.0,False,0.0,116.0,10705.0,9181.0,10.0,False
+976,Mars,False,FP,55 Cancri e,13.0,False,4.0,0.0,1973.0,0.0,39.0,True
+8180,Europa,False,AP,TRAPPIST-1e,49.0,False,4.0,44.0,1401.0,1043.0,0.0,False
+2163,Europa,False,DP,TRAPPIST-1e,59.0,False,0.0,2210.0,0.0,4085.0,11.0,False
+1853,Europa,True,BS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+4034,Earth,False,EP,TRAPPIST-1e,37.0,False,0.0,0.0,785.0,3.0,0.0,False
+3520,Europa,False,CS,TRAPPIST-1e,29.0,False,2.0,407.0,4509.0,1433.0,9.0,True
+3325,Mars,True,FP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+569,Mars,False,FP,TRAPPIST-1e,46.0,False,21.0,0.0,2155.0,422.0,0.0,True
+2783,Europa,True,CS,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+4128,Earth,False,GS,TRAPPIST-1e,41.0,False,7.0,0.0,297.0,108.0,361.0,False
+5712,Earth,True,GP,TRAPPIST-1e,61.0,False,0.0,0.0,0.0,0.0,0.0,False
+5327,Earth,False,FS,TRAPPIST-1e,45.0,False,0.0,0.0,2332.0,84.0,0.0,True
+1005,Europa,True,BS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+4532,Mars,True,FP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+162,Earth,False,GP,TRAPPIST-1e,25.0,False,62.0,0.0,0.0,0.0,956.0,False
+7391,Earth,False,GP,TRAPPIST-1e,60.0,False,0.0,0.0,0.0,0.0,0.0,False
+4984,Europa,True,EP,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+2578,Earth,False,EP,TRAPPIST-1e,31.0,False,91.0,756.0,0.0,0.0,12.0,True
+7161,Europa,False,CP,55 Cancri e,53.0,False,8.0,1489.0,0.0,2723.0,7401.0,False
+6441,Earth,True,GP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+5374,Earth,True,GS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+2986,Mars,True,FP,TRAPPIST-1e,62.0,False,0.0,0.0,0.0,0.0,0.0,True
+5935,Earth,False,FP,TRAPPIST-1e,16.0,False,17.0,0.0,0.0,537.0,173.0,False
+7491,Europa,False,BS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+4965,Earth,True,GS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+3696,Mars,False,FS,TRAPPIST-1e,23.0,False,355.0,0.0,764.0,0.0,0.0,True
+3533,Mars,False,DP,TRAPPIST-1e,25.0,False,519.0,0.0,284.0,0.0,0.0,False
+6264,Europa,False,CP,TRAPPIST-1e,27.0,False,0.0,1891.0,0.0,2167.0,0.0,False
+3977,Earth,False,GP,TRAPPIST-1e,30.0,False,0.0,10.0,0.0,3840.0,329.0,False
+8104,Mars,False,FP,TRAPPIST-1e,39.0,False,200.0,0.0,1083.0,65.0,0.0,True
+5619,Europa,False,BS,55 Cancri e,57.0,False,200.0,9.0,0.0,0.0,24133.0,False
+5794,Earth,True,GS,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+64,Mars,False,ES,TRAPPIST-1e,29.0,False,793.0,0.0,2.0,253.0,0.0,False
+4929,Europa,True,FP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+3847,Earth,False,FS,TRAPPIST-1e,21.0,False,40.0,0.0,736.0,0.0,0.0,True
+4651,Mars,True,FS,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+6246,Earth,False,EP,55 Cancri e,41.0,False,635.0,0.0,7.0,0.0,0.0,True
+5358,Mars,True,ES,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+3463,Earth,True,GP,PSO J318.5-22,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+1565,Earth,False,ES,TRAPPIST-1e,20.0,False,0.0,1.0,0.0,905.0,0.0,False
+7562,Earth,False,FP,TRAPPIST-1e,18.0,False,595.0,134.0,7.0,0.0,0.0,False
+5765,Earth,False,EP,55 Cancri e,57.0,False,0.0,0.0,0.0,0.0,642.0,True
+5412,Europa,False,BP,TRAPPIST-1e,33.0,False,2233.0,6408.0,0.0,23.0,273.0,True
+4316,Earth,True,GP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+3994,Earth,False,GP,TRAPPIST-1e,29.0,False,13.0,0.0,664.0,74.0,101.0,False
+5252,Earth,False,ES,TRAPPIST-1e,34.0,False,170.0,1256.0,0.0,3926.0,7121.0,False
+5852,Earth,False,FS,TRAPPIST-1e,15.0,False,1042.0,0.0,36.0,0.0,0.0,False
+3137,Mars,True,FS,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+8131,Earth,True,GS,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+1518,Europa,True,EP,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,True
+8287,Mars,False,ES,TRAPPIST-1e,16.0,False,1032.0,0.0,267.0,0.0,0.0,False
+4152,Earth,True,GS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+8355,Earth,True,GS,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+735,Europa,False,ES,55 Cancri e,37.0,False,0.0,16.0,325.0,4476.0,1359.0,False
+882,Earth,False,GP,55 Cancri e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+7670,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+5877,Earth,False,GS,55 Cancri e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+6475,Earth,True,GP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,False
+5985,Earth,False,GS,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+3053,Earth,False,FP,TRAPPIST-1e,64.0,False,313.0,782.0,8.0,0.0,0.0,False
+4819,Earth,True,GS,PSO J318.5-22,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+798,Earth,False,GP,TRAPPIST-1e,27.0,False,663.0,1111.0,0.0,0.0,2.0,False
+8061,Earth,False,FP,TRAPPIST-1e,21.0,False,11.0,1475.0,0.0,0.0,0.0,True
+7062,Mars,False,FS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+4280,Earth,False,GS,TRAPPIST-1e,29.0,False,0.0,57.0,851.0,0.0,0.0,True
+2678,Earth,True,GP,PSO J318.5-22,61.0,False,0.0,0.0,0.0,0.0,0.0,True
+1175,Europa,False,CP,55 Cancri e,37.0,False,0.0,4677.0,0.0,115.0,223.0,True
+1381,Europa,False,CP,TRAPPIST-1e,33.0,False,0.0,774.0,0.0,6255.0,6.0,False
+2993,Mars,False,FP,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+3651,Earth,False,ES,55 Cancri e,19.0,False,0.0,47.0,0.0,263.0,384.0,True
+4292,Earth,False,GS,55 Cancri e,23.0,False,42.0,0.0,0.0,765.0,2.0,False
+1525,Earth,True,GS,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+3767,Europa,True,BS,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+7577,Europa,False,BP,55 Cancri e,44.0,False,9.0,2311.0,0.0,633.0,1.0,True
+5604,Earth,True,GP,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+5947,Earth,False,GS,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,True
+3091,Earth,False,FS,TRAPPIST-1e,40.0,False,666.0,4.0,83.0,0.0,50.0,True
+2902,Earth,True,GP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+816,Earth,True,GS,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+7861,Earth,False,GP,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,False
+7282,Europa,False,BS,55 Cancri e,39.0,False,258.0,1541.0,0.0,0.0,621.0,False
+2249,Earth,True,GP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4645,Europa,False,AS,55 Cancri e,58.0,False,0.0,3448.0,0.0,737.0,2193.0,False
+3680,Earth,True,GS,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+1034,Mars,False,FP,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,True
+7407,Earth,False,GP,TRAPPIST-1e,47.0,False,397.0,0.0,321.0,0.0,5.0,True
+4796,Mars,False,EP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,False
+3793,Earth,True,GP,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+8320,Earth,False,FP,TRAPPIST-1e,26.0,False,1471.0,0.0,7.0,5.0,0.0,True
+6162,Earth,False,FS,PSO J318.5-22,32.0,False,397.0,0.0,7.0,182.0,5.0,False
+1891,Earth,False,FS,PSO J318.5-22,36.0,False,0.0,809.0,0.0,86.0,0.0,False
+7074,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,732.0,2.0,13.0,47.0,True
+8654,Mars,False,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+5914,Mars,False,DP,TRAPPIST-1e,23.0,False,690.0,0.0,0.0,292.0,1596.0,False
+2138,Earth,False,FP,TRAPPIST-1e,37.0,False,0.0,8.0,70.0,360.0,258.0,False
+4597,Earth,False,FS,TRAPPIST-1e,28.0,False,647.0,1.0,32.0,71.0,140.0,True
+4239,Mars,False,DS,PSO J318.5-22,41.0,False,0.0,0.0,1127.0,8.0,0.0,True
+4232,Europa,False,CS,55 Cancri e,53.0,False,0.0,864.0,49.0,39.0,2376.0,True
+7919,Europa,True,CS,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+8240,Europa,True,DS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+3854,Earth,False,FP,TRAPPIST-1e,23.0,False,15.0,1.0,777.0,3.0,3.0,False
+5113,Mars,True,FP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,True
+6591,Earth,False,EP,TRAPPIST-1e,22.0,False,969.0,47.0,23.0,134.0,0.0,False
+1449,Europa,False,AS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+227,Mars,True,FP,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+7043,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,484.0,320.0,False
+5597,Europa,False,DS,TRAPPIST-1e,29.0,False,1.0,2809.0,97.0,61.0,1227.0,False
+3195,Earth,False,FS,55 Cancri e,15.0,False,350.0,0.0,91.0,198.0,0.0,False
+6630,Earth,True,GP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+2906,Mars,False,FS,TRAPPIST-1e,32.0,False,1087.0,0.0,71.0,0.0,0.0,False
+2200,Mars,False,DS,TRAPPIST-1e,45.0,True,773.0,82.0,0.0,6.0,0.0,False
+5639,Earth,False,FP,55 Cancri e,23.0,False,94.0,132.0,0.0,967.0,5.0,False
+4631,Mars,False,FS,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+7988,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,0.0,7.0,717.0,0.0,False
+4138,Europa,True,BP,55 Cancri e,47.0,False,0.0,0.0,0.0,0.0,0.0,True
+6567,Earth,False,GS,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,False
+6141,Earth,False,ES,TRAPPIST-1e,27.0,False,352.0,14.0,1.0,407.0,15.0,False
+4541,Earth,False,FP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,19.0,785.0,False
+8639,Earth,False,GP,TRAPPIST-1e,25.0,False,2.0,45.0,45.0,0.0,815.0,False
+3888,Earth,True,GP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,False
+7396,Earth,True,FP,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,True
+3417,Europa,False,BS,TRAPPIST-1e,21.0,False,4.0,0.0,137.0,1640.0,455.0,False
+3503,Earth,False,EP,55 Cancri e,45.0,False,824.0,2196.0,385.0,19.0,1113.0,True
+5362,Earth,False,GP,55 Cancri e,28.0,False,0.0,0.0,0.0,711.0,0.0,False
+6429,Earth,False,FP,TRAPPIST-1e,17.0,False,108.0,4.0,1898.0,13.0,0.0,False
+1701,Europa,False,BP,55 Cancri e,30.0,False,0.0,3722.0,4.0,140.0,4045.0,False
+8560,Earth,True,GP,PSO J318.5-22,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+2737,Earth,False,FP,PSO J318.5-22,23.0,False,5.0,308.0,363.0,7.0,0.0,True
+8396,Earth,False,FP,TRAPPIST-1e,27.0,False,1.0,0.0,0.0,20.0,948.0,False
+5792,Earth,False,GS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+2208,Earth,False,GP,TRAPPIST-1e,44.0,False,0.0,4.0,6.0,864.0,33.0,True
+2256,Earth,False,GP,TRAPPIST-1e,32.0,False,11.0,31.0,0.0,836.0,9.0,False
+6781,Earth,True,GP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+3804,Earth,True,GS,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+8534,Mars,False,DP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,False
+8609,Earth,False,FS,PSO J318.5-22,18.0,False,87.0,41.0,483.0,0.0,0.0,False
+4419,Europa,True,BS,55 Cancri e,65.0,False,0.0,0.0,0.0,0.0,0.0,True
+7234,Mars,False,EP,TRAPPIST-1e,27.0,False,1730.0,0.0,379.0,5.0,0.0,False
+7050,Mars,True,FP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+5908,Earth,False,FP,TRAPPIST-1e,20.0,False,379.0,0.0,29.0,39.0,91.0,False
+7852,Earth,True,GP,PSO J318.5-22,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+2619,Earth,False,FP,TRAPPIST-1e,23.0,False,18.0,2595.0,0.0,0.0,122.0,True
+495,Europa,False,BP,TRAPPIST-1e,34.0,False,98.0,715.0,29.0,5732.0,1902.0,False
+7014,Europa,False,BS,TRAPPIST-1e,33.0,False,0.0,397.0,0.0,1249.0,845.0,False
+4439,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,681.0,51.0,131.0,1.0,True
+8074,Earth,False,GS,TRAPPIST-1e,38.0,False,1739.0,0.0,0.0,83.0,0.0,False
+8395,Earth,False,GP,TRAPPIST-1e,35.0,False,503.0,236.0,2.0,0.0,68.0,False
+3337,Mars,False,DP,TRAPPIST-1e,40.0,False,787.0,0.0,88.0,0.0,0.0,False
+6393,Europa,False,CS,TRAPPIST-1e,25.0,True,0.0,4209.0,0.0,2.0,896.0,True
+408,Europa,True,BP,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+3740,Earth,True,GP,PSO J318.5-22,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+8431,Earth,True,GP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+1061,Earth,False,GS,TRAPPIST-1e,32.0,False,0.0,1755.0,0.0,0.0,67.0,True
+5481,Earth,False,FS,TRAPPIST-1e,33.0,False,36.0,0.0,0.0,1415.0,0.0,False
+6178,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,20.0,1540.0,80.0,512.0,False
+2744,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+5956,Earth,False,FS,TRAPPIST-1e,13.0,False,898.0,0.0,0.0,0.0,24.0,False
+535,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,334.0,310.0,0.0,0.0,True
+7934,Europa,False,ES,55 Cancri e,66.0,True,0.0,1828.0,1.0,1873.0,45.0,False
+6867,Europa,True,CS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+4633,Mars,False,FS,TRAPPIST-1e,24.0,False,623.0,0.0,501.0,304.0,776.0,False
+8601,Earth,True,GP,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+5984,Earth,False,FS,TRAPPIST-1e,55.0,False,0.0,242.0,0.0,479.0,3.0,False
+3603,Earth,True,GS,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+4590,Europa,True,BS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+8283,Earth,False,FP,TRAPPIST-1e,20.0,False,735.0,0.0,0.0,41.0,1.0,False
+2301,Earth,False,FP,TRAPPIST-1e,35.0,False,0.0,0.0,1.0,0.0,1264.0,False
+5440,Europa,False,AP,55 Cancri e,46.0,False,35.0,3953.0,0.0,2108.0,0.0,True
+5200,Earth,True,GS,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,True
+3765,Earth,False,FP,PSO J318.5-22,37.0,False,4.0,0.0,223.0,512.0,1.0,False
+5330,Earth,False,FS,TRAPPIST-1e,14.0,False,0.0,0.0,325.0,247.0,305.0,False
+2503,Earth,False,ES,55 Cancri e,27.0,False,339.0,104.0,116.0,160.0,0.0,True
+8537,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,1.0,48.0,True
+1644,Mars,False,DP,PSO J318.5-22,34.0,True,49.0,478.0,387.0,0.0,0.0,False
+5209,Earth,False,ES,TRAPPIST-1e,27.0,False,0.0,1.0,667.0,897.0,43.0,False
+1244,Mars,False,FP,TRAPPIST-1e,25.0,False,2508.0,0.0,23.0,0.0,67.0,False
+7341,Mars,True,FS,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,True
+2164,Europa,True,DP,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+2360,Europa,False,BS,TRAPPIST-1e,42.0,False,41.0,1912.0,0.0,1899.0,43.0,False
+4695,Europa,False,BP,TRAPPIST-1e,20.0,False,0.0,219.0,0.0,5.0,3283.0,False
+1971,Earth,True,GS,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,False
+5278,Earth,False,FP,TRAPPIST-1e,20.0,False,47.0,0.0,0.0,0.0,2711.0,False
+2714,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+437,Mars,True,FS,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+6269,Europa,False,CP,55 Cancri e,45.0,False,0.0,313.0,1791.0,414.0,1675.0,False
+6865,Earth,False,FS,TRAPPIST-1e,22.0,False,401.0,0.0,196.0,0.0,126.0,False
+7157,Europa,True,BS,55 Cancri e,58.0,False,0.0,0.0,0.0,0.0,0.0,True
+7419,Earth,False,GP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+2232,Earth,False,EP,TRAPPIST-1e,20.0,False,768.0,19.0,0.0,1.0,0.0,False
+7550,Earth,False,FS,TRAPPIST-1e,53.0,False,0.0,0.0,716.0,0.0,0.0,True
+906,Europa,False,BS,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+7597,Europa,False,DP,55 Cancri e,36.0,False,0.0,4260.0,0.0,0.0,1678.0,True
+6875,Earth,True,GS,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+5273,Mars,False,EP,TRAPPIST-1e,22.0,False,804.0,0.0,378.0,0.0,0.0,False
+2440,Earth,False,FP,TRAPPIST-1e,17.0,False,0.0,604.0,0.0,0.0,218.0,False
+3153,Earth,False,GP,PSO J318.5-22,37.0,False,308.0,35.0,415.0,10.0,0.0,True
+698,Earth,False,ES,TRAPPIST-1e,14.0,False,7.0,781.0,0.0,0.0,0.0,True
+2838,Earth,True,GP,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+4250,Earth,False,GP,TRAPPIST-1e,49.0,False,820.0,1.0,690.0,292.0,13.0,False
+8003,Earth,True,GS,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+2879,Mars,True,DP,55 Cancri e,56.0,False,0.0,0.0,0.0,0.0,0.0,True
+1870,Earth,False,GS,PSO J318.5-22,30.0,False,231.0,0.0,0.0,274.0,26.0,False
+8662,Earth,False,FP,TRAPPIST-1e,62.0,False,102.0,696.0,0.0,0.0,0.0,True
+8188,Earth,False,FP,TRAPPIST-1e,38.0,False,22.0,9.0,40.0,732.0,0.0,False
+7212,Mars,False,FS,TRAPPIST-1e,46.0,False,5888.0,0.0,13.0,12.0,0.0,False
+5502,Earth,False,FS,55 Cancri e,24.0,False,0.0,1369.0,848.0,0.0,0.0,True
+8191,Europa,True,DS,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+832,Europa,False,CP,55 Cancri e,27.0,False,1.0,12804.0,0.0,10.0,52.0,True
+6182,Earth,False,GP,55 Cancri e,12.0,False,0.0,0.0,0.0,0.0,0.0,False
+5255,Earth,False,FP,TRAPPIST-1e,14.0,False,30.0,757.0,115.0,0.0,0.0,True
+1116,Mars,False,FP,TRAPPIST-1e,23.0,False,60.0,1356.0,0.0,0.0,0.0,True
+6159,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,31.0,2076.0,77.0,0.0,True
+4991,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,0.0,708.0,101.0,0.0,True
+4162,Europa,True,BS,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,True
+6297,Europa,False,BP,TRAPPIST-1e,18.0,False,4.0,1337.0,0.0,0.0,182.0,False
+8126,Mars,False,FP,TRAPPIST-1e,34.0,False,368.0,499.0,1729.0,0.0,2.0,False
+8068,Earth,True,GS,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+7258,Earth,False,FP,TRAPPIST-1e,23.0,False,1.0,0.0,0.0,237.0,553.0,True
+5566,Europa,False,BP,55 Cancri e,43.0,False,0.0,1706.0,0.0,274.0,2056.0,False
+5080,Earth,False,FS,PSO J318.5-22,24.0,False,1.0,0.0,11.0,0.0,734.0,False
+2126,Europa,False,BS,55 Cancri e,47.0,False,0.0,140.0,0.0,85.0,3970.0,False
+3028,Earth,True,GP,PSO J318.5-22,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+1294,Europa,False,CP,TRAPPIST-1e,43.0,False,0.0,2801.0,537.0,42.0,144.0,True
+7245,Mars,False,FP,TRAPPIST-1e,41.0,False,688.0,31.0,1880.0,0.0,0.0,False
+7414,Earth,False,EP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,365.0,1216.0,False
+5624,Earth,False,FS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+846,Earth,True,GS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+2436,Europa,True,BS,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+8214,Earth,False,GS,TRAPPIST-1e,30.0,False,0.0,114.0,0.0,726.0,67.0,False
+2052,Europa,True,BP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+40,Earth,True,GP,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,False
+6494,Earth,False,FS,PSO J318.5-22,35.0,False,22.0,0.0,1179.0,0.0,33.0,False
+2110,Earth,False,FP,TRAPPIST-1e,42.0,False,0.0,0.0,32.0,772.0,0.0,False
+5124,Earth,False,FS,PSO J318.5-22,37.0,False,0.0,0.0,559.0,11.0,0.0,True
+8253,Europa,True,BS,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2876,Mars,False,DP,TRAPPIST-1e,22.0,False,1173.0,0.0,0.0,9.0,0.0,False
+8270,Mars,True,FS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+1985,Earth,True,GP,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+1940,Earth,False,FS,55 Cancri e,29.0,False,270.0,0.0,0.0,25.0,343.0,False
+7338,Earth,False,EP,TRAPPIST-1e,15.0,False,0.0,6.0,0.0,981.0,0.0,False
+6579,Europa,True,BS,55 Cancri e,57.0,False,0.0,0.0,0.0,0.0,0.0,True
+5069,Mars,False,EP,TRAPPIST-1e,30.0,False,138.0,0.0,208.0,952.0,0.0,False
+2194,Earth,False,GP,55 Cancri e,31.0,False,1.0,0.0,2.0,605.0,0.0,False
+1664,Earth,False,FS,55 Cancri e,21.0,False,112.0,0.0,0.0,0.0,1333.0,False
+8615,Mars,True,FS,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+2065,Earth,False,FS,TRAPPIST-1e,15.0,False,0.0,2347.0,0.0,380.0,0.0,True
+7647,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,622.0,8.0,False
+2842,Earth,False,EP,TRAPPIST-1e,35.0,False,1609.0,0.0,0.0,0.0,0.0,False
+7205,Europa,True,BS,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+1904,Europa,True,BS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+7011,Earth,True,GS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+8538,Earth,False,EP,55 Cancri e,13.0,False,0.0,1501.0,23.0,5.0,163.0,True
+1082,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+5585,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+4095,Europa,False,CS,TRAPPIST-1e,27.0,False,0.0,2717.0,0.0,0.0,986.0,True
+2015,Earth,True,GP,PSO J318.5-22,38.0,False,0.0,0.0,0.0,0.0,0.0,False
+7580,Earth,False,FP,TRAPPIST-1e,30.0,False,4.0,0.0,442.0,2441.0,0.0,False
+958,Mars,True,FP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+7979,Mars,True,FS,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+3949,Mars,False,DP,TRAPPIST-1e,34.0,True,992.0,0.0,14.0,0.0,0.0,False
+2151,Europa,False,CP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2379,Mars,False,FP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+1725,Europa,False,CP,55 Cancri e,48.0,False,140.0,127.0,0.0,4102.0,521.0,False
+99,Mars,False,DS,TRAPPIST-1e,21.0,False,1743.0,5.0,17.0,0.0,0.0,False
+3199,Europa,True,BS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+2167,Mars,False,FP,TRAPPIST-1e,29.0,False,1365.0,0.0,791.0,210.0,0.0,False
+7207,Earth,False,GP,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+4671,Earth,True,GP,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+1788,Europa,True,AP,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+2437,Europa,False,BS,55 Cancri e,35.0,False,0.0,1471.0,2.0,445.0,533.0,True
+3929,Earth,True,GS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+2911,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+4897,Mars,False,DP,TRAPPIST-1e,21.0,False,2206.0,0.0,353.0,0.0,19.0,False
+6872,Earth,False,GS,55 Cancri e,36.0,False,207.0,0.0,450.0,94.0,0.0,True
+561,Mars,False,FP,TRAPPIST-1e,18.0,False,5.0,25.0,616.0,0.0,1042.0,False
+8098,Earth,True,GP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+6997,Earth,False,ES,TRAPPIST-1e,43.0,False,20.0,0.0,726.0,0.0,0.0,False
+2117,Earth,False,GP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+4559,Earth,False,GS,TRAPPIST-1e,55.0,False,330.0,114.0,0.0,2.0,0.0,True
+5180,Earth,True,GP,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6256,Earth,True,GP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+3850,Europa,False,BP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+6195,Mars,False,FS,TRAPPIST-1e,31.0,False,1979.0,0.0,2.0,112.0,0.0,False
+5302,Earth,True,GP,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,False
+1992,Earth,False,FP,PSO J318.5-22,13.0,False,0.0,2.0,480.0,10.0,176.0,False
+8653,Mars,True,FP,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+5096,Earth,False,FP,TRAPPIST-1e,61.0,False,0.0,53.0,813.0,3.0,0.0,False
+4073,Earth,True,GS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+3399,Earth,False,FS,TRAPPIST-1e,17.0,False,0.0,432.0,0.0,3003.0,0.0,False
+3510,Earth,False,GP,55 Cancri e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+4392,Earth,True,GS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+1184,Mars,True,FS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+2484,Mars,True,ES,PSO J318.5-22,71.0,False,0.0,0.0,0.0,0.0,0.0,True
+7540,Mars,False,FS,TRAPPIST-1e,39.0,False,1369.0,259.0,960.0,1.0,29.0,False
+2933,Earth,False,EP,TRAPPIST-1e,20.0,False,4.0,353.0,193.0,241.0,0.0,False
+2554,Earth,True,GP,PSO J318.5-22,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+4980,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,491.0,0.0,61.0,0.0,True
+2033,Earth,True,GP,PSO J318.5-22,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+8215,Earth,False,GS,TRAPPIST-1e,20.0,False,0.0,91.0,2.0,623.0,93.0,False
+3823,Europa,False,AS,TRAPPIST-1e,36.0,False,0.0,2177.0,0.0,1097.0,144.0,True
+5331,Earth,False,GS,TRAPPIST-1e,26.0,False,178.0,0.0,3.0,0.0,704.0,True
+5965,Europa,False,CS,TRAPPIST-1e,33.0,False,2.0,4742.0,0.0,34.0,0.0,True
+7663,Europa,True,CS,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+7721,Earth,False,FS,TRAPPIST-1e,20.0,False,749.0,16.0,0.0,0.0,29.0,False
+7933,Europa,False,CP,55 Cancri e,31.0,True,8243.0,280.0,0.0,3220.0,2285.0,False
+4384,Earth,True,GP,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+6741,Mars,False,FS,TRAPPIST-1e,24.0,False,1058.0,0.0,0.0,280.0,0.0,False
+2878,Mars,True,DP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+8242,Mars,False,FS,TRAPPIST-1e,32.0,False,81.0,0.0,1363.0,0.0,0.0,True
+5530,Earth,True,GS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+7317,Mars,False,FP,TRAPPIST-1e,16.0,False,1095.0,0.0,54.0,0.0,0.0,False
+2773,Earth,False,FS,PSO J318.5-22,49.0,False,0.0,0.0,0.0,160.0,528.0,False
+2567,Earth,False,ES,PSO J318.5-22,39.0,False,0.0,0.0,0.0,0.0,907.0,False
+7404,Earth,True,GS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+4238,Mars,False,ES,TRAPPIST-1e,48.0,False,137.0,0.0,877.0,0.0,0.0,True
+5608,Earth,True,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6921,Europa,False,EP,TRAPPIST-1e,33.0,False,0.0,2107.0,0.0,15586.0,473.0,False
+1217,Europa,True,AS,PSO J318.5-22,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+7560,Earth,True,GP,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,False
+6800,Earth,False,GS,TRAPPIST-1e,18.0,False,3.0,688.0,0.0,0.0,23.0,True
+4640,Mars,False,FP,TRAPPIST-1e,35.0,False,988.0,0.0,830.0,2.0,0.0,False
+8262,Earth,False,FP,TRAPPIST-1e,29.0,False,128.0,0.0,130.0,132.0,473.0,False
+2666,Europa,True,CS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+1966,Mars,False,DS,TRAPPIST-1e,45.0,False,10.0,1095.0,1474.0,0.0,0.0,True
+1939,Europa,False,DS,TRAPPIST-1e,23.0,False,9.0,4081.0,0.0,0.0,16.0,True
+4046,Mars,True,FS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+7572,Europa,True,DS,55 Cancri e,33.0,True,0.0,0.0,0.0,0.0,0.0,True
+3114,Earth,False,GS,TRAPPIST-1e,32.0,False,0.0,810.0,0.0,0.0,2.0,False
+7278,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+4972,Earth,True,GP,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+7254,Earth,True,EP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+8546,Mars,True,ES,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,True
+3966,Earth,False,FS,55 Cancri e,24.0,False,0.0,0.0,1435.0,10.0,0.0,True
+2561,Earth,False,FS,55 Cancri e,29.0,False,143.0,548.0,0.0,0.0,0.0,True
+5981,Earth,False,GS,55 Cancri e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+6651,Earth,True,GS,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+1888,Earth,False,FS,TRAPPIST-1e,19.0,False,1139.0,18.0,0.0,0.0,671.0,True
+3387,Mars,True,DP,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+1933,Europa,False,CP,TRAPPIST-1e,27.0,True,0.0,0.0,72.0,668.0,2713.0,False
+3111,Europa,False,CS,55 Cancri e,19.0,False,0.0,4494.0,0.0,11.0,3460.0,True
+1585,Earth,False,GS,TRAPPIST-1e,34.0,False,1.0,89.0,0.0,793.0,0.0,False
+2669,Earth,False,FS,PSO J318.5-22,18.0,False,154.0,22.0,77.0,1053.0,0.0,True
+4422,Mars,False,FS,TRAPPIST-1e,21.0,False,3148.0,0.0,1.0,0.0,0.0,False
+6643,Earth,False,FS,55 Cancri e,16.0,False,0.0,17.0,1211.0,0.0,25.0,True
+3339,Mars,False,DP,PSO J318.5-22,22.0,False,193.0,1.0,640.0,15.0,30.0,True
+5286,Mars,False,FS,TRAPPIST-1e,15.0,False,643.0,0.0,45.0,0.0,10.0,False
+1691,Earth,False,GS,55 Cancri e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+3594,Europa,True,DS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+4469,Mars,False,FP,PSO J318.5-22,56.0,False,233.0,0.0,1356.0,0.0,171.0,False
+256,Earth,False,FP,TRAPPIST-1e,22.0,False,146.0,654.0,1.0,0.0,2.0,True
+6474,Earth,False,GP,TRAPPIST-1e,49.0,False,355.0,449.0,8.0,0.0,0.0,False
+5248,Earth,False,FS,TRAPPIST-1e,21.0,False,958.0,1668.0,82.0,0.0,78.0,True
+6702,Earth,True,GS,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+6870,Earth,True,GP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+8206,Earth,False,FP,TRAPPIST-1e,17.0,False,0.0,810.0,66.0,0.0,0.0,True
+4454,Europa,False,CP,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+7859,Earth,False,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+4527,Europa,False,CS,55 Cancri e,49.0,False,0.0,7762.0,2.0,0.0,98.0,True
+1689,Earth,False,ES,TRAPPIST-1e,39.0,False,1.0,275.0,33.0,376.0,105.0,False
+7519,Earth,True,GP,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+3216,Earth,False,GS,TRAPPIST-1e,14.0,False,0.0,0.0,533.0,266.0,93.0,False
+2108,Earth,False,FS,TRAPPIST-1e,29.0,False,0.0,0.0,885.0,0.0,0.0,True
+6234,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,666.0,0.0,0.0,58.0,False
+803,Europa,False,BS,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+7115,Europa,True,BS,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,True
+4729,Earth,False,FP,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+7355,Europa,True,BP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+839,Earth,False,FP,TRAPPIST-1e,18.0,False,200.0,124.0,0.0,413.0,0.0,True
+4861,Earth,False,EP,TRAPPIST-1e,20.0,False,949.0,0.0,0.0,5.0,0.0,False
+3351,Europa,True,DP,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+1079,Earth,False,GS,55 Cancri e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+2987,Mars,True,FS,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+3522,Earth,False,FS,TRAPPIST-1e,48.0,False,0.0,21.0,0.0,0.0,786.0,True
+7686,Europa,False,CS,55 Cancri e,23.0,False,0.0,395.0,0.0,6.0,0.0,False
+208,Mars,False,ES,TRAPPIST-1e,16.0,False,915.0,0.0,221.0,234.0,0.0,False
+3842,Earth,True,GS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+3862,Earth,False,GP,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,False
+6240,Earth,False,FS,TRAPPIST-1e,62.0,False,94.0,267.0,2341.0,94.0,0.0,True
+2142,Europa,False,CP,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,8195.0,False
+1902,Earth,False,FP,TRAPPIST-1e,21.0,False,6.0,133.0,503.0,0.0,2.0,False
+242,Europa,False,ES,TRAPPIST-1e,26.0,False,0.0,4810.0,0.0,981.0,2054.0,False
+4067,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,35.0,661.0,0.0,63.0,True
+419,Europa,True,BS,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+3084,Mars,True,FS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+2839,Earth,False,EP,TRAPPIST-1e,19.0,False,1.0,0.0,0.0,450.0,254.0,False
+231,Mars,False,DP,TRAPPIST-1e,21.0,False,2947.0,0.0,287.0,27.0,0.0,False
+7413,Earth,False,FP,TRAPPIST-1e,28.0,False,589.0,57.0,0.0,0.0,0.0,False
+6082,Earth,True,GP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+1864,Earth,True,GP,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,False
+5068,Mars,False,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+4380,Earth,False,FS,TRAPPIST-1e,24.0,False,703.0,0.0,0.0,0.0,0.0,False
+1596,Earth,True,GS,PSO J318.5-22,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+1408,Earth,False,GS,TRAPPIST-1e,19.0,False,73.0,0.0,0.0,813.0,2.0,False
+7080,Earth,False,FP,TRAPPIST-1e,19.0,False,122.0,2.0,0.0,480.0,565.0,True
+3637,Earth,True,GS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3388,Mars,True,DP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+7091,Earth,False,FS,PSO J318.5-22,19.0,False,10.0,24.0,0.0,0.0,565.0,False
+1746,Europa,False,AP,TRAPPIST-1e,35.0,True,0.0,1.0,0.0,0.0,3156.0,False
+1450,Earth,False,GS,TRAPPIST-1e,46.0,False,0.0,0.0,533.0,277.0,0.0,False
+2055,Mars,False,FP,TRAPPIST-1e,29.0,False,1443.0,1108.0,47.0,0.0,0.0,False
+1050,Earth,True,GS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+7556,Earth,False,GP,TRAPPIST-1e,20.0,False,721.0,122.0,0.0,0.0,0.0,False
+5654,Earth,False,ES,TRAPPIST-1e,13.0,False,28.0,396.0,367.0,0.0,0.0,False
+4843,Mars,False,DP,TRAPPIST-1e,32.0,False,382.0,0.0,477.0,22.0,2.0,True
+3595,Earth,False,FP,TRAPPIST-1e,43.0,False,0.0,0.0,7.0,0.0,963.0,False
+4962,Europa,False,CS,TRAPPIST-1e,25.0,False,0.0,4313.0,0.0,175.0,60.0,True
+8284,Earth,False,EP,TRAPPIST-1e,23.0,False,0.0,1204.0,40.0,0.0,375.0,False
+3946,Earth,True,GS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+1576,Mars,False,FS,55 Cancri e,21.0,False,1481.0,0.0,881.0,0.0,0.0,False
+2852,Europa,False,CS,55 Cancri e,50.0,False,0.0,1547.0,0.0,1784.0,1.0,True
+8465,Europa,True,AS,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+1648,Earth,False,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,2.0,807.0,False
+7622,Earth,True,GS,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+3554,Earth,False,FP,TRAPPIST-1e,32.0,False,0.0,600.0,80.0,0.0,18.0,False
+3007,Earth,True,GP,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+7056,Earth,False,FS,TRAPPIST-1e,37.0,False,1442.0,4.0,0.0,3.0,0.0,False
+4150,Earth,True,GP,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+1932,Europa,True,CP,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+1834,Earth,False,GP,TRAPPIST-1e,35.0,False,302.0,6.0,0.0,6.0,613.0,True
+4086,Earth,False,FS,55 Cancri e,27.0,False,0.0,14.0,0.0,734.0,331.0,True
+853,Earth,False,FP,PSO J318.5-22,26.0,False,18.0,84.0,93.0,886.0,289.0,False
+103,Europa,False,FP,TRAPPIST-1e,32.0,False,0.0,410.0,6.0,3929.0,764.0,False
+1539,Earth,False,ES,TRAPPIST-1e,61.0,False,1215.0,32.0,0.0,0.0,362.0,False
+4113,Earth,False,FP,TRAPPIST-1e,48.0,False,383.0,0.0,0.0,393.0,10.0,True
+233,Earth,True,GS,PSO J318.5-22,47.0,False,0.0,0.0,0.0,0.0,0.0,False
+8480,Earth,False,FS,TRAPPIST-1e,42.0,False,815.0,19.0,2.0,11.0,17.0,False
+7262,Earth,True,GS,PSO J318.5-22,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4268,Mars,False,FP,PSO J318.5-22,20.0,True,14.0,0.0,59.0,1777.0,0.0,False
+675,Earth,False,FP,55 Cancri e,43.0,False,0.0,0.0,722.0,0.0,0.0,True
+3477,Earth,True,GP,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,False
+1278,Mars,True,FS,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+7420,Earth,False,GP,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,True
+1016,Earth,False,FS,TRAPPIST-1e,31.0,False,0.0,1.0,0.0,16.0,843.0,False
+696,Earth,False,FS,TRAPPIST-1e,23.0,False,139.0,0.0,1.0,152.0,354.0,True
+6738,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+8103,Europa,True,AS,55 Cancri e,29.0,True,0.0,0.0,0.0,0.0,0.0,True
+5185,Mars,False,FP,PSO J318.5-22,43.0,False,817.0,0.0,617.0,0.0,0.0,False
+8479,Mars,False,DS,TRAPPIST-1e,26.0,False,887.0,6.0,15.0,148.0,0.0,False
+4751,Earth,False,EP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+720,Earth,True,GS,PSO J318.5-22,30.0,False,0.0,0.0,0.0,0.0,0.0,False
+8077,Earth,True,FP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+590,Earth,False,GS,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+1056,Mars,True,ES,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,False
+6714,Mars,True,FP,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+6211,Earth,True,GP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,False
+1019,Earth,False,GP,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,False
+6527,Mars,False,FS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+611,Earth,False,FP,TRAPPIST-1e,63.0,False,0.0,123.0,956.0,25.0,0.0,True
+2935,Europa,False,BS,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+6656,Mars,False,ES,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,False
+2049,Earth,False,FP,TRAPPIST-1e,27.0,False,0.0,280.0,119.0,646.0,5.0,True
+7051,Earth,False,FP,TRAPPIST-1e,19.0,False,2110.0,0.0,0.0,0.0,1.0,False
+97,Earth,True,GS,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+517,Europa,False,CP,TRAPPIST-1e,37.0,False,0.0,6506.0,0.0,764.0,0.0,True
+151,Earth,True,GP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+5103,Earth,False,FS,55 Cancri e,28.0,False,0.0,9.0,0.0,1114.0,5.0,False
+5537,Mars,False,DS,PSO J318.5-22,34.0,False,162.0,0.0,690.0,28.0,0.0,False
+6551,Mars,True,FS,TRAPPIST-1e,49.0,False,0.0,0.0,0.0,0.0,0.0,True
+5237,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,786.0,0.0,11.0,83.0,True
+6826,Mars,True,FP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+2210,Mars,True,FP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,False
+8506,Earth,False,FP,TRAPPIST-1e,22.0,False,34.0,0.0,0.0,711.0,0.0,False
+2397,Earth,False,FS,TRAPPIST-1e,18.0,False,1153.0,0.0,0.0,1409.0,195.0,False
+2007,Mars,True,FS,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+1389,Europa,False,BS,TRAPPIST-1e,26.0,False,0.0,533.0,2119.0,10.0,504.0,True
+3957,Earth,False,EP,TRAPPIST-1e,31.0,False,553.0,224.0,9.0,1.0,0.0,False
+8468,Earth,True,FP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+8545,Mars,True,EP,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,True
+5713,Mars,True,FS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+8195,Earth,False,FS,TRAPPIST-1e,22.0,False,804.0,0.0,0.0,0.0,0.0,False
+5442,Earth,False,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+1954,Earth,False,FP,TRAPPIST-1e,22.0,False,8.0,0.0,801.0,0.0,12.0,True
+8573,Earth,True,GS,PSO J318.5-22,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+1478,Earth,False,FP,TRAPPIST-1e,22.0,False,1018.0,100.0,0.0,9.0,0.0,False
+2489,Earth,False,GP,TRAPPIST-1e,20.0,False,4.0,790.0,0.0,15.0,0.0,False
+6561,Europa,True,CS,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+890,Earth,False,ES,TRAPPIST-1e,28.0,False,0.0,631.0,0.0,5.0,0.0,True
+8348,Earth,False,EP,TRAPPIST-1e,24.0,False,0.0,0.0,3.0,80.0,0.0,True
+143,Earth,False,GS,TRAPPIST-1e,57.0,False,50.0,1688.0,0.0,0.0,135.0,True
+8000,Mars,False,FP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+6606,Europa,True,CP,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+195,Earth,True,GP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+3221,Europa,True,BP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+6377,Mars,False,DP,55 Cancri e,16.0,False,1337.0,0.0,2614.0,0.0,0.0,False
+6469,Europa,False,AS,55 Cancri e,73.0,False,181.0,1.0,840.0,2618.0,1949.0,False
+7739,Earth,False,GS,55 Cancri e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+5472,Europa,True,BS,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+7907,Europa,False,CS,TRAPPIST-1e,50.0,False,0.0,3070.0,0.0,44.0,562.0,True
+1872,Earth,False,GS,TRAPPIST-1e,42.0,False,37.0,1670.0,0.0,0.0,0.0,True
+4022,Mars,True,FP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+3582,Mars,True,FP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2338,Europa,True,CP,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+1501,Earth,False,ES,TRAPPIST-1e,23.0,False,5.0,51.0,0.0,732.0,0.0,False
+6181,Earth,True,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+3506,Earth,False,FS,TRAPPIST-1e,20.0,False,0.0,0.0,717.0,0.0,0.0,True
+8340,Earth,False,FS,55 Cancri e,19.0,False,720.0,2.0,0.0,0.0,0.0,False
+1371,Europa,False,CS,TRAPPIST-1e,30.0,False,50.0,1248.0,0.0,1.0,912.0,True
+5451,Mars,False,DS,TRAPPIST-1e,27.0,False,89.0,888.0,51.0,5.0,0.0,True
+2622,Earth,False,EP,TRAPPIST-1e,33.0,False,0.0,0.0,154.0,22.0,820.0,False
+422,Earth,True,GP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+7033,Earth,True,GS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+3846,Earth,True,GS,PSO J318.5-22,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+4543,Earth,False,EP,TRAPPIST-1e,37.0,False,542.0,440.0,1.0,0.0,0.0,False
+2493,Europa,False,BP,55 Cancri e,34.0,False,3551.0,1284.0,1865.0,90.0,0.0,True
+1574,Mars,False,FS,TRAPPIST-1e,31.0,False,2436.0,0.0,147.0,16.0,0.0,False
+661,Mars,True,FS,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+7447,Mars,False,DS,TRAPPIST-1e,55.0,False,376.0,0.0,858.0,0.0,31.0,True
+3494,Earth,True,GP,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+2704,Earth,False,FP,PSO J318.5-22,24.0,False,0.0,0.0,443.0,244.0,1.0,False
+2804,Earth,False,GS,TRAPPIST-1e,43.0,False,45.0,8.0,0.0,607.0,44.0,False
+6991,Europa,True,BP,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+7869,Europa,False,DP,TRAPPIST-1e,32.0,False,0.0,13.0,0.0,2148.0,319.0,False
+3479,Earth,False,GS,TRAPPIST-1e,19.0,False,0.0,827.0,5.0,55.0,0.0,False
+6819,Mars,False,FS,TRAPPIST-1e,29.0,False,1030.0,0.0,158.0,0.0,28.0,False
+4323,Europa,False,CS,55 Cancri e,24.0,False,25.0,3291.0,0.0,6075.0,179.0,False
+5139,Europa,True,BP,TRAPPIST-1e,51.0,False,0.0,0.0,0.0,0.0,0.0,True
+3758,Mars,True,FS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+1533,Europa,False,CP,TRAPPIST-1e,29.0,False,0.0,930.0,0.0,2113.0,98.0,False
+1189,Europa,False,CP,55 Cancri e,43.0,False,1365.0,3106.0,0.0,50.0,2313.0,False
+3747,Earth,False,GS,TRAPPIST-1e,45.0,False,1796.0,0.0,4.0,0.0,5.0,False
+7592,Europa,True,BS,55 Cancri e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+3781,Earth,True,GS,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+5250,Europa,True,BP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+5303,Earth,True,GS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+6963,Europa,False,BS,55 Cancri e,43.0,True,0.0,486.0,0.0,0.0,2470.0,False
+4943,Earth,False,ES,TRAPPIST-1e,21.0,False,38.0,1.0,591.0,1.0,31.0,True
+8220,Earth,False,GP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+7061,Mars,True,FS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+3485,Europa,True,BP,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+5179,Earth,True,GP,TRAPPIST-1e,49.0,False,0.0,0.0,0.0,0.0,0.0,False
+3207,Europa,False,BS,TRAPPIST-1e,21.0,False,0.0,2834.0,0.0,414.0,558.0,True
+1095,Europa,False,BS,55 Cancri e,19.0,False,0.0,1291.0,0.0,16139.0,687.0,False
+2290,Earth,True,GS,TRAPPIST-1e,69.0,False,0.0,0.0,0.0,0.0,0.0,False
+7251,Earth,False,FS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,746.0,1.0,False
+4182,Earth,False,GS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+3843,Europa,True,BP,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+6414,Earth,True,GS,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+4345,Europa,False,CS,TRAPPIST-1e,45.0,False,0.0,7484.0,465.0,14.0,610.0,True
+6461,Earth,False,FP,TRAPPIST-1e,31.0,False,32.0,2667.0,0.0,0.0,9.0,True
+4799,Earth,False,FS,55 Cancri e,29.0,False,0.0,0.0,22.0,738.0,0.0,False
+7893,Earth,True,GS,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+7246,Europa,False,AS,TRAPPIST-1e,44.0,False,18.0,1451.0,0.0,279.0,64.0,False
+7974,Europa,True,BS,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+2945,Earth,False,GS,PSO J318.5-22,60.0,False,0.0,31.0,6.0,223.0,356.0,False
+7323,Europa,True,BS,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+288,Europa,True,BS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+4955,Earth,False,ES,TRAPPIST-1e,35.0,False,35.0,0.0,14.0,0.0,816.0,True
+8414,Earth,True,GS,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+778,Earth,True,GP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,False
+2039,Mars,False,FS,PSO J318.5-22,46.0,False,607.0,0.0,41.0,334.0,251.0,False
+8646,Earth,False,FS,TRAPPIST-1e,22.0,False,676.0,0.0,13.0,0.0,12.0,False
+363,Mars,False,DS,TRAPPIST-1e,30.0,True,1056.0,0.0,0.0,0.0,0.0,False
+6292,Earth,True,GS,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+3815,Earth,False,EP,TRAPPIST-1e,23.0,False,1616.0,0.0,1.0,0.0,2.0,False
+754,Earth,True,GP,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+3531,Mars,False,FS,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+2932,Earth,False,FP,TRAPPIST-1e,22.0,False,0.0,1.0,379.0,0.0,336.0,False
+900,Earth,True,GP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+161,Earth,False,FS,TRAPPIST-1e,37.0,False,17.0,146.0,426.0,0.0,232.0,True
+6760,Earth,True,GP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+1027,Mars,False,DP,TRAPPIST-1e,23.0,False,1862.0,59.0,18.0,192.0,0.0,True
+5904,Earth,False,DP,TRAPPIST-1e,18.0,False,102.0,3.0,186.0,2287.0,0.0,False
+2219,Earth,False,FP,TRAPPIST-1e,35.0,False,194.0,0.0,678.0,0.0,0.0,False
+6594,Earth,False,GS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,804.0,5.0,False
+3311,Mars,False,DP,TRAPPIST-1e,37.0,False,78.0,0.0,0.0,2948.0,0.0,False
+4192,Earth,False,FP,TRAPPIST-1e,27.0,False,110.0,0.0,638.0,0.0,0.0,False
+2262,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+8236,Earth,False,FS,PSO J318.5-22,18.0,False,0.0,3.0,110.0,588.0,0.0,False
+480,Earth,False,FP,TRAPPIST-1e,29.0,False,1445.0,0.0,1.0,2.0,73.0,False
+5669,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,14.0,631.0,False
+6091,Earth,False,FS,55 Cancri e,24.0,False,14.0,0.0,1.0,528.0,109.0,True
+1655,Earth,False,FS,TRAPPIST-1e,67.0,False,26.0,809.0,0.0,39.0,26.0,False
+711,Europa,True,AP,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+5223,Mars,True,FP,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+4066,Earth,True,GS,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+2171,Earth,False,GS,TRAPPIST-1e,39.0,False,0.0,454.0,0.0,454.0,0.0,False
+6101,Earth,False,GP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+2529,Earth,False,GS,TRAPPIST-1e,18.0,False,130.0,0.0,13.0,191.0,554.0,False
+1238,Mars,False,FP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+952,Earth,True,GS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+4911,Earth,True,GP,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,False
+6407,Earth,False,GP,PSO J318.5-22,16.0,False,399.0,0.0,3.0,0.0,137.0,False
+1402,Earth,False,FP,PSO J318.5-22,39.0,False,0.0,19.0,733.0,0.0,701.0,False
+8372,Earth,True,GP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+4592,Earth,False,GS,TRAPPIST-1e,52.0,False,44.0,0.0,0.0,42.0,1731.0,False
+3044,Europa,False,FP,55 Cancri e,52.0,False,13.0,6074.0,0.0,10385.0,299.0,False
+8596,Earth,False,FS,TRAPPIST-1e,24.0,False,0.0,537.0,0.0,5.0,197.0,True
+1255,Earth,True,GP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+2375,Europa,True,BP,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+1650,Earth,False,GP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+4142,Mars,True,FS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+6005,Earth,False,FS,TRAPPIST-1e,25.0,False,106.0,0.0,0.0,0.0,925.0,False
+6716,Earth,False,FP,TRAPPIST-1e,24.0,False,590.0,0.0,1.0,168.0,16.0,False
+4045,Mars,False,FS,55 Cancri e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+8556,Earth,False,ES,TRAPPIST-1e,13.0,False,590.0,0.0,32.0,363.0,0.0,False
+5565,Europa,False,BP,55 Cancri e,35.0,False,4.0,3857.0,324.0,899.0,375.0,False
+6637,Mars,False,FP,TRAPPIST-1e,24.0,False,2261.0,0.0,95.0,10.0,0.0,False
+3432,Mars,True,EP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,False
+4127,Earth,False,FS,TRAPPIST-1e,55.0,False,134.0,935.0,0.0,6.0,394.0,False
+1210,Earth,False,GS,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+1254,Mars,False,FS,TRAPPIST-1e,19.0,False,1507.0,0.0,260.0,0.0,0.0,False
+1191,Earth,False,EP,TRAPPIST-1e,51.0,False,0.0,1.0,0.0,51.0,945.0,False
+6809,Earth,True,GS,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+2572,Earth,False,EP,TRAPPIST-1e,33.0,False,0.0,0.0,170.0,14.0,810.0,False
+2615,Europa,True,AP,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+998,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,773.0,48.0,0.0,149.0,False
+2416,Earth,False,GP,TRAPPIST-1e,28.0,False,804.0,2.0,13.0,0.0,62.0,False
+4331,Mars,False,FS,TRAPPIST-1e,42.0,False,36.0,0.0,2554.0,0.0,9.0,True
+5583,Europa,True,ES,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,True
+8237,Earth,False,FS,TRAPPIST-1e,27.0,False,1771.0,0.0,242.0,0.0,37.0,False
+1307,Earth,False,GP,TRAPPIST-1e,39.0,False,705.0,3.0,0.0,0.0,0.0,False
+7432,Mars,False,FP,TRAPPIST-1e,28.0,False,1811.0,1.0,57.0,0.0,0.0,False
+8164,Earth,False,FP,TRAPPIST-1e,23.0,False,1254.0,0.0,45.0,0.0,0.0,False
+1598,Europa,False,BP,TRAPPIST-1e,43.0,False,0.0,760.0,17.0,15331.0,427.0,False
+7962,Earth,False,FP,TRAPPIST-1e,18.0,False,490.0,0.0,54.0,195.0,0.0,False
+8115,Mars,False,EP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,False
+6059,Earth,False,GS,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6855,Mars,False,FS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+2576,Earth,False,GS,TRAPPIST-1e,36.0,False,625.0,0.0,260.0,0.0,0.0,False
+8652,Europa,False,CS,TRAPPIST-1e,36.0,True,0.0,5600.0,715.0,2868.0,971.0,True
+2690,Earth,True,GS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,False
+7444,Earth,False,FP,TRAPPIST-1e,19.0,False,1.0,7.0,0.0,689.0,0.0,False
+1692,Earth,True,GS,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,False
+6079,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,0.0,151.0,508.0,0.0,False
+235,Earth,False,FP,TRAPPIST-1e,30.0,False,335.0,695.0,541.0,0.0,0.0,False
+6367,Europa,True,CS,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+5752,Mars,False,FS,TRAPPIST-1e,13.0,False,1119.0,11.0,1326.0,0.0,0.0,True
+3516,Earth,True,GP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+4377,Earth,False,GP,TRAPPIST-1e,17.0,False,372.0,0.0,477.0,0.0,0.0,False
+794,Earth,False,FP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,838.0,27.0,False
+4728,Earth,True,GS,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+4020,Earth,False,GS,TRAPPIST-1e,29.0,False,646.0,91.0,13.0,0.0,0.0,True
+7302,Earth,False,FS,TRAPPIST-1e,22.0,False,769.0,0.0,0.0,1.0,729.0,False
+3697,Earth,False,GP,TRAPPIST-1e,44.0,False,39.0,821.0,0.0,7.0,41.0,False
+7416,Earth,True,FP,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+8598,Earth,True,GP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+4197,Earth,True,GS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+6577,Earth,False,GP,TRAPPIST-1e,22.0,False,245.0,0.0,0.0,661.0,1.0,False
+2710,Earth,False,GP,TRAPPIST-1e,33.0,False,123.0,760.0,0.0,0.0,0.0,False
+5733,Europa,True,BP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+3251,Europa,False,DP,55 Cancri e,19.0,False,0.0,1347.0,0.0,1756.0,37.0,True
+3435,Earth,False,FS,TRAPPIST-1e,21.0,False,120.0,235.0,0.0,0.0,0.0,False
+3466,Europa,True,AS,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+8385,Mars,False,FS,TRAPPIST-1e,28.0,False,1708.0,0.0,65.0,1.0,0.0,False
+1065,Earth,True,GS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+8314,Earth,True,GP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+6456,Earth,True,GP,PSO J318.5-22,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+6517,Mars,True,FP,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+1443,Mars,False,FP,TRAPPIST-1e,20.0,False,539.0,1269.0,38.0,0.0,0.0,True
+4661,Earth,False,EP,TRAPPIST-1e,43.0,False,957.0,0.0,1.0,0.0,39.0,False
+5602,Mars,False,FP,55 Cancri e,23.0,False,112.0,1184.0,143.0,2.0,585.0,False
+3395,Earth,True,GS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,False
+3268,Mars,False,FS,55 Cancri e,22.0,False,124.0,0.0,1763.0,0.0,1014.0,False
+8432,Earth,False,FS,TRAPPIST-1e,31.0,False,0.0,173.0,409.0,102.0,43.0,False
+7126,Earth,False,FS,TRAPPIST-1e,36.0,False,0.0,7.0,661.0,0.0,93.0,True
+4044,Earth,False,EP,TRAPPIST-1e,24.0,False,786.0,0.0,0.0,7.0,0.0,False
+1705,Earth,False,FS,TRAPPIST-1e,29.0,False,928.0,20.0,0.0,0.0,0.0,False
+5332,Earth,True,GS,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,True
+6225,Earth,True,GS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+838,Mars,False,FS,TRAPPIST-1e,32.0,False,47.0,0.0,2552.0,0.0,0.0,True
+5339,Earth,False,FS,TRAPPIST-1e,15.0,False,0.0,0.0,973.0,29.0,0.0,True
+4227,Earth,False,GS,TRAPPIST-1e,39.0,False,0.0,2.0,0.0,69.0,836.0,False
+8513,Earth,True,GP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+1129,Earth,False,FP,TRAPPIST-1e,32.0,False,600.0,670.0,0.0,187.0,0.0,False
+105,Europa,False,BP,TRAPPIST-1e,42.0,False,2209.0,11418.0,0.0,1868.0,445.0,True
+2735,Earth,False,GS,TRAPPIST-1e,21.0,False,15.0,30.0,11.0,2.0,388.0,False
+2674,Mars,False,DP,TRAPPIST-1e,53.0,False,520.0,0.0,442.0,0.0,0.0,True
+328,Earth,False,GS,TRAPPIST-1e,24.0,False,0.0,0.0,592.0,177.0,58.0,True
+2607,Europa,False,BP,55 Cancri e,43.0,False,0.0,9923.0,660.0,10.0,266.0,True
+8179,Europa,False,AP,55 Cancri e,49.0,False,0.0,3853.0,0.0,245.0,178.0,True
+7799,Earth,False,ES,PSO J318.5-22,55.0,False,0.0,465.0,277.0,48.0,0.0,True
+6449,Mars,True,FP,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+1790,Earth,True,GP,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,False
+1479,Earth,True,GP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+7637,Earth,True,GS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+4798,Earth,False,FP,TRAPPIST-1e,41.0,False,256.0,109.0,0.0,340.0,0.0,False
+1368,Earth,False,FS,TRAPPIST-1e,27.0,False,0.0,1826.0,39.0,11.0,649.0,False
+5082,Mars,False,FP,TRAPPIST-1e,18.0,False,3458.0,0.0,216.0,0.0,0.0,False
+1201,Earth,True,GP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+278,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,0.0,1359.0,0.0,0.0,True
+833,Mars,False,FP,TRAPPIST-1e,16.0,False,172.0,0.0,338.0,9.0,0.0,False
+7969,Mars,False,FP,TRAPPIST-1e,51.0,False,870.0,28.0,278.0,154.0,1288.0,False
+3733,Earth,False,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,False
+3876,Earth,False,FS,TRAPPIST-1e,15.0,False,0.0,2.0,15.0,5.0,842.0,False
+5424,Europa,False,DP,TRAPPIST-1e,45.0,False,0.0,1202.0,149.0,1472.0,3379.0,False
+4100,Mars,True,FS,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+3670,Earth,True,GP,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,False
+6573,Earth,False,GS,TRAPPIST-1e,20.0,False,559.0,0.0,83.0,112.0,0.0,True
+5022,Europa,True,EP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+7480,Earth,False,FS,55 Cancri e,22.0,False,0.0,15.0,0.0,548.0,124.0,False
+2417,Europa,True,BS,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+727,Europa,True,BS,55 Cancri e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+7200,Europa,False,BP,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+4308,Mars,True,FS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+224,Europa,False,EP,55 Cancri e,33.0,False,0.0,1249.0,0.0,4812.0,1116.0,False
+5045,Mars,False,ES,TRAPPIST-1e,35.0,True,628.0,6.0,528.0,136.0,0.0,False
+1775,Earth,False,FS,TRAPPIST-1e,30.0,False,116.0,0.0,0.0,728.0,29.0,True
+6788,Earth,True,GP,PSO J318.5-22,31.0,False,0.0,0.0,0.0,0.0,0.0,False
+6078,Mars,False,EP,TRAPPIST-1e,34.0,False,801.0,0.0,246.0,1.0,0.0,False
+6395,Earth,False,GP,PSO J318.5-22,46.0,False,0.0,0.0,743.0,4.0,6.0,True
+7146,Europa,True,CS,PSO J318.5-22,50.0,False,0.0,0.0,0.0,0.0,0.0,True
+5305,Europa,False,AS,TRAPPIST-1e,33.0,False,0.0,1513.0,5.0,63.0,144.0,True
+7949,Earth,True,GP,PSO J318.5-22,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+995,Europa,True,CP,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+2257,Earth,True,GP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+5907,Earth,False,FP,TRAPPIST-1e,18.0,False,108.0,2.0,11.0,0.0,680.0,False
+1554,Earth,True,GS,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+5447,Earth,True,GP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+1376,Europa,False,CS,55 Cancri e,46.0,False,202.0,484.0,0.0,3208.0,2485.0,False
+8568,Earth,False,GS,TRAPPIST-1e,45.0,False,1.0,0.0,638.0,9.0,161.0,False
+6724,Europa,False,EP,TRAPPIST-1e,36.0,False,10.0,2478.0,2080.0,19.0,328.0,True
+3011,Mars,False,ES,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,False
+6618,Earth,True,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+458,Mars,True,FS,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+7774,Europa,False,CP,TRAPPIST-1e,28.0,False,1722.0,5063.0,0.0,87.0,920.0,False
+5070,Mars,True,FP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+2761,Earth,False,GP,TRAPPIST-1e,37.0,False,221.0,0.0,32.0,38.0,516.0,False
+5701,Mars,False,FS,TRAPPIST-1e,22.0,False,2413.0,0.0,53.0,1.0,0.0,False
+4436,Earth,True,GP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+3527,Earth,True,GP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,False
+1620,Earth,False,GS,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,False
+2990,Earth,False,FP,TRAPPIST-1e,31.0,False,593.0,540.0,238.0,0.0,77.0,False
+106,Europa,True,BP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+1304,Earth,False,FS,TRAPPIST-1e,22.0,False,0.0,442.0,0.0,0.0,368.0,True
+8111,Earth,False,GS,TRAPPIST-1e,40.0,False,909.0,0.0,0.0,0.0,0.0,False
+3224,Earth,False,FS,TRAPPIST-1e,20.0,False,0.0,880.0,5.0,25.0,490.0,False
+2195,Earth,False,GP,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+2036,Europa,False,CS,TRAPPIST-1e,30.0,False,437.0,3585.0,0.0,4488.0,281.0,False
+7097,Europa,True,BP,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+6021,Earth,False,GS,TRAPPIST-1e,26.0,False,360.0,8.0,1.0,329.0,185.0,False
+5539,Earth,False,GS,TRAPPIST-1e,23.0,False,16.0,687.0,1.0,1.0,0.0,True
+8544,Mars,True,EP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+3983,Earth,False,GP,TRAPPIST-1e,30.0,False,488.0,0.0,242.0,0.0,79.0,False
+3188,Earth,True,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6387,Earth,False,GP,TRAPPIST-1e,21.0,False,0.0,13.0,813.0,0.0,0.0,True
+1614,Mars,False,FS,TRAPPIST-1e,19.0,False,285.0,54.0,1246.0,102.0,0.0,False
+5524,Earth,False,FP,TRAPPIST-1e,51.0,False,201.0,574.0,40.0,0.0,11.0,False
+371,Mars,False,EP,TRAPPIST-1e,35.0,False,1134.0,113.0,52.0,0.0,0.0,False
+4031,Earth,True,GP,PSO J318.5-22,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+5050,Mars,True,DS,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+4512,Earth,False,FS,TRAPPIST-1e,50.0,False,138.0,706.0,0.0,18.0,40.0,True
+2930,Europa,False,EP,TRAPPIST-1e,77.0,False,0.0,9032.0,0.0,128.0,1464.0,True
+3932,Earth,False,GS,TRAPPIST-1e,19.0,False,1620.0,0.0,4.0,0.0,82.0,False
+4300,Europa,False,BS,55 Cancri e,37.0,False,0.0,2337.0,0.0,204.0,76.0,True
+2421,Mars,False,FP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+6139,Europa,False,DS,55 Cancri e,17.0,False,0.0,311.0,6.0,4236.0,557.0,False
+1410,Earth,False,GP,55 Cancri e,32.0,False,0.0,0.0,0.0,817.0,8.0,True
+5540,Earth,False,GP,TRAPPIST-1e,51.0,False,0.0,0.0,207.0,347.0,262.0,False
+7015,Earth,False,FP,55 Cancri e,24.0,False,786.0,0.0,0.0,309.0,0.0,True
+2366,Mars,False,FP,TRAPPIST-1e,62.0,False,1663.0,0.0,23.0,2.0,12.0,False
+1216,Europa,True,AS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+3673,Earth,True,GP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,False
+1695,Earth,True,GS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+4506,Europa,False,BS,TRAPPIST-1e,54.0,True,0.0,2853.0,0.0,0.0,1666.0,False
+2466,Europa,False,CS,55 Cancri e,28.0,False,0.0,3053.0,0.0,839.0,2153.0,True
+5963,Earth,False,ES,TRAPPIST-1e,16.0,False,0.0,68.0,1541.0,0.0,0.0,True
+6873,Earth,False,FP,TRAPPIST-1e,13.0,False,305.0,582.0,12.0,19.0,0.0,False
+5545,Earth,True,GS,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+2280,Mars,True,FP,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+8469,Europa,True,CS,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+1563,Mars,False,FS,TRAPPIST-1e,29.0,False,1150.0,0.0,6.0,4.0,0.0,True
+4953,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,0.0,2728.0,0.0,0.0,True
+4785,Earth,False,GS,PSO J318.5-22,47.0,False,83.0,1.0,0.0,654.0,3.0,True
+1677,Earth,True,GS,PSO J318.5-22,15.0,False,0.0,0.0,0.0,0.0,0.0,False
+4851,Earth,False,EP,TRAPPIST-1e,23.0,False,576.0,207.0,0.0,0.0,9.0,False
+2286,Earth,True,GP,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,False
+8141,Mars,False,FS,TRAPPIST-1e,13.0,False,217.0,7.0,928.0,0.0,728.0,False
+1779,Mars,True,ES,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,False
+4433,Mars,False,FP,TRAPPIST-1e,65.0,False,1420.0,0.0,84.0,0.0,0.0,False
+5670,Earth,True,GP,PSO J318.5-22,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+5598,Europa,True,DS,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+4273,Earth,False,FS,TRAPPIST-1e,28.0,False,0.0,180.0,516.0,0.0,0.0,True
+8238,Earth,False,GS,TRAPPIST-1e,19.0,False,0.0,0.0,855.0,11.0,42.0,True
+1441,Europa,True,BS,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+862,Mars,True,FP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+2423,Mars,True,FP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+514,Earth,False,GS,TRAPPIST-1e,42.0,False,126.0,0.0,266.0,445.0,12.0,False
+4025,Earth,True,GS,PSO J318.5-22,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+7222,Earth,False,FP,55 Cancri e,18.0,False,1.0,5.0,305.0,347.0,0.0,False
+7443,Mars,True,ES,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+6766,Mars,False,FS,TRAPPIST-1e,31.0,False,907.0,0.0,437.0,2.0,0.0,False
+5778,Europa,False,CS,TRAPPIST-1e,28.0,False,0.0,4585.0,0.0,2.0,35.0,True
+1202,Earth,False,GS,TRAPPIST-1e,19.0,False,6.0,0.0,1.0,714.0,0.0,False
+6261,Earth,True,GP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+1285,Europa,False,BS,55 Cancri e,33.0,False,77.0,2381.0,0.0,3656.0,150.0,False
+5572,Mars,False,FS,TRAPPIST-1e,34.0,False,1547.0,485.0,97.0,59.0,0.0,False
+6411,Earth,True,GP,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+1490,Mars,True,FP,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+8576,Earth,False,GS,TRAPPIST-1e,31.0,False,0.0,522.0,0.0,54.0,332.0,False
+2870,Earth,True,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+7805,Earth,True,GP,PSO J318.5-22,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+1548,Earth,False,GP,TRAPPIST-1e,21.0,False,305.0,0.0,1.0,618.0,2.0,True
+4986,Mars,True,FP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+3183,Earth,False,FP,PSO J318.5-22,23.0,False,381.0,0.0,137.0,104.0,8.0,False
+7092,Earth,False,FP,TRAPPIST-1e,22.0,False,0.0,0.0,441.0,0.0,423.0,False
+4941,Europa,False,CS,55 Cancri e,36.0,True,13.0,196.0,3.0,0.0,12323.0,False
+6428,Earth,False,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+4270,Earth,False,GP,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+1057,Mars,False,DS,55 Cancri e,20.0,False,0.0,3.0,3505.0,199.0,17.0,True
+5721,Mars,False,EP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,False
+1816,Mars,False,DP,TRAPPIST-1e,13.0,False,3037.0,10.0,43.0,0.0,0.0,False
+4284,Earth,False,GP,TRAPPIST-1e,30.0,False,0.0,43.0,0.0,0.0,6.0,False
+8120,Europa,False,AP,55 Cancri e,29.0,False,1.0,764.0,1.0,265.0,1539.0,True
+5129,Mars,False,FS,TRAPPIST-1e,29.0,False,518.0,0.0,10.0,1245.0,0.0,False
+5351,Earth,False,GP,TRAPPIST-1e,59.0,False,0.0,664.0,0.0,144.0,141.0,True
+8687,Europa,False,AP,TRAPPIST-1e,30.0,False,0.0,3208.0,0.0,2.0,330.0,True
+1877,Earth,False,FS,TRAPPIST-1e,24.0,False,0.0,856.0,0.0,0.0,5.0,False
+7719,Earth,False,FS,TRAPPIST-1e,15.0,False,0.0,21.0,22.0,1149.0,249.0,False
+6279,Earth,False,FS,PSO J318.5-22,29.0,False,2.0,3.0,1501.0,26.0,0.0,True
+2225,Earth,True,GS,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,False
+8599,Earth,False,GP,TRAPPIST-1e,31.0,False,459.0,194.0,0.0,5.0,125.0,False
+2568,Earth,False,EP,TRAPPIST-1e,13.0,False,911.0,1.0,0.0,74.0,0.0,False
+639,Earth,False,FP,TRAPPIST-1e,45.0,False,0.0,25.0,87.0,989.0,482.0,False
+582,Europa,False,CP,TRAPPIST-1e,37.0,False,27.0,654.0,10.0,881.0,9568.0,False
+4081,Earth,False,FS,PSO J318.5-22,20.0,False,0.0,272.0,108.0,0.0,230.0,True
+7058,Earth,False,FS,PSO J318.5-22,29.0,False,5.0,598.0,0.0,0.0,0.0,False
+3193,Europa,False,BS,TRAPPIST-1e,39.0,False,0.0,2.0,0.0,909.0,3291.0,False
+1136,Europa,False,BS,55 Cancri e,50.0,True,0.0,5473.0,0.0,703.0,6381.0,False
+7497,Earth,False,FP,TRAPPIST-1e,22.0,False,668.0,79.0,0.0,0.0,1.0,False
+7699,Earth,False,GP,TRAPPIST-1e,18.0,False,22.0,0.0,681.0,0.0,1.0,True
+4659,Earth,False,FS,PSO J318.5-22,26.0,False,0.0,9.0,0.0,0.0,1376.0,False
+5361,Europa,True,BP,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+5333,Mars,True,DS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2005,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,0.0,698.0,0.0,0.0,True
+3119,Earth,False,DS,PSO J318.5-22,26.0,False,717.0,0.0,84.0,0.0,0.0,False
+8415,Europa,False,BP,TRAPPIST-1e,17.0,False,0.0,366.0,23492.0,356.0,3.0,True
+4734,Earth,True,GP,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+6700,Earth,False,GS,PSO J318.5-22,63.0,False,526.0,2.0,0.0,0.0,0.0,False
+8660,Mars,False,EP,TRAPPIST-1e,14.0,False,2.0,0.0,918.0,128.0,0.0,False
+5708,Europa,False,BS,TRAPPIST-1e,27.0,False,0.0,21.0,0.0,8126.0,4.0,False
+5016,Earth,False,FP,TRAPPIST-1e,27.0,False,0.0,45.0,225.0,14.0,519.0,False
+1363,Earth,True,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+2267,Europa,True,CP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+5025,Europa,False,CS,55 Cancri e,46.0,False,0.0,8221.0,0.0,1010.0,160.0,True
+2745,Earth,True,GP,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+8086,Mars,False,FS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+6284,Earth,True,GS,55 Cancri e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+1091,Earth,True,GP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+2821,Earth,False,FS,TRAPPIST-1e,30.0,False,0.0,0.0,301.0,0.0,437.0,False
+884,Earth,False,GP,55 Cancri e,26.0,False,0.0,474.0,0.0,0.0,201.0,False
+1507,Europa,True,CP,55 Cancri e,53.0,False,0.0,0.0,0.0,0.0,0.0,True
+3676,Earth,False,EP,TRAPPIST-1e,14.0,False,781.0,0.0,1.0,4.0,1.0,False
+7945,Earth,True,GS,55 Cancri e,47.0,False,0.0,0.0,0.0,0.0,0.0,False
+3113,Earth,True,GS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+8502,Earth,False,FP,55 Cancri e,22.0,False,23.0,100.0,1353.0,0.0,0.0,True
+6843,Europa,False,BP,TRAPPIST-1e,51.0,False,0.0,980.0,273.0,2775.0,419.0,False
+7608,Earth,False,FP,55 Cancri e,27.0,False,3.0,13.0,0.0,0.0,788.0,False
+5962,Europa,True,CP,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+58,Mars,True,FS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+6122,Earth,True,GP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,False
+7368,Earth,False,GP,TRAPPIST-1e,25.0,False,0.0,478.0,71.0,11.0,162.0,False
+4189,Europa,False,BP,55 Cancri e,43.0,False,0.0,39.0,327.0,4643.0,85.0,False
+1242,Europa,True,ES,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+4744,Europa,False,CS,TRAPPIST-1e,54.0,False,0.0,8246.0,0.0,56.0,118.0,True
+4898,Earth,False,FP,TRAPPIST-1e,25.0,False,0.0,528.0,8.0,153.0,0.0,False
+8456,Mars,True,EP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,False
+7374,Earth,True,GP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+4496,Europa,False,CS,TRAPPIST-1e,53.0,False,50.0,11552.0,0.0,2998.0,4334.0,False
+3457,Earth,False,GP,TRAPPIST-1e,18.0,False,18.0,2.0,1769.0,1.0,2.0,True
+6220,Mars,True,FS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+1604,Mars,False,DS,TRAPPIST-1e,13.0,False,1112.0,0.0,687.0,0.0,3.0,False
+2843,Earth,True,GS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+3530,Mars,True,FS,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,True
+483,Earth,False,GS,TRAPPIST-1e,55.0,False,62.0,0.0,0.0,0.0,0.0,False
+4011,Earth,False,FS,TRAPPIST-1e,55.0,False,0.0,252.0,1.0,0.0,553.0,True
+1948,Europa,False,AS,TRAPPIST-1e,65.0,False,51.0,4451.0,0.0,20.0,397.0,True
+298,Europa,False,CS,TRAPPIST-1e,33.0,False,443.0,317.0,0.0,148.0,1260.0,False
+1284,Earth,False,FS,TRAPPIST-1e,23.0,False,0.0,1268.0,0.0,119.0,2.0,False
+3475,Earth,False,GS,TRAPPIST-1e,19.0,False,0.0,312.0,2.0,76.0,418.0,False
+4099,Europa,False,CS,55 Cancri e,34.0,False,0.0,7221.0,0.0,288.0,2275.0,True
+831,Europa,False,CP,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,False
+1420,Earth,False,FS,55 Cancri e,17.0,False,319.0,184.0,0.0,0.0,376.0,False
+515,Europa,True,CS,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+7400,Europa,False,CS,55 Cancri e,26.0,False,1432.0,1283.0,0.0,178.0,5034.0,False
+2634,Mars,False,FP,TRAPPIST-1e,24.0,False,165.0,0.0,981.0,2.0,0.0,True
+303,Mars,True,FS,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+5625,Mars,False,FS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+2422,Mars,False,DP,TRAPPIST-1e,20.0,False,59.0,0.0,1646.0,1657.0,0.0,False
+2061,Earth,False,FS,PSO J318.5-22,13.0,False,0.0,14.0,857.0,0.0,72.0,False
+3261,Earth,False,GP,TRAPPIST-1e,21.0,False,196.0,5.0,674.0,12.0,20.0,False
+4860,Earth,False,FP,TRAPPIST-1e,21.0,False,41.0,651.0,2.0,29.0,0.0,False
+5637,Earth,True,GS,PSO J318.5-22,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+8307,Europa,True,BP,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+1164,Mars,True,EP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,False
+2456,Mars,False,DP,TRAPPIST-1e,18.0,False,1867.0,0.0,29.0,72.0,0.0,True
+2486,Mars,False,ES,55 Cancri e,18.0,False,1874.0,0.0,260.0,0.0,0.0,False
+1963,Mars,False,FS,TRAPPIST-1e,29.0,False,216.0,10.0,611.0,594.0,0.0,False
+7507,Earth,True,GS,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+225,Earth,False,FS,TRAPPIST-1e,18.0,False,313.0,1.0,691.0,283.0,0.0,False
+7459,Europa,True,FP,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,True
+1250,Earth,True,ES,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+1093,Europa,True,BS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+1981,Earth,True,GP,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+519,Europa,False,CP,TRAPPIST-1e,33.0,False,0.0,165.0,1.0,2525.0,0.0,False
+5620,Europa,False,BS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2389,Europa,False,ES,TRAPPIST-1e,42.0,False,2.0,3024.0,0.0,89.0,10.0,True
+4101,Mars,False,ES,TRAPPIST-1e,42.0,False,954.0,0.0,1.0,0.0,0.0,False
+7701,Europa,True,BP,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+7013,Earth,True,GS,TRAPPIST-1e,64.0,False,0.0,0.0,0.0,0.0,0.0,False
+6094,Earth,False,GS,TRAPPIST-1e,39.0,False,0.0,0.0,710.0,56.0,1.0,True
+8507,Earth,False,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+748,Earth,True,GP,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,False
+7830,Europa,True,BS,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+8552,Europa,False,CP,55 Cancri e,33.0,False,0.0,1961.0,0.0,226.0,1077.0,False
+2672,Earth,False,GP,TRAPPIST-1e,27.0,False,0.0,2.0,49.0,0.0,801.0,False
+4812,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,910.0,13.0,10.0,15.0,False
+4717,Earth,True,GS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+57,Earth,False,FS,TRAPPIST-1e,62.0,False,0.0,592.0,0.0,17.0,25.0,False
+2545,Earth,False,FS,TRAPPIST-1e,16.0,False,0.0,1115.0,0.0,1674.0,132.0,False
+7787,Earth,False,FS,TRAPPIST-1e,21.0,False,380.0,177.0,161.0,0.0,85.0,False
+6041,Earth,True,GS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+2154,Europa,True,CP,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,True
+4318,Europa,False,CS,55 Cancri e,26.0,False,0.0,3593.0,47.0,19.0,229.0,True
+7384,Earth,False,ES,55 Cancri e,29.0,False,46.0,68.0,589.0,88.0,0.0,True
+6287,Europa,True,BP,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+4573,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+1630,Mars,True,FP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+8580,Earth,False,FP,TRAPPIST-1e,41.0,False,169.0,0.0,516.0,0.0,52.0,True
+7691,Mars,True,FP,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+2641,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3444,Earth,True,GP,55 Cancri e,5.0,False,0.0,0.0,0.0,0.0,0.0,False
+8361,Earth,True,GS,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+3290,Mars,False,FP,TRAPPIST-1e,36.0,False,1304.0,0.0,7.0,18.0,0.0,False
+5726,Europa,False,CS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+6596,Earth,False,FP,55 Cancri e,35.0,False,0.0,71.0,631.0,0.0,0.0,False
+1951,Earth,False,FS,55 Cancri e,38.0,False,0.0,717.0,0.0,0.0,0.0,False
+809,Earth,False,EP,TRAPPIST-1e,24.0,False,34.0,7.0,320.0,0.0,427.0,False
+6780,Europa,True,CS,PSO J318.5-22,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+7484,Earth,False,GP,TRAPPIST-1e,26.0,False,0.0,0.0,1.0,886.0,0.0,False
+318,Europa,True,BP,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+7452,Europa,False,CP,TRAPPIST-1e,27.0,False,0.0,2318.0,1127.0,2423.0,115.0,False
+2017,Earth,True,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+2252,Earth,True,GP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+3626,Earth,False,GP,55 Cancri e,2.0,False,0.0,0.0,0.0,0.0,0.0,False
+3539,Europa,False,BP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+2747,Earth,True,GP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,False
+1845,Mars,False,DP,TRAPPIST-1e,41.0,False,3702.0,0.0,1.0,0.0,18.0,False
+5787,Europa,False,CP,55 Cancri e,33.0,True,0.0,3095.0,0.0,197.0,40.0,True
+8531,Earth,False,GS,TRAPPIST-1e,37.0,False,15.0,7.0,0.0,786.0,0.0,False
+4065,Earth,False,FS,TRAPPIST-1e,22.0,False,0.0,0.0,945.0,0.0,4.0,True
+1457,Europa,False,CP,TRAPPIST-1e,26.0,False,0.0,170.0,0.0,3718.0,0.0,False
+3836,Earth,False,GS,TRAPPIST-1e,43.0,False,0.0,831.0,78.0,0.0,0.0,True
+6812,Earth,False,FS,TRAPPIST-1e,35.0,False,150.0,0.0,96.0,638.0,0.0,True
+971,Earth,False,FP,TRAPPIST-1e,23.0,False,1081.0,0.0,0.0,0.0,7.0,False
+4575,Mars,False,FS,TRAPPIST-1e,25.0,False,750.0,0.0,109.0,368.0,0.0,False
+3695,Earth,True,GP,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,False
+7563,Europa,False,CP,TRAPPIST-1e,31.0,False,0.0,745.0,0.0,6688.0,2161.0,False
+2667,Europa,True,CS,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+4432,Mars,False,EP,TRAPPIST-1e,29.0,False,179.0,0.0,1805.0,131.0,0.0,False
+4166,Earth,False,FP,TRAPPIST-1e,40.0,False,0.0,0.0,2414.0,0.0,0.0,True
+2712,Earth,False,GS,TRAPPIST-1e,29.0,False,1.0,0.0,133.0,104.0,574.0,False
+557,Mars,True,FP,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,True
+577,Europa,False,CS,TRAPPIST-1e,24.0,False,0.0,3385.0,826.0,9.0,793.0,True
+765,Earth,False,FS,TRAPPIST-1e,31.0,False,183.0,0.0,32.0,0.0,1171.0,False
+2946,Earth,False,GS,55 Cancri e,28.0,False,0.0,0.0,675.0,31.0,0.0,True
+5780,Earth,False,FP,55 Cancri e,36.0,False,0.0,0.0,700.0,0.0,0.0,True
+7476,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+4761,Europa,True,EP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+6735,Earth,False,CP,TRAPPIST-1e,57.0,False,906.0,22.0,0.0,8293.0,391.0,False
+359,Europa,False,BP,55 Cancri e,61.0,False,1.0,608.0,0.0,3835.0,1.0,False
+7229,Mars,False,FS,TRAPPIST-1e,25.0,False,338.0,319.0,32.0,15.0,0.0,False
+3803,Mars,True,FS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+8543,Mars,False,ES,TRAPPIST-1e,26.0,False,733.0,0.0,1296.0,80.0,0.0,False
+5927,Earth,False,GS,TRAPPIST-1e,21.0,False,0.0,0.0,28.0,508.0,272.0,True
+6611,Earth,False,GP,TRAPPIST-1e,21.0,False,27.0,0.0,782.0,0.0,0.0,True
+512,Mars,True,FS,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+7856,Earth,True,GP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,False
+6124,Mars,True,FS,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+6160,Earth,False,GS,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,True
+4170,Europa,True,CP,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+1801,Europa,False,AS,TRAPPIST-1e,38.0,False,34.0,2043.0,0.0,1339.0,0.0,True
+2772,Earth,True,GS,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+1043,Europa,False,BP,55 Cancri e,40.0,False,0.0,4076.0,6124.0,58.0,100.0,True
+68,Earth,False,FS,TRAPPIST-1e,14.0,False,0.0,1.0,0.0,0.0,1063.0,False
+5934,Mars,True,FP,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+2717,Earth,False,FP,PSO J318.5-22,32.0,False,0.0,0.0,736.0,0.0,0.0,False
+3278,Earth,True,FP,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+1683,Earth,True,GS,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+1482,Earth,False,FP,TRAPPIST-1e,25.0,False,4.0,0.0,146.0,723.0,0.0,False
+3800,Earth,False,FP,TRAPPIST-1e,54.0,False,880.0,2.0,531.0,2.0,0.0,False
+7367,Earth,False,GP,TRAPPIST-1e,18.0,False,0.0,0.0,32.0,0.0,673.0,False
+6230,Europa,False,BP,TRAPPIST-1e,56.0,False,0.0,13561.0,0.0,2.0,4088.0,True
+343,Earth,False,GP,TRAPPIST-1e,31.0,False,198.0,0.0,591.0,0.0,164.0,True
+8357,Mars,False,EP,TRAPPIST-1e,26.0,True,1.0,445.0,170.0,614.0,68.0,False
+5622,Europa,False,CS,55 Cancri e,19.0,False,0.0,0.0,0.0,2.0,9.0,True
+4901,Mars,True,FS,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,True
+1422,Earth,True,GS,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,True
+936,Europa,False,CP,TRAPPIST-1e,56.0,False,0.0,7447.0,0.0,253.0,35.0,True
+7895,Europa,True,BP,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+6728,Europa,True,CS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+1066,Earth,False,GP,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,908.0,True
+6755,Europa,False,BP,55 Cancri e,37.0,False,1.0,4462.0,1.0,9206.0,3.0,False
+2243,Europa,False,CS,TRAPPIST-1e,29.0,False,0.0,544.0,7.0,2650.0,1561.0,False
+2882,Earth,False,FP,TRAPPIST-1e,32.0,False,0.0,0.0,47.0,857.0,23.0,False
+5564,Europa,True,BP,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+843,Earth,False,FS,55 Cancri e,19.0,False,0.0,388.0,469.0,0.0,0.0,True
+3805,Earth,False,FS,TRAPPIST-1e,47.0,False,939.0,1477.0,0.0,0.0,0.0,True
+4188,Europa,True,BP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+4247,Earth,False,GP,55 Cancri e,15.0,False,6.0,1740.0,2184.0,0.0,0.0,True
+2354,Earth,True,GP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,False
+8028,Mars,True,EP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+5900,Europa,True,BS,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+7213,Earth,False,GP,TRAPPIST-1e,23.0,False,40.0,4.0,9.0,318.0,1413.0,False
+1251,Earth,False,ES,TRAPPIST-1e,24.0,False,70.0,160.0,340.0,0.0,336.0,False
+6462,Earth,False,FP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,1490.0,0.0,False
+8051,Earth,False,ES,TRAPPIST-1e,27.0,False,0.0,0.0,2.0,994.0,0.0,False
+2439,Earth,True,GS,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+3363,Earth,False,GS,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,False
+7593,Earth,True,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+7085,Earth,False,FP,TRAPPIST-1e,29.0,False,0.0,0.0,702.0,0.0,56.0,False
+50,Earth,False,GS,TRAPPIST-1e,29.0,False,4.0,0.0,2.0,4683.0,0.0,False
+5081,Earth,True,FP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+957,Earth,False,FS,TRAPPIST-1e,36.0,False,1.0,1410.0,0.0,1.0,0.0,True
+7025,Earth,False,GS,TRAPPIST-1e,46.0,False,0.0,0.0,1.0,0.0,1778.0,False
+5186,Mars,True,FP,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+4396,Earth,True,GS,55 Cancri e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+3110,Europa,False,CS,TRAPPIST-1e,61.0,False,0.0,4082.0,0.0,265.0,201.0,True
+811,Earth,False,GS,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,False
+1555,Earth,True,GP,PSO J318.5-22,43.0,False,0.0,0.0,0.0,0.0,0.0,False
+3352,Europa,True,DP,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+8043,Europa,True,FP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+4311,Europa,False,CP,TRAPPIST-1e,31.0,False,0.0,6670.0,217.0,625.0,20336.0,False
+3825,Earth,False,FS,TRAPPIST-1e,26.0,False,0.0,586.0,1.0,0.0,58.0,True
+1838,Earth,False,FP,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,1200.0,17.0,False
+1956,Mars,False,DS,TRAPPIST-1e,18.0,False,29.0,0.0,2315.0,0.0,1.0,True
+1286,Europa,True,BS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+5322,Mars,False,DP,55 Cancri e,25.0,False,1410.0,123.0,26.0,9.0,812.0,False
+856,Europa,False,BP,55 Cancri e,31.0,False,0.0,1095.0,0.0,169.0,1226.0,False
+5573,Earth,False,GP,TRAPPIST-1e,29.0,False,89.0,1725.0,0.0,0.0,3.0,True
+7589,Mars,False,DP,55 Cancri e,28.0,False,49.0,0.0,0.0,2.0,1136.0,False
+5700,Europa,False,CS,TRAPPIST-1e,27.0,False,0.0,1857.0,0.0,778.0,587.0,True
+1874,Europa,False,CS,55 Cancri e,28.0,False,5.0,2676.0,13.0,0.0,157.0,True
+6778,Mars,True,FP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+5497,Earth,False,GP,55 Cancri e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+3922,Earth,False,FP,55 Cancri e,19.0,False,558.0,0.0,353.0,0.0,8.0,False
+7086,Earth,False,ES,TRAPPIST-1e,54.0,False,118.0,0.0,0.0,669.0,0.0,False
+1782,Europa,False,DP,55 Cancri e,19.0,False,0.0,748.0,158.0,5037.0,44.0,False
+3200,Europa,False,BS,TRAPPIST-1e,41.0,True,0.0,649.0,0.0,945.0,0.0,True
+4978,Mars,False,FS,TRAPPIST-1e,32.0,False,4702.0,0.0,449.0,190.0,0.0,False
+1850,Europa,False,BS,TRAPPIST-1e,39.0,False,1.0,2972.0,0.0,3175.0,1.0,False
+1610,Mars,False,FP,TRAPPIST-1e,35.0,False,1313.0,0.0,24.0,0.0,1.0,False
+5398,Earth,False,FS,TRAPPIST-1e,25.0,False,0.0,0.0,1037.0,8.0,1.0,True
+801,Mars,True,FP,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+3024,Europa,False,CS,55 Cancri e,9.0,False,0.0,0.0,0.0,0.0,0.0,True
+7028,Europa,False,FP,TRAPPIST-1e,26.0,False,36.0,2285.0,0.0,2287.0,159.0,False
+4868,Europa,True,BP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3798,Earth,False,FP,TRAPPIST-1e,21.0,False,3.0,34.0,600.0,0.0,8.0,False
+2377,Europa,True,CS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+6739,Europa,False,BS,55 Cancri e,49.0,False,0.0,7683.0,0.0,13016.0,0.0,False
+7201,Earth,False,FP,TRAPPIST-1e,30.0,False,574.0,0.0,0.0,25.0,2.0,False
+3223,Earth,True,GS,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+5633,Mars,False,FP,55 Cancri e,44.0,False,2956.0,0.0,10.0,12.0,692.0,False
+7158,Europa,True,BS,55 Cancri e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+2336,Earth,False,GP,55 Cancri e,29.0,False,75.0,17.0,0.0,211.0,506.0,False
+8083,Mars,True,ES,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+7813,Europa,False,DS,TRAPPIST-1e,39.0,False,0.0,261.0,0.0,1831.0,1797.0,False
+2740,Earth,True,GP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,False
+5205,Mars,False,FP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,False
+276,Europa,False,CP,55 Cancri e,23.0,False,0.0,584.0,0.0,20.0,2469.0,False
+5687,Earth,False,FS,TRAPPIST-1e,52.0,False,0.0,645.0,0.0,0.0,395.0,True
+4092,Mars,True,FP,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+649,Earth,True,GP,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,False
+7358,Earth,False,GP,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,1714.0,0.0,False
+1730,Earth,False,FS,PSO J318.5-22,38.0,False,0.0,0.0,0.0,0.0,1381.0,False
+7046,Europa,False,BS,TRAPPIST-1e,37.0,False,1577.0,11396.0,0.0,1014.0,560.0,True
+7260,Earth,False,GS,55 Cancri e,14.0,False,325.0,0.0,19.0,506.0,2.0,False
+7918,Europa,True,CS,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+1272,Earth,False,GS,PSO J318.5-22,42.0,False,491.0,106.0,8.0,202.0,0.0,False
+360,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+6851,Europa,True,BS,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+2813,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+4236,Mars,False,EP,TRAPPIST-1e,21.0,False,572.0,584.0,128.0,14.0,0.0,False
+4961,Earth,False,GP,55 Cancri e,27.0,False,3905.0,7.0,0.0,4.0,53.0,False
+7874,Europa,True,CS,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+1526,Earth,False,FS,55 Cancri e,25.0,False,553.0,0.0,1.0,239.0,8.0,True
+354,Earth,True,GS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,False
+5191,Mars,False,FS,TRAPPIST-1e,50.0,False,690.0,0.0,30.0,762.0,428.0,False
+5146,Earth,True,GP,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+5170,Earth,False,ES,55 Cancri e,42.0,False,31.0,0.0,0.0,635.0,0.0,True
+5875,Mars,False,EP,TRAPPIST-1e,23.0,False,1696.0,46.0,82.0,235.0,17.0,False
+4607,Europa,False,EP,TRAPPIST-1e,42.0,False,0.0,1330.0,0.0,2711.0,691.0,False
+2891,Mars,True,FP,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,True
+1975,Mars,False,FP,TRAPPIST-1e,24.0,False,600.0,593.0,1404.0,0.0,1.0,False
+397,Earth,False,GS,PSO J318.5-22,56.0,False,46.0,11.0,0.0,622.0,0.0,False
+71,Mars,False,FS,TRAPPIST-1e,27.0,False,147.0,0.0,1018.0,0.0,0.0,True
+7638,Earth,True,GP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,False
+5661,Earth,False,FS,TRAPPIST-1e,29.0,False,0.0,839.0,0.0,36.0,5.0,True
+7939,Mars,False,DS,TRAPPIST-1e,27.0,False,244.0,0.0,492.0,297.0,23.0,True
+7702,Earth,False,GP,TRAPPIST-1e,18.0,False,3.0,0.0,3.0,1773.0,0.0,False
+1716,Earth,False,FS,55 Cancri e,24.0,False,0.0,94.0,1.0,56.0,427.0,False
+2103,Europa,True,CP,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+3169,Mars,True,FS,TRAPPIST-1e,72.0,False,0.0,0.0,0.0,0.0,0.0,True
+8199,Mars,False,FS,TRAPPIST-1e,44.0,False,1.0,0.0,2080.0,11.0,0.0,True
+2401,Earth,False,GP,TRAPPIST-1e,22.0,False,98.0,0.0,46.0,641.0,0.0,False
+7723,Earth,False,FS,55 Cancri e,21.0,False,499.0,0.0,193.0,1.0,1.0,False
+7573,Europa,False,DS,TRAPPIST-1e,41.0,False,0.0,3216.0,0.0,433.0,517.0,False
+489,Mars,True,FS,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+1503,Europa,False,CP,55 Cancri e,27.0,False,0.0,4342.0,0.0,0.0,36.0,True
+2629,Earth,True,GS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+2824,Mars,True,EP,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+793,Europa,True,FP,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+6381,Earth,True,GP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+1763,Earth,True,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+5978,Europa,True,CS,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+3832,Mars,False,FS,TRAPPIST-1e,38.0,False,1100.0,43.0,163.0,3.0,0.0,False
+1496,Europa,False,EP,55 Cancri e,35.0,False,0.0,17394.0,0.0,724.0,0.0,True
+8634,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,90.0,0.0,795.0,0.0,True
+2120,Earth,False,ES,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,10.0,778.0,False
+4938,Earth,False,FS,55 Cancri e,37.0,False,0.0,0.0,163.0,0.0,486.0,True
+7272,Earth,True,GP,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+5887,Mars,True,FS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+5400,Earth,True,GS,PSO J318.5-22,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+850,Europa,False,EP,55 Cancri e,38.0,False,0.0,172.0,0.0,5907.0,34.0,False
+37,Mars,False,DP,55 Cancri e,23.0,False,784.0,964.0,0.0,951.0,0.0,False
+5492,Earth,False,EP,TRAPPIST-1e,23.0,False,0.0,456.0,2624.0,912.0,8.0,True
+8567,Europa,False,BS,55 Cancri e,22.0,False,0.0,36.0,1.0,3761.0,4521.0,False
+7775,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+8211,Earth,True,GS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+4585,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,254.0,868.0,405.0,0.0,True
+295,Earth,False,FP,TRAPPIST-1e,19.0,False,17.0,0.0,784.0,0.0,2.0,True
+1086,Earth,True,GP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+4727,Earth,False,GS,TRAPPIST-1e,23.0,False,0.0,381.0,142.0,0.0,261.0,False
+6648,Earth,False,GS,TRAPPIST-1e,16.0,False,418.0,195.0,100.0,88.0,90.0,False
+3228,Europa,True,BP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+6787,Earth,False,GS,TRAPPIST-1e,29.0,False,0.0,11.0,793.0,0.0,84.0,True
+5507,Mars,True,FP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+7778,Earth,False,GP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,True
+3742,Earth,True,GP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+7546,Mars,True,FS,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+8394,Earth,True,GS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+6312,Earth,False,EP,TRAPPIST-1e,45.0,False,1595.0,0.0,0.0,0.0,13.0,False
+3620,Mars,False,EP,TRAPPIST-1e,27.0,False,847.0,0.0,4.0,0.0,1.0,False
+2492,Europa,False,CS,TRAPPIST-1e,33.0,False,0.0,1554.0,3813.0,0.0,1435.0,True
+507,Earth,False,FP,TRAPPIST-1e,23.0,False,59.0,0.0,0.0,681.0,0.0,False
+4624,Mars,False,FS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+5390,Earth,False,FP,PSO J318.5-22,22.0,False,158.0,0.0,476.0,0.0,26.0,False
+1707,Earth,False,FP,55 Cancri e,18.0,False,0.0,0.0,454.0,0.0,263.0,False
+1959,Mars,False,FS,TRAPPIST-1e,26.0,False,1751.0,0.0,0.0,0.0,0.0,False
+8511,Earth,False,FP,TRAPPIST-1e,48.0,False,0.0,586.0,784.0,4.0,21.0,True
+5468,Earth,False,FS,TRAPPIST-1e,23.0,False,0.0,21.0,0.0,0.0,716.0,False
+4823,Mars,False,FP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+1300,Earth,False,ES,TRAPPIST-1e,35.0,False,0.0,1125.0,429.0,0.0,55.0,False
+5038,Mars,False,DP,TRAPPIST-1e,48.0,False,581.0,6.0,1.0,158.0,0.0,False
+626,Mars,False,ES,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+8681,Earth,True,GS,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+2348,Mars,False,FS,TRAPPIST-1e,25.0,False,1734.0,1.0,189.0,1.0,0.0,False
+4985,Europa,False,EP,TRAPPIST-1e,32.0,False,0.0,1301.0,0.0,94.0,356.0,False
+5392,Earth,False,FP,PSO J318.5-22,31.0,False,11.0,0.0,0.0,1912.0,1120.0,False
+7950,Mars,False,FS,55 Cancri e,35.0,False,319.0,0.0,6331.0,8.0,0.0,True
+80,Earth,False,FP,TRAPPIST-1e,43.0,False,211.0,0.0,0.0,638.0,513.0,False
+5737,Earth,False,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+7847,Earth,False,FP,PSO J318.5-22,15.0,False,64.0,0.0,0.0,0.0,640.0,True
+4737,Mars,True,FS,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+3246,Europa,False,DP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+7827,Europa,True,BS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+7602,Earth,True,GP,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,False
+3039,Earth,False,GS,PSO J318.5-22,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+1041,Europa,False,CS,TRAPPIST-1e,23.0,False,0.0,24.0,0.0,55.0,7516.0,False
+5720,Mars,False,FP,TRAPPIST-1e,33.0,False,301.0,0.0,501.0,0.0,1013.0,False
+2165,Earth,False,GP,TRAPPIST-1e,33.0,False,0.0,763.0,1.0,66.0,84.0,False
+4371,Earth,False,ES,TRAPPIST-1e,47.0,False,0.0,370.0,0.0,380.0,38.0,False
+4459,Mars,True,FP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+1123,Earth,False,FS,TRAPPIST-1e,30.0,False,0.0,575.0,180.0,4.0,44.0,False
+4050,Earth,False,FS,TRAPPIST-1e,22.0,False,39.0,0.0,63.0,3.0,654.0,False
+6421,Europa,True,CS,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+6869,Earth,False,EP,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,27.0,764.0,False
+7133,Mars,False,FP,TRAPPIST-1e,23.0,False,463.0,0.0,658.0,0.0,0.0,False
+2131,Earth,False,FP,TRAPPIST-1e,37.0,False,0.0,1.0,0.0,219.0,0.0,False
+6704,Earth,False,FS,TRAPPIST-1e,24.0,False,0.0,0.0,3.0,797.0,5.0,False
+3944,Europa,True,CS,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+8444,Earth,False,ES,55 Cancri e,48.0,False,304.0,0.0,164.0,320.0,0.0,False
+6982,Earth,False,GS,TRAPPIST-1e,21.0,False,550.0,0.0,61.0,4.0,5.0,False
+7720,Earth,False,FS,TRAPPIST-1e,19.0,False,511.0,0.0,0.0,267.0,0.0,False
+6513,Europa,False,AP,55 Cancri e,62.0,False,362.0,1049.0,46.0,104.0,829.0,True
+7500,Europa,True,DP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+7735,Earth,False,GS,TRAPPIST-1e,28.0,False,0.0,1.0,12.0,875.0,0.0,False
+4609,Mars,False,DP,TRAPPIST-1e,29.0,False,3284.0,84.0,0.0,0.0,2.0,False
+2727,Mars,True,FP,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+7347,Earth,True,GP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+5505,Mars,False,DP,TRAPPIST-1e,52.0,False,1364.0,131.0,444.0,0.0,0.0,True
+7526,Earth,False,GS,PSO J318.5-22,30.0,False,0.0,34.0,143.0,275.0,0.0,False
+4326,Europa,False,CS,TRAPPIST-1e,37.0,False,1.0,477.0,0.0,0.0,7087.0,False
+73,Europa,False,CS,TRAPPIST-1e,38.0,False,0.0,5840.0,0.0,321.0,9654.0,False
+6531,Mars,False,FS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+1165,Europa,True,CS,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+4283,Europa,True,CS,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+5055,Earth,False,FS,PSO J318.5-22,22.0,False,2.0,46.0,0.0,483.0,67.0,False
+2378,Mars,False,FP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+6625,Europa,False,CP,TRAPPIST-1e,28.0,False,0.0,4340.0,0.0,186.0,0.0,True
+1141,Earth,True,GS,PSO J318.5-22,53.0,False,0.0,0.0,0.0,0.0,0.0,False
+4690,Earth,True,GP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+6310,Mars,False,EP,PSO J318.5-22,30.0,False,77.0,71.0,1147.0,0.0,0.0,False
+5062,Earth,False,GP,PSO J318.5-22,16.0,False,481.0,0.0,166.0,0.0,122.0,False
+294,Earth,True,GS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+4169,Europa,False,CP,55 Cancri e,65.0,False,0.0,7194.0,0.0,6.0,0.0,True
+1634,Earth,False,EP,55 Cancri e,17.0,False,68.0,0.0,0.0,0.0,795.0,True
+1899,Earth,False,FP,55 Cancri e,43.0,False,0.0,6.0,730.0,1.0,0.0,False
+8473,Earth,False,GS,TRAPPIST-1e,36.0,False,0.0,17.0,204.0,559.0,3.0,False
+82,Earth,True,GS,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+2983,Europa,False,CS,TRAPPIST-1e,28.0,False,0.0,3281.0,0.0,68.0,341.0,True
+3824,Mars,False,DS,TRAPPIST-1e,46.0,False,227.0,0.0,1546.0,3.0,2.0,True
+348,Earth,False,GS,TRAPPIST-1e,28.0,False,82.0,773.0,0.0,3693.0,140.0,False
+3791,Mars,True,FS,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+7913,Europa,False,CP,TRAPPIST-1e,36.0,False,0.0,1055.0,18.0,1669.0,49.0,True
+4190,Earth,False,FS,TRAPPIST-1e,28.0,False,1549.0,0.0,5.0,0.0,0.0,False
+5905,Europa,True,BP,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+6066,Earth,False,EP,TRAPPIST-1e,30.0,False,59.0,0.0,0.0,0.0,1611.0,False
+6681,Mars,False,DP,55 Cancri e,19.0,False,1043.0,0.0,138.0,0.0,0.0,False
+1907,Mars,True,FS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+54,Europa,False,AS,TRAPPIST-1e,27.0,False,279.0,605.0,3374.0,286.0,3.0,True
+4084,Europa,False,CP,55 Cancri e,54.0,False,0.0,1832.0,0.0,0.0,1768.0,False
+2141,Mars,False,FS,TRAPPIST-1e,35.0,False,174.0,0.0,381.0,0.0,62.0,False
+2148,Mars,False,FP,55 Cancri e,52.0,False,1377.0,0.0,32.0,22.0,0.0,True
+5314,Earth,False,EP,TRAPPIST-1e,18.0,False,0.0,0.0,1609.0,0.0,0.0,True
+7819,Earth,False,FP,TRAPPIST-1e,27.0,False,1403.0,169.0,1081.0,0.0,0.0,False
+2919,Mars,False,FP,TRAPPIST-1e,13.0,False,1007.0,0.0,142.0,295.0,0.0,False
+3321,Earth,True,GP,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+6342,Europa,True,AP,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+6762,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,10.0,0.0,0.0,738.0,False
+8367,Europa,False,BS,TRAPPIST-1e,57.0,False,0.0,13.0,0.0,52.0,11325.0,False
+4498,Europa,True,CS,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+3661,Earth,True,GS,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+6294,Earth,False,FP,TRAPPIST-1e,35.0,False,90.0,0.0,655.0,43.0,16.0,False
+4486,Mars,True,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6200,Mars,True,FP,55 Cancri e,68.0,False,0.0,0.0,0.0,0.0,0.0,True
+3587,Mars,True,FS,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+6759,Earth,False,FS,TRAPPIST-1e,18.0,False,457.0,0.0,11.0,335.0,0.0,False
+2631,Earth,False,FP,TRAPPIST-1e,25.0,False,237.0,0.0,910.0,0.0,12.0,False
+2759,Earth,False,EP,TRAPPIST-1e,21.0,False,2.0,417.0,323.0,0.0,84.0,True
+1458,Earth,False,FS,TRAPPIST-1e,47.0,False,12.0,7.0,0.0,720.0,0.0,True
+6353,Europa,True,ES,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+2936,Europa,True,BS,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+6886,Europa,False,DP,TRAPPIST-1e,36.0,False,83.0,1186.0,0.0,2160.0,736.0,False
+3116,Mars,True,FS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+2620,Earth,False,FP,TRAPPIST-1e,19.0,False,0.0,0.0,366.0,268.0,0.0,False
+2433,Earth,False,FP,TRAPPIST-1e,29.0,False,900.0,0.0,0.0,0.0,1.0,False
+8322,Earth,False,GS,55 Cancri e,58.0,False,0.0,0.0,620.0,0.0,0.0,False
+6203,Earth,False,FS,TRAPPIST-1e,41.0,False,699.0,0.0,0.0,2.0,31.0,True
+7650,Earth,False,GS,TRAPPIST-1e,31.0,False,0.0,918.0,0.0,0.0,900.0,False
+1177,Europa,False,AP,TRAPPIST-1e,32.0,False,8168.0,69.0,11.0,371.0,0.0,False
+3716,Earth,False,GP,55 Cancri e,27.0,False,0.0,0.0,2.0,0.0,808.0,False
+607,Earth,False,FP,55 Cancri e,13.0,False,0.0,7.0,0.0,339.0,359.0,False
+3797,Earth,True,GS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+8272,Earth,True,GS,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+482,Earth,True,GS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2573,Earth,False,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+5580,Earth,True,GS,55 Cancri e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+1334,Earth,True,GS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+1717,Earth,False,FP,TRAPPIST-1e,19.0,False,0.0,1333.0,3.0,624.0,254.0,True
+26,Earth,False,ES,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,False
+7716,Earth,False,FS,TRAPPIST-1e,19.0,False,5.0,666.0,0.0,123.0,440.0,False
+396,Earth,False,GS,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+4140,Europa,False,BS,TRAPPIST-1e,29.0,False,0.0,6338.0,0.0,1366.0,89.0,True
+7138,Europa,True,AP,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+7326,Earth,False,FS,PSO J318.5-22,18.0,False,328.0,0.0,0.0,24.0,309.0,False
+1395,Earth,True,GS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+3671,Earth,True,GS,PSO J318.5-22,20.0,False,0.0,0.0,0.0,0.0,0.0,False
+5089,Mars,False,FP,TRAPPIST-1e,44.0,False,1267.0,18.0,0.0,3.0,0.0,True
+3158,Europa,False,CP,TRAPPIST-1e,49.0,False,0.0,104.0,809.0,3668.0,7.0,False
+7417,Earth,False,FS,TRAPPIST-1e,41.0,False,84.0,0.0,6.0,811.0,2.0,True
+7335,Earth,False,GS,TRAPPIST-1e,22.0,False,558.0,63.0,0.0,0.0,0.0,False
+4712,Earth,False,FP,TRAPPIST-1e,33.0,False,1042.0,50.0,0.0,9.0,0.0,False
+4928,Europa,True,BS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+7695,Earth,True,GS,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+4755,Earth,True,GP,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,False
+5829,Earth,False,ES,TRAPPIST-1e,14.0,False,5.0,0.0,479.0,297.0,9.0,False
+6000,Earth,False,EP,55 Cancri e,14.0,False,0.0,973.0,0.0,1.0,0.0,True
+5503,Earth,True,GS,PSO J318.5-22,51.0,False,0.0,0.0,0.0,0.0,0.0,True
+7920,Europa,True,CS,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+1107,Earth,False,GS,PSO J318.5-22,24.0,False,96.0,592.0,12.0,0.0,0.0,True
+2923,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,7.0,548.0,4.0,0.0,True
+6761,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,134.0,482.0,0.0,27.0,False
+7630,Earth,False,GP,TRAPPIST-1e,42.0,False,18.0,5.0,470.0,356.0,57.0,False
+5287,Mars,False,FP,TRAPPIST-1e,28.0,False,1909.0,0.0,0.0,0.0,6.0,False
+1946,Europa,True,AP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+2639,Earth,False,GS,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,False
+540,Europa,True,CP,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+7892,Earth,True,GP,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,False
+7121,Europa,False,CP,TRAPPIST-1e,29.0,False,220.0,1130.0,0.0,7.0,951.0,True
+5592,Mars,False,FS,TRAPPIST-1e,27.0,False,1379.0,0.0,414.0,0.0,805.0,False
+6227,Earth,False,GS,TRAPPIST-1e,38.0,False,115.0,125.0,0.0,202.0,0.0,True
+3213,Earth,True,GS,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+7256,Europa,False,BS,TRAPPIST-1e,43.0,False,0.0,8948.0,0.0,153.0,872.0,True
+1154,Europa,False,EP,TRAPPIST-1e,23.0,False,0.0,592.0,0.0,345.0,810.0,False
+6791,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,0.0,773.0,0.0,4.0,False
+5953,Earth,False,DS,TRAPPIST-1e,34.0,False,6.0,878.0,0.0,10.0,2203.0,False
+7220,Europa,True,BS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+1416,Earth,False,GS,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,False
+4064,Mars,False,FS,TRAPPIST-1e,47.0,False,2044.0,0.0,95.0,0.0,120.0,False
+8146,Earth,False,GP,PSO J318.5-22,28.0,False,679.0,0.0,0.0,0.0,0.0,False
+8124,Europa,True,BP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+2082,Earth,False,GP,TRAPPIST-1e,39.0,False,9.0,18.0,0.0,2.0,878.0,False
+380,Europa,True,BP,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,True
+2347,Mars,False,FS,TRAPPIST-1e,48.0,False,639.0,412.0,110.0,0.0,0.0,True
+2551,Europa,False,CS,55 Cancri e,45.0,False,0.0,726.0,0.0,281.0,1257.0,True
+7555,Europa,False,CP,55 Cancri e,29.0,False,2686.0,0.0,0.0,2854.0,2553.0,False
+1320,Earth,False,FS,TRAPPIST-1e,28.0,False,0.0,0.0,529.0,560.0,60.0,False
+2001,Mars,False,FP,55 Cancri e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+5138,Europa,False,BP,TRAPPIST-1e,53.0,False,0.0,6634.0,0.0,5047.0,108.0,False
+5659,Mars,True,FS,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+6505,Europa,True,AP,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+5108,Europa,False,CS,TRAPPIST-1e,38.0,False,0.0,347.0,0.0,1545.0,2187.0,False
+2767,Europa,True,BS,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+2074,Earth,False,GS,TRAPPIST-1e,29.0,False,0.0,86.0,0.0,252.0,570.0,False
+8408,Earth,True,GS,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+8292,Earth,True,GP,PSO J318.5-22,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+1826,Mars,False,DS,TRAPPIST-1e,37.0,False,2765.0,0.0,1134.0,0.0,0.0,False
+2583,Earth,True,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,False
+7742,Mars,False,FS,TRAPPIST-1e,21.0,False,32.0,0.0,1008.0,0.0,0.0,True
+7705,Mars,False,DP,TRAPPIST-1e,43.0,False,1054.0,109.0,576.0,645.0,0.0,False
+6365,Earth,False,FP,TRAPPIST-1e,32.0,False,3135.0,2.0,0.0,0.0,0.0,False
+1919,Earth,True,GP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+6587,Europa,True,BS,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+7423,Earth,False,GS,TRAPPIST-1e,27.0,False,0.0,593.0,0.0,259.0,0.0,False
+5049,Mars,True,DS,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+7398,Europa,False,CS,TRAPPIST-1e,31.0,False,0.0,87.0,0.0,2263.0,224.0,False
+7509,Europa,True,AP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+3701,Europa,False,FP,TRAPPIST-1e,29.0,False,0.0,7164.0,0.0,58.0,1.0,True
+7117,Europa,True,CS,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+2321,Mars,False,FP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+2073,Earth,True,GP,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+1186,Europa,False,AP,55 Cancri e,30.0,False,0.0,3628.0,289.0,1737.0,4987.0,False
+4538,Earth,True,GS,PSO J318.5-22,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+6983,Earth,True,GP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+5856,Europa,False,BS,TRAPPIST-1e,26.0,False,0.0,9.0,0.0,3.0,2047.0,False
+428,Earth,False,FS,TRAPPIST-1e,22.0,False,0.0,70.0,182.0,612.0,20.0,True
+6533,Europa,False,FP,55 Cancri e,27.0,False,146.0,3786.0,490.0,0.0,18.0,True
+8446,Mars,False,EP,TRAPPIST-1e,30.0,False,522.0,0.0,0.0,0.0,27.0,True
+1287,Earth,True,GP,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+583,Europa,False,CP,55 Cancri e,44.0,False,434.0,3113.0,19.0,0.0,892.0,False
+3366,Europa,False,BP,TRAPPIST-1e,36.0,False,43.0,2.0,0.0,14.0,16337.0,False
+681,Mars,False,FP,TRAPPIST-1e,20.0,False,457.0,0.0,170.0,1132.0,0.0,False
+8012,Mars,False,DS,TRAPPIST-1e,53.0,False,1042.0,0.0,2.0,1.0,11.0,False
+6510,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,18.0,73.0,2134.0,25.0,False
+7019,Mars,True,FS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+3669,Mars,False,DP,TRAPPIST-1e,60.0,True,2739.0,0.0,0.0,0.0,0.0,False
+834,Earth,True,GP,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+7190,Earth,True,GS,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,False
+2361,Earth,True,GP,55 Cancri e,78.0,False,0.0,0.0,0.0,0.0,0.0,False
+769,Mars,False,FS,TRAPPIST-1e,29.0,False,1227.0,42.0,1.0,0.0,0.0,False
+8579,Europa,True,BP,55 Cancri e,30.0,True,0.0,0.0,0.0,0.0,0.0,True
+485,Earth,False,EP,TRAPPIST-1e,42.0,False,0.0,0.0,750.0,0.0,156.0,False
+79,Europa,True,CS,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+1283,Earth,False,ES,TRAPPIST-1e,25.0,False,0.0,997.0,0.0,0.0,0.0,True
+7557,Earth,False,FP,TRAPPIST-1e,19.0,False,0.0,0.0,134.0,1931.0,0.0,False
+3033,Earth,False,FS,TRAPPIST-1e,43.0,False,0.0,16.0,34.0,753.0,1.0,False
+7688,Europa,False,ES,TRAPPIST-1e,25.0,False,0.0,1003.0,1629.0,73.0,748.0,False
+7465,Mars,False,FP,TRAPPIST-1e,21.0,False,838.0,45.0,455.0,0.0,0.0,False
+8233,Earth,False,FS,TRAPPIST-1e,14.0,False,0.0,1427.0,148.0,0.0,7.0,True
+8692,Europa,False,ES,TRAPPIST-1e,44.0,False,126.0,4688.0,0.0,0.0,12.0,True
+7490,Earth,True,GS,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+2350,Mars,False,FS,TRAPPIST-1e,24.0,False,737.0,37.0,1682.0,0.0,0.0,False
+7127,Europa,True,CS,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+2218,Europa,True,CP,PSO J318.5-22,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+7657,Earth,False,GS,TRAPPIST-1e,22.0,False,753.0,0.0,0.0,0.0,0.0,False
+8309,Earth,False,GS,TRAPPIST-1e,39.0,False,0.0,798.0,0.0,56.0,0.0,True
+1138,Earth,False,GP,TRAPPIST-1e,23.0,False,0.0,0.0,6.0,30.0,200.0,False
+2002,Mars,False,FP,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+3913,Europa,False,CP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6093,Earth,False,GS,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,1806.0,0.0,False
+6156,Earth,True,GP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+5289,Mars,True,FS,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+1545,Earth,False,GS,TRAPPIST-1e,41.0,False,139.0,666.0,6.0,71.0,25.0,False
+449,Earth,True,GS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+4406,Earth,False,FP,TRAPPIST-1e,38.0,False,183.0,203.0,0.0,110.0,374.0,False
+5061,Earth,False,GP,TRAPPIST-1e,16.0,False,3.0,595.0,0.0,9.0,321.0,True
+7882,Earth,False,FP,TRAPPIST-1e,15.0,False,0.0,3137.0,0.0,0.0,0.0,True
+5384,Earth,False,GS,TRAPPIST-1e,23.0,False,88.0,0.0,586.0,0.0,0.0,True
+259,Earth,False,FP,55 Cancri e,57.0,False,3.0,1281.0,29.0,162.0,13.0,False
+5920,Earth,True,GP,TRAPPIST-1e,47.0,False,0.0,0.0,0.0,0.0,0.0,True
+72,Mars,False,FP,TRAPPIST-1e,28.0,False,14.0,0.0,1295.0,0.0,0.0,True
+119,Mars,False,ES,TRAPPIST-1e,35.0,False,701.0,0.0,296.0,0.0,25.0,False
+1972,Earth,False,GS,55 Cancri e,20.0,False,1.0,0.0,0.0,4926.0,1.0,False
+7698,Europa,True,DS,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+2119,Earth,False,GP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+3718,Earth,False,GP,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,False
+959,Earth,False,FP,TRAPPIST-1e,15.0,False,48.0,6.0,0.0,954.0,0.0,False
+5754,Earth,False,FS,55 Cancri e,27.0,False,0.0,0.0,0.0,2725.0,73.0,False
+2246,Earth,True,CS,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+6029,Earth,False,FP,55 Cancri e,54.0,False,801.0,5.0,0.0,0.0,0.0,True
+3237,Earth,False,FS,PSO J318.5-22,50.0,False,121.0,558.0,0.0,10.0,0.0,False
+5970,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,541.0,0.0,143.0,0.0,False
+7305,Earth,False,FS,PSO J318.5-22,27.0,False,0.0,605.0,0.0,0.0,0.0,True
+5020,Mars,True,FP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+4871,Earth,True,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+2872,Europa,False,BP,TRAPPIST-1e,52.0,True,0.0,7452.0,0.0,1158.0,7979.0,False
+2056,Europa,False,DS,55 Cancri e,32.0,False,0.0,1968.0,13.0,1051.0,0.0,True
+5599,Europa,False,CS,TRAPPIST-1e,28.0,False,0.0,4780.0,1761.0,1.0,247.0,True
+860,Mars,False,FP,TRAPPIST-1e,34.0,False,379.0,0.0,1626.0,0.0,0.0,False
+5415,Earth,False,FP,55 Cancri e,21.0,False,0.0,0.0,0.0,1.0,594.0,False
+7198,Europa,False,CS,55 Cancri e,32.0,True,0.0,48.0,0.0,3204.0,112.0,False
+8476,Europa,True,BP,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,True
+7521,Europa,False,AS,TRAPPIST-1e,29.0,False,0.0,1408.0,0.0,408.0,1.0,True
+668,Earth,False,FP,55 Cancri e,24.0,False,21.0,0.0,689.0,12.0,0.0,True
+4026,Europa,True,EP,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+8497,Earth,True,GS,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+5718,Earth,False,GP,TRAPPIST-1e,28.0,False,8.0,0.0,3949.0,0.0,9.0,True
+1258,Earth,True,GS,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+6633,Europa,False,BS,TRAPPIST-1e,20.0,False,0.0,275.0,1690.0,580.0,5499.0,False
+825,Mars,False,DS,PSO J318.5-22,37.0,True,381.0,0.0,3.0,447.0,0.0,False
+4914,Earth,True,GS,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,0.0,0.0,True
+2312,Earth,False,GS,PSO J318.5-22,25.0,False,2.0,2762.0,552.0,0.0,1391.0,False
+4187,Earth,False,FP,TRAPPIST-1e,23.0,False,36.0,18.0,670.0,0.0,32.0,True
+4982,Earth,False,FP,TRAPPIST-1e,18.0,False,454.0,0.0,0.0,324.0,0.0,False
+523,Earth,False,GS,PSO J318.5-22,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+5195,Earth,False,ES,TRAPPIST-1e,21.0,False,39.0,360.0,0.0,0.0,0.0,True
+1625,Earth,True,GP,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,False
+3557,Earth,False,FS,PSO J318.5-22,41.0,False,0.0,122.0,0.0,104.0,486.0,False
+440,Europa,False,BP,55 Cancri e,30.0,False,0.0,7972.0,0.0,0.0,4.0,True
+7376,Earth,False,ES,TRAPPIST-1e,29.0,False,37.0,0.0,644.0,0.0,177.0,True
+4706,Mars,True,FS,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+3026,Europa,True,CS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+2023,Mars,True,FS,PSO J318.5-22,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+1078,Europa,False,CP,55 Cancri e,34.0,False,2386.0,841.0,76.0,26.0,1693.0,False
+4684,Earth,False,GP,55 Cancri e,42.0,False,642.0,282.0,0.0,0.0,0.0,True
+1319,Earth,False,GP,TRAPPIST-1e,28.0,False,0.0,508.0,334.0,0.0,46.0,True
+6205,Earth,False,BS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+4205,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+3392,Europa,True,CS,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4220,Earth,True,GP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,False
+7290,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,2141.0,False
+5523,Earth,False,EP,PSO J318.5-22,50.0,False,781.0,2.0,0.0,61.0,0.0,True
+7410,Earth,False,GP,TRAPPIST-1e,21.0,False,90.0,0.0,817.0,0.0,0.0,False
+2157,Europa,False,DS,55 Cancri e,49.0,False,9.0,2426.0,95.0,1249.0,168.0,False
+3525,Earth,False,FP,55 Cancri e,51.0,False,183.0,0.0,1.0,0.0,1103.0,False
+1338,Europa,False,CS,TRAPPIST-1e,41.0,False,0.0,184.0,0.0,1520.0,3358.0,False
+4089,Earth,False,FP,TRAPPIST-1e,13.0,False,552.0,247.0,0.0,4.0,0.0,False
+2815,Earth,False,GS,PSO J318.5-22,21.0,False,0.0,27.0,1181.0,0.0,513.0,False
+8140,Europa,True,CS,PSO J318.5-22,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+6210,Mars,False,FS,TRAPPIST-1e,59.0,False,126.0,0.0,127.0,11.0,1393.0,False
+6404,Mars,False,FS,TRAPPIST-1e,32.0,False,2937.0,60.0,696.0,0.0,0.0,False
+6253,Earth,False,GS,PSO J318.5-22,22.0,False,0.0,115.0,273.0,0.0,218.0,True
+7276,Europa,False,CS,55 Cancri e,33.0,False,0.0,73.0,31.0,8493.0,9065.0,False
+4825,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+6092,Earth,True,GS,PSO J318.5-22,49.0,False,0.0,0.0,0.0,0.0,0.0,True
+1812,Earth,True,GS,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+6263,Earth,False,FS,TRAPPIST-1e,19.0,False,0.0,1044.0,0.0,2.0,4.0,True
+5586,Earth,False,EP,TRAPPIST-1e,32.0,False,0.0,5.0,0.0,64.0,0.0,False
+3107,Europa,False,CS,TRAPPIST-1e,29.0,False,0.0,216.0,191.0,12062.0,59.0,False
+3948,Europa,False,EP,TRAPPIST-1e,23.0,False,3.0,343.0,0.0,4280.0,0.0,False
+3624,Earth,True,GS,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+1566,Europa,False,AS,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,False
+18,Mars,True,FP,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+4196,Earth,True,GS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+418,Europa,True,BS,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+244,Earth,True,GP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+6164,Europa,False,DP,TRAPPIST-1e,29.0,False,0.0,6.0,0.0,0.0,5531.0,False
+7868,Europa,False,BP,55 Cancri e,33.0,True,9.0,1365.0,0.0,5577.0,1483.0,False
+3032,Europa,False,BS,TRAPPIST-1e,43.0,False,0.0,1440.0,0.0,85.0,150.0,True
+3092,Mars,False,DS,55 Cancri e,48.0,False,824.0,2.0,830.0,298.0,0.0,False
+2795,Mars,False,EP,TRAPPIST-1e,51.0,False,1644.0,0.0,234.0,157.0,64.0,False
+5813,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,784.0,8.0,11.0,0.0,True
+5280,Earth,False,GS,TRAPPIST-1e,22.0,False,19.0,9.0,0.0,0.0,594.0,True
+3182,Mars,True,FP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+1011,Mars,False,FS,TRAPPIST-1e,50.0,False,202.0,0.0,1108.0,0.0,0.0,False
+6757,Europa,False,BP,55 Cancri e,34.0,False,0.0,2612.0,1.0,131.0,2714.0,False
+6071,Earth,False,FP,TRAPPIST-1e,27.0,False,93.0,0.0,0.0,0.0,772.0,False
+6347,Earth,False,GP,TRAPPIST-1e,37.0,False,18.0,238.0,0.0,528.0,0.0,False
+3464,Europa,True,AS,55 Cancri e,5.0,False,0.0,0.0,0.0,0.0,0.0,True
+7383,Mars,False,FP,TRAPPIST-1e,18.0,False,196.0,0.0,744.0,0.0,0.0,True
+2692,Mars,False,DP,TRAPPIST-1e,37.0,False,912.0,0.0,0.0,0.0,0.0,False
+7315,Earth,False,GS,TRAPPIST-1e,46.0,False,0.0,0.0,0.0,17.0,655.0,False
+6693,Earth,False,GS,TRAPPIST-1e,35.0,False,2224.0,0.0,105.0,1.0,0.0,False
+3796,Europa,False,AP,55 Cancri e,36.0,False,0.0,1302.0,0.0,2067.0,10173.0,False
+4894,Europa,True,BP,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+4040,Earth,False,FP,PSO J318.5-22,29.0,False,0.0,22.0,0.0,1156.0,0.0,False
+2045,Earth,False,FS,TRAPPIST-1e,20.0,False,1750.0,0.0,446.0,0.0,76.0,False
+736,Europa,True,ES,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+2075,Earth,False,FS,TRAPPIST-1e,14.0,False,0.0,600.0,0.0,204.0,0.0,True
+1397,Earth,False,FS,PSO J318.5-22,23.0,False,200.0,414.0,73.0,1.0,1.0,False
+1352,Earth,True,GP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+1026,Mars,True,FP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+173,Mars,False,DP,PSO J318.5-22,25.0,False,1052.0,0.0,719.0,0.0,7.0,False
+3545,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+8328,Earth,False,FP,TRAPPIST-1e,16.0,False,0.0,1332.0,0.0,0.0,0.0,True
+3371,Earth,False,EP,TRAPPIST-1e,37.0,False,0.0,559.0,366.0,0.0,62.0,True
+7159,Earth,True,GP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+5367,Earth,False,GP,55 Cancri e,34.0,False,0.0,1745.0,6.0,5.0,37.0,True
+7772,Mars,True,FS,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+2448,Earth,False,FP,TRAPPIST-1e,19.0,False,232.0,0.0,479.0,0.0,5.0,False
+7981,Mars,True,FS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+5242,Europa,False,DP,TRAPPIST-1e,65.0,False,0.0,722.0,302.0,103.0,2659.0,False
+4664,Europa,True,FP,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+5104,Mars,False,EP,TRAPPIST-1e,29.0,False,848.0,1497.0,2.0,0.0,0.0,False
+43,Earth,True,GP,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,False
+1098,Europa,False,BP,55 Cancri e,46.0,False,0.0,7201.0,0.0,32.0,2587.0,False
+3953,Mars,False,FP,TRAPPIST-1e,30.0,False,176.0,0.0,2310.0,0.0,0.0,True
+4279,Earth,False,FS,TRAPPIST-1e,25.0,False,0.0,205.0,0.0,0.0,549.0,True
+3209,Earth,True,GP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+3549,Earth,False,FS,TRAPPIST-1e,18.0,False,14.0,651.0,11.0,17.0,0.0,False
+3988,Earth,False,FP,TRAPPIST-1e,27.0,False,6.0,0.0,0.0,768.0,1141.0,False
+1215,Earth,False,FP,TRAPPIST-1e,20.0,False,213.0,0.0,0.0,0.0,584.0,False
+3743,Earth,True,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+5135,Mars,True,FP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+4493,Mars,False,ES,TRAPPIST-1e,20.0,False,845.0,0.0,46.0,123.0,0.0,False
+2559,Mars,False,FP,TRAPPIST-1e,52.0,False,758.0,0.0,356.0,5.0,0.0,False
+6835,Europa,False,CP,TRAPPIST-1e,32.0,False,0.0,163.0,0.0,6953.0,50.0,False
+8650,Earth,True,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6090,Earth,False,GS,TRAPPIST-1e,24.0,False,552.0,1.0,0.0,231.0,0.0,True
+12,Mars,False,FP,TRAPPIST-1e,32.0,False,73.0,0.0,1123.0,0.0,113.0,True
+2900,Earth,False,GP,PSO J318.5-22,31.0,False,0.0,140.0,394.0,0.0,0.0,False
+5241,Earth,False,FS,TRAPPIST-1e,30.0,False,0.0,1.0,0.0,870.0,0.0,False
+6201,Europa,False,EP,55 Cancri e,38.0,False,0.0,201.0,0.0,1308.0,4085.0,False
+8329,Earth,False,FP,TRAPPIST-1e,28.0,False,0.0,16.0,496.0,318.0,0.0,False
+4525,Mars,False,EP,TRAPPIST-1e,27.0,False,665.0,631.0,1.0,0.0,0.0,False
+5894,Earth,False,GP,TRAPPIST-1e,23.0,False,0.0,1.0,908.0,0.0,0.0,True
+24,Earth,False,ES,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+7473,Europa,True,FP,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+358,Europa,False,BP,55 Cancri e,31.0,True,0.0,11003.0,552.0,8157.0,5688.0,False
+7269,Mars,False,DP,55 Cancri e,67.0,False,1146.0,16.0,39.0,0.0,518.0,True
+8572,Earth,False,GS,TRAPPIST-1e,36.0,False,0.0,281.0,0.0,0.0,632.0,False
+4888,Earth,False,FS,TRAPPIST-1e,26.0,False,168.0,0.0,382.0,166.0,0.0,True
+3937,Earth,True,GP,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+3377,Earth,False,ES,TRAPPIST-1e,29.0,False,25.0,692.0,0.0,0.0,1.0,True
+4090,Earth,False,FP,PSO J318.5-22,15.0,False,0.0,0.0,873.0,0.0,5.0,True
+4818,Europa,False,AP,55 Cancri e,40.0,False,0.0,3815.0,0.0,322.0,0.0,True
+1085,Mars,False,FS,TRAPPIST-1e,41.0,False,29.0,0.0,1095.0,0.0,4.0,False
+895,Europa,True,BP,TRAPPIST-1e,48.0,False,0.0,0.0,0.0,0.0,0.0,True
+7401,Mars,True,FS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+2235,Earth,False,ES,TRAPPIST-1e,46.0,False,0.0,557.0,0.0,287.0,781.0,False
+7627,Europa,False,BP,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,True
+5395,Europa,True,BS,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,True
+3101,Earth,True,GS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+155,Mars,False,DS,TRAPPIST-1e,38.0,False,3414.0,0.0,161.0,28.0,119.0,False
+4563,Earth,False,GP,55 Cancri e,19.0,False,423.0,0.0,0.0,0.0,0.0,False
+7036,Mars,False,FS,TRAPPIST-1e,45.0,False,2.0,36.0,1110.0,9.0,0.0,False
+387,Europa,False,AS,55 Cancri e,20.0,False,2.0,10116.0,0.0,2.0,225.0,True
+8635,Earth,False,ES,55 Cancri e,31.0,False,15.0,679.0,89.0,6.0,0.0,True
+4787,Europa,False,BP,TRAPPIST-1e,28.0,False,29.0,394.0,0.0,712.0,4360.0,False
+6730,Europa,False,AP,TRAPPIST-1e,14.0,False,0.0,3124.0,40.0,219.0,189.0,False
+7001,Earth,False,GP,TRAPPIST-1e,18.0,False,960.0,672.0,0.0,0.0,168.0,False
+4791,Europa,True,CS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+3236,Europa,False,BP,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,False
+8452,Mars,False,DP,TRAPPIST-1e,17.0,False,3146.0,0.0,87.0,135.0,0.0,False
+5009,Europa,True,BS,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+7711,Mars,True,FS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+592,Earth,False,GS,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+5663,Earth,True,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+4656,Earth,True,GS,TRAPPIST-1e,61.0,False,0.0,0.0,0.0,0.0,0.0,True
+886,Earth,True,GS,PSO J318.5-22,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+5455,Earth,False,GP,TRAPPIST-1e,31.0,False,1.0,0.0,7.0,0.0,387.0,True
+1509,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,2681.0,55.0,False
+821,Earth,False,FS,TRAPPIST-1e,19.0,False,0.0,162.0,540.0,0.0,0.0,False
+3095,Mars,True,FP,TRAPPIST-1e,60.0,False,0.0,0.0,0.0,0.0,0.0,True
+1498,Europa,False,DS,55 Cancri e,33.0,False,0.0,26.0,1.0,33.0,2439.0,False
+6380,Earth,False,FP,PSO J318.5-22,28.0,False,545.0,0.0,501.0,0.0,0.0,False
+2277,Earth,False,FP,TRAPPIST-1e,33.0,False,0.0,0.0,661.0,0.0,94.0,True
+8514,Earth,True,GP,PSO J318.5-22,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+1843,Earth,False,FS,PSO J318.5-22,54.0,False,3.0,0.0,56.0,633.0,0.0,False
+444,Mars,False,FP,PSO J318.5-22,27.0,False,0.0,6.0,145.0,144.0,0.0,False
+2952,Earth,False,FP,TRAPPIST-1e,40.0,False,4.0,11.0,669.0,0.0,773.0,False
+7332,Earth,False,GP,TRAPPIST-1e,34.0,False,0.0,9.0,617.0,0.0,281.0,False
+3748,Earth,False,FS,55 Cancri e,52.0,False,0.0,704.0,0.0,0.0,0.0,True
+5373,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+6906,Mars,True,FP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+3998,Europa,False,AP,TRAPPIST-1e,63.0,False,0.0,490.0,1.0,2882.0,18.0,False
+8178,Europa,True,AP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+737,Earth,True,ES,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+4574,Earth,False,FS,TRAPPIST-1e,21.0,False,529.0,8.0,89.0,21.0,0.0,True
+1702,Earth,False,FS,TRAPPIST-1e,33.0,False,0.0,763.0,8.0,2.0,30.0,False
+4540,Mars,False,FP,TRAPPIST-1e,45.0,False,944.0,292.0,2.0,0.0,0.0,False
+5236,Earth,False,FP,55 Cancri e,22.0,False,654.0,2.0,83.0,0.0,0.0,False
+2030,Earth,False,FP,TRAPPIST-1e,24.0,False,388.0,0.0,7.0,409.0,0.0,False
+6866,Earth,True,GP,PSO J318.5-22,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+6403,Earth,False,GP,TRAPPIST-1e,20.0,False,0.0,97.0,725.0,26.0,104.0,True
+2499,Europa,False,BP,TRAPPIST-1e,39.0,False,0.0,7116.0,0.0,13208.0,1515.0,False
+1770,Europa,False,CS,55 Cancri e,18.0,False,0.0,16263.0,72.0,0.0,15.0,True
+3189,Earth,False,FP,55 Cancri e,24.0,False,95.0,35.0,1442.0,0.0,0.0,False
+6725,Earth,True,GP,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+7100,Earth,True,GS,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,False
+5276,Earth,True,GP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,False
+6829,Europa,False,BS,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,True
+3139,Mars,False,FS,TRAPPIST-1e,23.0,False,24.0,1.0,1264.0,0.0,0.0,True
+1405,Earth,False,EP,TRAPPIST-1e,16.0,False,92.0,1.0,884.0,0.0,0.0,False
+1075,Europa,False,FP,55 Cancri e,39.0,False,0.0,5212.0,2.0,118.0,61.0,True
+6111,Europa,True,CP,55 Cancri e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+1230,Europa,False,BS,55 Cancri e,11.0,False,0.0,0.0,0.0,0.0,0.0,True
+954,Earth,False,FS,TRAPPIST-1e,44.0,False,0.0,131.0,267.0,554.0,0.0,False
+3244,Earth,False,FS,TRAPPIST-1e,20.0,False,0.0,559.0,21.0,0.0,5.0,True
+0,Europa,False,BP,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,False
+3204,Earth,False,FS,TRAPPIST-1e,42.0,False,1196.0,0.0,0.0,68.0,1.0,False
+3177,Europa,False,ES,TRAPPIST-1e,31.0,False,0.0,1216.0,0.0,897.0,478.0,False
+2304,Earth,True,GP,TRAPPIST-1e,52.0,False,0.0,0.0,0.0,0.0,0.0,False
+7175,Earth,True,GS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,False
+6902,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,949.0,0.0,0.0,0.0,False
+631,Earth,False,FS,PSO J318.5-22,21.0,False,0.0,576.0,1.0,20.0,0.0,False
+2362,Earth,False,FS,TRAPPIST-1e,36.0,False,548.0,179.0,24.0,0.0,77.0,False
+1651,Earth,True,GP,PSO J318.5-22,59.0,False,0.0,0.0,0.0,0.0,0.0,False
+868,Earth,True,GP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+984,Earth,False,FS,TRAPPIST-1e,16.0,False,507.0,0.0,0.0,0.0,0.0,False
+6895,Earth,False,ES,TRAPPIST-1e,51.0,False,3.0,33.0,12.0,38.0,896.0,False
+1733,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,788.0,16.0,False
+7887,Earth,False,FS,TRAPPIST-1e,19.0,False,0.0,168.0,481.0,0.0,0.0,True
+3036,Earth,False,GS,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,846.0,0.0,False
+4361,Earth,False,FP,TRAPPIST-1e,36.0,False,0.0,724.0,0.0,0.0,0.0,True
+6857,Mars,False,EP,TRAPPIST-1e,22.0,False,100.0,0.0,1050.0,0.0,23.0,False
+8106,Mars,False,FS,TRAPPIST-1e,39.0,False,345.0,0.0,848.0,0.0,116.0,False
+5235,Earth,False,GP,PSO J318.5-22,37.0,False,0.0,0.0,6.0,746.0,1.0,False
+2884,Earth,False,GS,TRAPPIST-1e,74.0,False,571.0,0.0,0.0,277.0,0.0,False
+8273,Earth,False,FS,TRAPPIST-1e,42.0,False,4.0,0.0,0.0,0.0,792.0,False
+1561,Earth,False,FS,TRAPPIST-1e,17.0,False,1.0,160.0,37.0,0.0,0.0,False
+8614,Europa,False,ES,TRAPPIST-1e,32.0,True,1003.0,909.0,0.0,0.0,15.0,False
+7669,Earth,True,GS,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6321,Earth,False,GP,TRAPPIST-1e,36.0,False,0.0,361.0,512.0,34.0,0.0,True
+6214,Earth,True,GP,55 Cancri e,58.0,False,0.0,0.0,0.0,0.0,0.0,True
+5945,Europa,False,BS,TRAPPIST-1e,46.0,False,3616.0,564.0,0.0,15.0,3303.0,False
+2999,Earth,False,GS,55 Cancri e,10.0,False,0.0,0.0,0.0,0.0,0.0,False
+3074,Europa,False,BS,TRAPPIST-1e,39.0,False,0.0,957.0,0.0,22.0,401.0,True
+4338,Europa,False,BS,TRAPPIST-1e,31.0,False,0.0,2520.0,1.0,1.0,0.0,True
+5629,Mars,False,EP,TRAPPIST-1e,24.0,False,555.0,0.0,618.0,0.0,0.0,False
+3672,Mars,False,FS,TRAPPIST-1e,28.0,False,629.0,0.0,659.0,607.0,0.0,False
+6950,Earth,True,GP,PSO J318.5-22,43.0,False,0.0,0.0,0.0,0.0,0.0,False
+1037,Mars,False,FP,PSO J318.5-22,39.0,False,173.0,0.0,660.0,1.0,781.0,False
+7489,Mars,True,FS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+4963,Earth,True,GP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+5509,Europa,True,BS,55 Cancri e,47.0,False,0.0,0.0,0.0,0.0,0.0,True
+2856,Mars,True,DS,55 Cancri e,60.0,False,0.0,0.0,0.0,0.0,0.0,True
+6268,Europa,False,CP,TRAPPIST-1e,17.0,False,0.0,1339.0,26.0,244.0,15.0,False
+7095,Mars,True,FP,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+6295,Earth,False,GS,TRAPPIST-1e,18.0,False,0.0,0.0,827.0,0.0,0.0,True
+7027,Earth,False,GP,55 Cancri e,25.0,False,0.0,1435.0,0.0,0.0,0.0,True
+1218,Europa,False,AS,TRAPPIST-1e,28.0,True,0.0,0.0,0.0,0.0,0.0,False
+8470,Europa,False,CS,TRAPPIST-1e,25.0,False,6899.0,265.0,0.0,2234.0,2090.0,False
+5548,Earth,False,ES,TRAPPIST-1e,32.0,False,0.0,0.0,39.0,0.0,749.0,False
+1990,Earth,False,GP,TRAPPIST-1e,22.0,False,624.0,0.0,0.0,0.0,185.0,False
+6519,Earth,False,GS,TRAPPIST-1e,26.0,False,0.0,0.0,1.0,0.0,398.0,True
+1485,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,169.0,0.0,0.0,0.0,True
+1275,Mars,False,FP,TRAPPIST-1e,31.0,False,43.0,782.0,1.0,660.0,0.0,False
+2812,Earth,True,GS,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,False
+365,Earth,True,DS,55 Cancri e,32.0,True,0.0,0.0,0.0,0.0,0.0,True
+8523,Earth,False,FP,TRAPPIST-1e,21.0,False,8.0,796.0,0.0,0.0,0.0,True
+5300,Earth,False,FP,TRAPPIST-1e,51.0,False,0.0,0.0,0.0,0.0,880.0,False
+3087,Earth,False,GS,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,772.0,False
+2537,Europa,False,CS,TRAPPIST-1e,54.0,False,0.0,5876.0,0.0,0.0,914.0,True
+4939,Earth,False,FP,TRAPPIST-1e,15.0,False,0.0,400.0,0.0,0.0,702.0,False
+729,Earth,False,GS,TRAPPIST-1e,29.0,False,0.0,715.0,0.0,170.0,0.0,False
+7616,Europa,True,CP,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+4453,Europa,True,CP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+1867,Mars,True,FS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+2715,Earth,False,FS,TRAPPIST-1e,13.0,False,649.0,2.0,0.0,124.0,143.0,False
+6460,Earth,False,FS,TRAPPIST-1e,37.0,False,21.0,54.0,5.0,178.0,431.0,False
+504,Mars,True,FS,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+1362,Earth,False,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+6574,Mars,False,FP,TRAPPIST-1e,47.0,False,160.0,0.0,1232.0,36.0,0.0,True
+4849,Europa,False,CP,TRAPPIST-1e,29.0,False,6.0,5.0,0.0,6235.0,434.0,False
+813,Europa,True,BS,55 Cancri e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+1734,Earth,False,GS,TRAPPIST-1e,65.0,False,5.0,317.0,0.0,0.0,123.0,False
+382,Mars,False,FP,TRAPPIST-1e,37.0,False,1094.0,2.0,26.0,34.0,1.0,False
+2511,Mars,False,DS,TRAPPIST-1e,27.0,False,1893.0,487.0,4.0,0.0,0.0,False
+6871,Earth,False,GP,55 Cancri e,21.0,False,61.0,201.0,222.0,161.0,60.0,False
+8256,Earth,True,GP,PSO J318.5-22,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+5143,Earth,False,GS,TRAPPIST-1e,20.0,False,0.0,0.0,499.0,285.0,103.0,False
+8663,Earth,True,GS,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+2501,Earth,False,FP,TRAPPIST-1e,51.0,False,0.0,1347.0,0.0,43.0,0.0,True
+6694,Earth,False,GS,TRAPPIST-1e,16.0,False,4.0,1666.0,0.0,35.0,40.0,True
+4343,Earth,False,BS,TRAPPIST-1e,27.0,False,0.0,453.0,137.0,1331.0,1660.0,False
+6688,Earth,False,FP,PSO J318.5-22,23.0,False,64.0,4.0,0.0,1125.0,0.0,False
+5227,Mars,True,FP,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+7935,Earth,True,GP,TRAPPIST-1e,56.0,False,0.0,0.0,0.0,0.0,0.0,False
+4593,Earth,True,GS,55 Cancri e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+1305,Earth,False,FS,TRAPPIST-1e,41.0,False,338.0,0.0,377.0,2.0,86.0,True
+2064,Earth,True,GS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,False
+324,Earth,False,FS,55 Cancri e,33.0,False,0.0,36.0,0.0,280.0,417.0,True
+539,Europa,True,CP,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+4778,Earth,False,GP,TRAPPIST-1e,25.0,False,0.0,181.0,671.0,0.0,0.0,True
+4202,Mars,False,DP,TRAPPIST-1e,28.0,False,3559.0,0.0,0.0,13.0,2.0,False
+5206,Mars,True,FP,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,True
+3267,Europa,True,BP,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,True
+6452,Earth,False,FP,55 Cancri e,22.0,False,38.0,19.0,348.0,217.0,115.0,False
+1364,Earth,False,GP,TRAPPIST-1e,23.0,False,0.0,20.0,26.0,0.0,659.0,False
+3491,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,274.0,594.0,35.0,658.0,True
+6304,Earth,False,FS,TRAPPIST-1e,37.0,False,864.0,35.0,0.0,0.0,0.0,False
+3622,Earth,False,CS,55 Cancri e,18.0,False,0.0,4387.0,0.0,2241.0,0.0,True
+5773,Mars,False,FS,TRAPPIST-1e,28.0,False,828.0,0.0,72.0,6.0,0.0,False
+2156,Europa,True,DS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+6479,Earth,True,GS,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+4526,Earth,False,FP,PSO J318.5-22,20.0,False,30.0,4.0,0.0,321.0,451.0,False
+3828,Mars,False,FP,TRAPPIST-1e,46.0,False,949.0,0.0,128.0,3.0,41.0,True
+4207,Earth,True,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+7568,Mars,False,FP,TRAPPIST-1e,23.0,True,3.0,0.0,0.0,1677.0,0.0,False
+7932,Earth,True,GS,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+3443,Earth,False,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+1224,Earth,False,EP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,False
+4033,Mars,False,FS,55 Cancri e,22.0,False,1371.0,0.0,235.0,0.0,0.0,True
+2601,Earth,True,GP,PSO J318.5-22,27.0,False,0.0,0.0,0.0,0.0,0.0,False
+1855,Earth,True,GS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+2004,Mars,True,FS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+2861,Europa,False,FP,TRAPPIST-1e,14.0,False,0.0,946.0,0.0,7860.0,384.0,False
+3029,Earth,False,FP,55 Cancri e,32.0,False,1150.0,201.0,0.0,0.0,8.0,False
+430,Earth,True,GS,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,False
+1665,Europa,True,CS,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+6115,Earth,True,GP,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+7900,Mars,False,FS,TRAPPIST-1e,32.0,False,725.0,0.0,1641.0,0.0,0.0,False
+5035,Europa,False,AS,TRAPPIST-1e,34.0,True,0.0,5210.0,0.0,1332.0,2.0,True
+6120,Earth,False,FP,55 Cancri e,28.0,False,0.0,728.0,0.0,0.0,82.0,True
+7441,Earth,False,GP,TRAPPIST-1e,21.0,False,640.0,0.0,144.0,104.0,0.0,False
+5746,Earth,False,GS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+7456,Earth,False,GP,TRAPPIST-1e,22.0,False,31.0,0.0,1.0,25.0,757.0,False
+7800,Earth,True,GP,PSO J318.5-22,24.0,False,0.0,0.0,0.0,0.0,0.0,False
+6850,Mars,False,FS,TRAPPIST-1e,18.0,False,49.0,0.0,2885.0,1.0,0.0,True
+4299,Europa,False,BS,TRAPPIST-1e,33.0,False,0.0,4592.0,0.0,209.0,954.0,True
+5253,Europa,True,BS,55 Cancri e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+8257,Earth,False,GP,TRAPPIST-1e,44.0,False,857.0,0.0,1.0,8.0,17.0,False
+6940,Europa,True,CP,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+912,Earth,False,GS,TRAPPIST-1e,23.0,False,0.0,0.0,490.0,0.0,319.0,False
+474,Europa,False,CP,TRAPPIST-1e,59.0,False,0.0,16521.0,0.0,323.0,0.0,True
+6600,Earth,False,FP,PSO J318.5-22,20.0,False,0.0,0.0,0.0,0.0,1318.0,False
+5923,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,296.0,2.0,0.0,1543.0,False
+3289,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,30.0,0.0,106.0,566.0,False
+4945,Mars,True,FP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+6027,Europa,False,BP,55 Cancri e,45.0,False,0.0,3200.0,0.0,415.0,161.0,True
+3639,Earth,False,FS,TRAPPIST-1e,23.0,False,0.0,93.0,1.0,0.0,542.0,False
+7890,Earth,False,FS,TRAPPIST-1e,27.0,False,1.0,30.0,739.0,0.0,33.0,True
+548,Earth,False,GP,TRAPPIST-1e,65.0,False,0.0,0.0,521.0,105.0,0.0,False
+4663,Europa,False,AP,TRAPPIST-1e,56.0,False,0.0,10.0,0.0,9319.0,1225.0,False
+4112,Mars,False,FP,TRAPPIST-1e,27.0,False,875.0,0.0,61.0,289.0,0.0,False
+4936,Earth,True,GP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+7255,Europa,True,BS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+6797,Earth,False,ES,TRAPPIST-1e,38.0,False,0.0,338.0,0.0,453.0,0.0,False
+3699,Earth,False,FS,TRAPPIST-1e,19.0,False,0.0,0.0,5.0,756.0,0.0,True
+2178,Mars,True,FP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+1829,Europa,True,CP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+870,Mars,True,FP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+807,Earth,True,AS,55 Cancri e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+739,Earth,False,FS,TRAPPIST-1e,30.0,False,558.0,4.0,0.0,175.0,0.0,False
+1700,Mars,False,ES,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+597,Europa,True,CS,55 Cancri e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+1753,Earth,False,GS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,False
+5741,Mars,True,FP,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+6418,Europa,True,BS,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+166,Earth,True,GP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+2013,Earth,False,FS,TRAPPIST-1e,13.0,False,579.0,226.0,61.0,1.0,7.0,False
+4893,Earth,True,GP,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,False
+7163,Earth,True,GP,PSO J318.5-22,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+6144,Mars,True,FS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+1628,Europa,False,AS,55 Cancri e,59.0,False,8.0,1563.0,0.0,73.0,31.0,True
+8564,Earth,True,GP,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,False
+2384,Earth,False,GP,TRAPPIST-1e,21.0,False,882.0,0.0,0.0,0.0,0.0,False
+5872,Earth,False,FP,TRAPPIST-1e,14.0,False,71.0,0.0,0.0,0.0,0.0,False
+6813,Earth,False,FS,TRAPPIST-1e,36.0,False,0.0,129.0,0.0,177.0,444.0,False
+1182,Mars,False,FS,TRAPPIST-1e,27.0,False,4.0,0.0,896.0,229.0,0.0,False
+6610,Earth,False,ES,PSO J318.5-22,45.0,False,1.0,15.0,44.0,0.0,1541.0,False
+3621,Mars,False,EP,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,True
+4765,Earth,False,FS,55 Cancri e,22.0,False,0.0,0.0,0.0,1600.0,168.0,True
+3410,Earth,False,GS,55 Cancri e,34.0,False,232.0,457.0,1.0,218.0,0.0,True
+9,Europa,True,BP,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+7110,Earth,False,FP,55 Cancri e,14.0,False,653.0,0.0,4.0,0.0,0.0,False
+6602,Mars,False,ES,TRAPPIST-1e,29.0,False,456.0,230.0,363.0,0.0,0.0,False
+6770,Mars,False,EP,TRAPPIST-1e,32.0,False,288.0,0.0,592.0,670.0,40.0,False
+4249,Earth,False,FS,TRAPPIST-1e,37.0,False,452.0,0.0,234.0,19.0,1290.0,False
+1298,Europa,False,CS,55 Cancri e,42.0,False,0.0,21.0,0.0,2735.0,3604.0,False
+6986,Europa,False,AP,TRAPPIST-1e,28.0,False,0.0,132.0,4.0,1915.0,0.0,False
+5114,Europa,True,BP,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+2519,Europa,False,BS,TRAPPIST-1e,58.0,False,1113.0,1650.0,0.0,194.0,510.0,True
+8005,Europa,False,AP,TRAPPIST-1e,34.0,False,0.0,3636.0,0.0,70.0,27.0,True
+3551,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,724.0,80.0,False
+199,Earth,False,EP,TRAPPIST-1e,25.0,False,122.0,84.0,0.0,0.0,0.0,False
+3588,Mars,False,ES,TRAPPIST-1e,21.0,False,2627.0,0.0,597.0,0.0,0.0,True
+6719,Europa,False,DS,TRAPPIST-1e,20.0,False,1040.0,2487.0,0.0,174.0,182.0,True
+1403,Mars,True,FP,TRAPPIST-1e,49.0,False,0.0,0.0,0.0,0.0,0.0,True
+3916,Europa,False,CP,55 Cancri e,31.0,False,2.0,8747.0,0.0,4840.0,14485.0,False
+7964,Mars,True,FP,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+352,Earth,False,GP,TRAPPIST-1e,23.0,False,13.0,747.0,0.0,0.0,128.0,False
+4703,Mars,True,FP,TRAPPIST-1e,5.0,False,0.0,0.0,0.0,0.0,0.0,True
+4534,Mars,True,FP,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+1017,Earth,False,GP,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,False
+3025,Europa,True,CS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+5863,Mars,False,EP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+4946,Earth,False,FP,TRAPPIST-1e,26.0,False,0.0,0.0,827.0,1.0,0.0,False
+6334,Earth,True,GP,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,0.0,0.0,True
+1632,Earth,False,GP,TRAPPIST-1e,38.0,False,553.0,0.0,0.0,87.0,243.0,False
+1678,Earth,False,FP,55 Cancri e,37.0,False,164.0,603.0,0.0,0.0,11.0,True
+3263,Earth,False,FP,TRAPPIST-1e,38.0,False,0.0,1025.0,23.0,0.0,0.0,True
+6244,Earth,False,FP,TRAPPIST-1e,21.0,False,588.0,0.0,17.0,0.0,1548.0,False
+5162,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3294,Earth,False,ES,TRAPPIST-1e,31.0,False,1.0,110.0,274.0,27.0,376.0,False
+5488,Europa,True,BP,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+3898,Earth,False,FP,55 Cancri e,37.0,False,0.0,89.0,15.0,20.0,592.0,False
+5943,Europa,False,CP,55 Cancri e,47.0,True,0.0,2225.0,1573.0,201.0,23.0,True
+7469,Earth,True,GP,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+2599,Earth,False,ES,PSO J318.5-22,53.0,False,0.0,1.0,0.0,195.0,493.0,True
+4887,Europa,False,CP,55 Cancri e,41.0,False,717.0,641.0,2.0,1559.0,4828.0,False
+3250,Europa,False,DP,TRAPPIST-1e,29.0,False,4.0,3439.0,0.0,0.0,0.0,True
+3277,Earth,False,GP,TRAPPIST-1e,26.0,False,0.0,597.0,0.0,0.0,212.0,False
+333,Earth,False,EP,TRAPPIST-1e,20.0,False,0.0,0.0,558.0,0.0,230.0,False
+8595,Europa,False,BP,55 Cancri e,32.0,False,0.0,10073.0,0.0,168.0,337.0,True
+678,Europa,True,AS,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+8418,Europa,False,BP,55 Cancri e,29.0,False,80.0,3707.0,0.0,1465.0,1320.0,False
+8319,Earth,False,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+6343,Europa,True,AP,55 Cancri e,41.0,True,0.0,0.0,0.0,0.0,0.0,True
+2011,Earth,False,FP,TRAPPIST-1e,15.0,False,0.0,951.0,128.0,0.0,0.0,False
+3900,Mars,True,FP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+3704,Earth,False,FP,PSO J318.5-22,33.0,False,400.0,270.0,33.0,0.0,0.0,False
+3568,Mars,False,FP,TRAPPIST-1e,31.0,False,1049.0,31.0,227.0,2.0,0.0,False
+4042,Mars,True,FS,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+4228,Earth,False,GS,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,False
+4465,Earth,False,GS,TRAPPIST-1e,29.0,False,282.0,8.0,337.0,0.0,0.0,False
+1704,Earth,True,GS,PSO J318.5-22,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+35,Mars,False,FP,TRAPPIST-1e,20.0,False,0.0,0.0,1750.0,990.0,0.0,True
+5631,Europa,False,DP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+841,Europa,False,CP,TRAPPIST-1e,44.0,False,0.0,2792.0,0.0,148.0,1043.0,False
+5496,Earth,False,GS,TRAPPIST-1e,27.0,False,0.0,1774.0,0.0,17.0,13.0,True
+2446,Earth,True,GP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+544,Earth,False,FS,TRAPPIST-1e,19.0,False,1911.0,0.0,21.0,854.0,0.0,False
+3248,Mars,False,FP,TRAPPIST-1e,28.0,False,274.0,0.0,693.0,944.0,0.0,False
+120,Mars,False,DS,TRAPPIST-1e,61.0,True,2353.0,334.0,9.0,316.0,2.0,False
+800,Earth,True,GS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,False
+2857,Earth,False,GP,TRAPPIST-1e,73.0,False,0.0,0.0,0.0,153.0,556.0,False
+168,Earth,False,GP,TRAPPIST-1e,39.0,False,0.0,0.0,10.0,898.0,0.0,False
+6207,Earth,False,FS,TRAPPIST-1e,21.0,False,0.0,0.0,845.0,4.0,470.0,True
+4625,Mars,False,FS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+7339,Earth,False,FS,TRAPPIST-1e,42.0,False,1227.0,773.0,14.0,0.0,0.0,False
+8276,Earth,True,GP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+7554,Europa,False,CP,55 Cancri e,43.0,False,1.0,2060.0,0.0,1.0,2764.0,False
+60,Earth,False,GP,TRAPPIST-1e,62.0,False,1.0,153.0,197.0,0.0,460.0,False
+4908,Mars,False,FP,TRAPPIST-1e,16.0,False,271.0,0.0,2251.0,117.0,0.0,True
+8128,Mars,False,FP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+3555,Mars,True,FP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+3694,Mars,False,FP,TRAPPIST-1e,22.0,False,886.0,55.0,0.0,0.0,0.0,False
+2463,Europa,False,CS,TRAPPIST-1e,55.0,False,0.0,815.0,1558.0,3.0,1334.0,True
+8633,Earth,False,GS,TRAPPIST-1e,60.0,False,0.0,8.0,0.0,360.0,74.0,False
+4091,Earth,True,GS,55 Cancri e,37.0,False,0.0,0.0,0.0,0.0,0.0,True
+439,Europa,False,BP,TRAPPIST-1e,16.0,False,0.0,45.0,2.0,5183.0,170.0,False
+1344,Europa,True,BS,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+5525,Mars,False,FP,55 Cancri e,27.0,False,1331.0,0.0,0.0,0.0,0.0,False
+4364,Europa,True,BS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+6362,Europa,True,AS,55 Cancri e,48.0,False,0.0,0.0,0.0,0.0,0.0,True
+2070,Europa,False,AS,TRAPPIST-1e,36.0,False,0.0,3206.0,0.0,698.0,72.0,False
+7067,Earth,False,FP,TRAPPIST-1e,44.0,False,657.0,0.0,103.0,0.0,394.0,False
+8039,Earth,True,FP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+5528,Earth,True,GS,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+132,Mars,False,FP,TRAPPIST-1e,31.0,False,0.0,0.0,97.0,0.0,0.0,False
+1865,Earth,False,FS,55 Cancri e,22.0,False,0.0,0.0,30.0,499.0,138.0,False
+714,Europa,True,DP,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+6758,Earth,False,GS,55 Cancri e,23.0,False,602.0,0.0,0.0,0.0,24.0,False
+2275,Earth,False,FP,55 Cancri e,43.0,False,6.0,236.0,3.0,448.0,54.0,False
+3476,Europa,True,BP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+5704,Earth,False,GS,TRAPPIST-1e,16.0,False,805.0,4.0,0.0,0.0,0.0,True
+2392,Earth,False,GP,TRAPPIST-1e,28.0,False,145.0,8.0,557.0,0.0,74.0,True
+8261,Mars,True,FS,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+4488,Mars,False,FP,TRAPPIST-1e,34.0,False,2130.0,0.0,1.0,1.0,0.0,False
+8411,Earth,False,FS,TRAPPIST-1e,30.0,False,0.0,1028.0,0.0,80.0,0.0,False
+964,Earth,False,FP,TRAPPIST-1e,20.0,False,759.0,0.0,106.0,202.0,0.0,False
+5336,Earth,True,GS,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+2315,Earth,False,FP,55 Cancri e,36.0,False,0.0,0.0,0.0,33.0,619.0,False
+4096,Europa,False,CS,55 Cancri e,39.0,False,106.0,243.0,126.0,7.0,4967.0,False
+7878,Mars,False,DS,TRAPPIST-1e,21.0,False,1214.0,179.0,566.0,0.0,619.0,False
+2059,Europa,True,BS,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+5021,Earth,False,EP,TRAPPIST-1e,60.0,False,943.0,53.0,0.0,0.0,0.0,False
+7715,Earth,False,GS,TRAPPIST-1e,65.0,False,0.0,0.0,113.0,208.0,587.0,False
+4282,Europa,True,BS,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+94,Earth,False,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,830.0,91.0,False
+6318,Earth,False,FP,TRAPPIST-1e,60.0,False,707.0,24.0,0.0,0.0,170.0,False
+2296,Earth,False,GS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,543.0,0.0,False
+332,Earth,True,GP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,False
+5814,Europa,True,BS,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+1830,Europa,False,CP,TRAPPIST-1e,40.0,False,0.0,382.0,0.0,1.0,3822.0,False
+6382,Europa,True,CP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+6354,Europa,False,ES,55 Cancri e,27.0,False,0.0,33.0,9.0,1847.0,2035.0,False
+5271,Mars,False,EP,TRAPPIST-1e,15.0,False,890.0,9.0,0.0,1250.0,57.0,False
+7566,Europa,False,BP,TRAPPIST-1e,62.0,False,33.0,3518.0,0.0,394.0,0.0,True
+4325,Earth,False,FS,55 Cancri e,31.0,False,2.0,20.0,1.0,1026.0,2.0,True
+3640,Earth,False,FS,PSO J318.5-22,29.0,False,0.0,2.0,553.0,44.0,0.0,False
+7517,Europa,True,CS,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+7312,Earth,True,GS,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+1358,Earth,False,FP,TRAPPIST-1e,14.0,False,360.0,0.0,2116.0,1.0,8.0,False
+3909,Earth,False,GP,TRAPPIST-1e,19.0,False,0.0,0.0,4.0,6.0,773.0,False
+7460,Mars,False,FP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+3877,Mars,False,FS,TRAPPIST-1e,27.0,True,661.0,0.0,991.0,46.0,0.0,True
+8260,Europa,False,AP,55 Cancri e,25.0,False,0.0,145.0,1359.0,492.0,205.0,False
+3986,Europa,False,BP,TRAPPIST-1e,62.0,False,0.0,22.0,0.0,3314.0,22.0,False
+6899,Earth,False,FS,TRAPPIST-1e,39.0,False,19.0,102.0,0.0,678.0,0.0,False
+6248,Earth,False,FP,PSO J318.5-22,20.0,False,0.0,90.0,561.0,2.0,0.0,True
+5258,Europa,False,BS,55 Cancri e,54.0,True,0.0,7996.0,0.0,4549.0,10206.0,False
+3073,Earth,False,GP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,1765.0,False
+4329,Earth,False,GS,55 Cancri e,14.0,False,0.0,166.0,603.0,1.0,0.0,True
+864,Europa,False,BS,TRAPPIST-1e,30.0,False,0.0,760.0,234.0,2761.0,81.0,False
+2153,Europa,False,CP,55 Cancri e,27.0,False,0.0,12077.0,0.0,75.0,0.0,True
+1318,Earth,False,FS,TRAPPIST-1e,39.0,False,386.0,190.0,0.0,489.0,0.0,False
+1437,Earth,False,FS,TRAPPIST-1e,18.0,False,765.0,0.0,13.0,0.0,0.0,False
+7321,Earth,False,GS,TRAPPIST-1e,24.0,False,482.0,967.0,349.0,19.0,0.0,False
+7860,Earth,False,GP,TRAPPIST-1e,57.0,False,0.0,839.0,1.0,0.0,2.0,True
+7225,Mars,True,ES,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+3534,Earth,True,GS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+89,Earth,False,GP,TRAPPIST-1e,26.0,False,0.0,856.0,5.0,32.0,0.0,False
+6194,Earth,False,GS,TRAPPIST-1e,38.0,False,395.0,1035.0,0.0,0.0,4.0,True
+5369,Earth,True,EP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+1906,Earth,False,FS,TRAPPIST-1e,50.0,False,0.0,0.0,0.0,785.0,19.0,False
+139,Earth,False,FP,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,607.0,False
+784,Earth,True,GS,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+8047,Earth,True,GS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,False
+1796,Earth,False,EP,TRAPPIST-1e,29.0,False,0.0,51.0,0.0,37.0,704.0,False
+8213,Earth,False,GS,55 Cancri e,21.0,False,2.0,0.0,0.0,634.0,0.0,False
+628,Earth,False,GP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,768.0,3.0,False
+409,Earth,False,FS,TRAPPIST-1e,22.0,False,9.0,0.0,795.0,0.0,0.0,True
+2412,Earth,False,FS,PSO J318.5-22,18.0,False,9.0,419.0,0.0,201.0,7.0,False
+2593,Earth,False,FP,TRAPPIST-1e,24.0,False,14.0,702.0,0.0,0.0,0.0,False
+8105,Mars,False,ES,TRAPPIST-1e,49.0,False,0.0,1.0,1364.0,226.0,0.0,True
+3419,Earth,False,FS,TRAPPIST-1e,24.0,False,25.0,284.0,0.0,330.0,64.0,False
+7136,Mars,True,FS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+6356,Europa,True,CP,55 Cancri e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+4669,Earth,False,FS,TRAPPIST-1e,32.0,False,2756.0,125.0,9.0,0.0,103.0,False
+356,Europa,False,CP,PSO J318.5-22,27.0,True,69.0,5728.0,0.0,0.0,987.0,True
+7530,Earth,False,GS,PSO J318.5-22,18.0,False,0.0,0.0,0.0,1.0,335.0,False
+3273,Earth,True,GS,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+6590,Mars,False,EP,TRAPPIST-1e,28.0,False,1998.0,0.0,13.0,87.0,0.0,False
+5042,Earth,True,GS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+2564,Earth,False,GP,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+3745,Earth,True,GS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+3019,Earth,True,GP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+3164,Europa,True,BP,55 Cancri e,25.0,False,0.0,0.0,0.0,0.0,0.0,True
+4996,Mars,False,FS,TRAPPIST-1e,40.0,False,286.0,0.0,2299.0,12.0,0.0,True
+7066,Earth,False,FP,TRAPPIST-1e,58.0,False,1366.0,257.0,0.0,0.0,311.0,False
+5256,Earth,False,GP,TRAPPIST-1e,23.0,False,765.0,5.0,0.0,0.0,0.0,False
+3374,Mars,True,FP,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+6775,Mars,False,ES,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+7815,Earth,False,FS,TRAPPIST-1e,37.0,False,477.0,0.0,167.0,0.0,46.0,False
+7264,Earth,False,EP,TRAPPIST-1e,20.0,False,98.0,499.0,0.0,142.0,52.0,False
+5767,Europa,False,AP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,4588.0,0.0,False
+3168,Earth,False,FP,TRAPPIST-1e,28.0,False,0.0,1376.0,4.0,0.0,0.0,True
+1735,Earth,False,GS,TRAPPIST-1e,29.0,False,181.0,0.0,2.0,0.0,663.0,False
+3947,Earth,False,GS,PSO J318.5-22,23.0,False,4.0,157.0,142.0,0.0,196.0,False
+3347,Mars,False,FS,TRAPPIST-1e,11.0,False,0.0,0.0,0.0,0.0,0.0,True
+7515,Earth,False,FS,TRAPPIST-1e,35.0,False,0.0,0.0,62.0,0.0,891.0,False
+5844,Earth,True,GS,PSO J318.5-22,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+1413,Earth,False,FS,TRAPPIST-1e,38.0,False,35.0,0.0,0.0,0.0,713.0,False
+559,Mars,False,DP,TRAPPIST-1e,23.0,False,2648.0,0.0,1092.0,0.0,0.0,False
+2444,Earth,False,FS,55 Cancri e,34.0,False,492.0,0.0,13.0,55.0,0.0,False
+1924,Earth,True,GP,PSO J318.5-22,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3666,Mars,True,FS,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+1962,Earth,False,FS,PSO J318.5-22,25.0,False,0.0,11.0,0.0,13.0,1344.0,False
+3746,Earth,False,FS,PSO J318.5-22,59.0,False,400.0,0.0,126.0,0.0,158.0,True
+8627,Mars,True,FS,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4739,Europa,True,CP,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+4087,Europa,False,BS,TRAPPIST-1e,43.0,False,0.0,1947.0,0.0,0.0,1651.0,True
+7810,Mars,True,FP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+8658,Earth,False,FS,TRAPPIST-1e,30.0,False,8.0,752.0,0.0,0.0,687.0,True
+3340,Mars,False,EP,TRAPPIST-1e,21.0,False,354.0,113.0,0.0,487.0,0.0,False
+3489,Earth,False,FP,TRAPPIST-1e,18.0,False,64.0,0.0,3.0,3440.0,5.0,False
+2062,Earth,False,GS,TRAPPIST-1e,20.0,False,546.0,0.0,228.0,0.0,0.0,False
+2779,Europa,False,CS,TRAPPIST-1e,47.0,False,0.0,5252.0,0.0,124.0,300.0,True
+299,Earth,False,FP,TRAPPIST-1e,25.0,False,0.0,0.0,251.0,0.0,552.0,False
+1592,Earth,True,FP,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,False
+5264,Earth,False,FS,PSO J318.5-22,25.0,False,458.0,240.0,0.0,239.0,0.0,True
+1349,Europa,False,BP,55 Cancri e,28.0,False,0.0,4380.0,0.0,692.0,0.0,True
+671,Europa,True,DS,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+5048,Mars,False,FP,TRAPPIST-1e,29.0,False,743.0,378.0,8.0,0.0,0.0,False
+7678,Earth,False,GP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+7184,Mars,False,DS,TRAPPIST-1e,37.0,True,2771.0,0.0,6.0,1.0,10.0,False
+4368,Earth,False,GS,TRAPPIST-1e,42.0,False,84.0,323.0,0.0,1251.0,120.0,False
+4999,Mars,False,EP,TRAPPIST-1e,17.0,False,13.0,0.0,565.0,367.0,1.0,False
+3413,Europa,False,BP,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,False
+6690,Mars,False,FS,TRAPPIST-1e,19.0,False,3332.0,878.0,926.0,781.0,0.0,False
+5555,Mars,True,FS,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+7350,Europa,True,CS,PSO J318.5-22,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+466,Europa,True,BS,55 Cancri e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+7327,Earth,False,GP,PSO J318.5-22,43.0,False,6.0,25.0,0.0,5250.0,0.0,False
+1373,Earth,False,GP,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,755.0,False
+688,Earth,True,GP,PSO J318.5-22,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+885,Earth,True,GP,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+8482,Europa,False,CS,TRAPPIST-1e,31.0,False,1062.0,1605.0,0.0,2718.0,1674.0,False
+5403,Europa,True,BP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4479,Mars,False,FP,TRAPPIST-1e,29.0,False,298.0,0.0,888.0,5.0,0.0,True
+4781,Earth,False,GS,TRAPPIST-1e,31.0,False,25.0,712.0,0.0,16.0,0.0,True
+662,Mars,False,ES,TRAPPIST-1e,19.0,False,164.0,0.0,783.0,0.0,0.0,False
+384,Mars,True,FP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+4693,Europa,True,BP,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+779,Europa,False,BS,TRAPPIST-1e,71.0,True,0.0,0.0,0.0,0.0,0.0,True
+4802,Earth,False,FS,TRAPPIST-1e,16.0,False,43.0,0.0,0.0,1893.0,119.0,False
+4014,Europa,False,CS,TRAPPIST-1e,32.0,False,401.0,3724.0,5.0,422.0,62.0,True
+7007,Europa,False,BS,55 Cancri e,26.0,False,286.0,3387.0,575.0,213.0,548.0,True
+183,Earth,False,GS,TRAPPIST-1e,29.0,False,0.0,2.0,66.0,0.0,705.0,False
+6149,Europa,False,AS,TRAPPIST-1e,50.0,False,0.0,1663.0,336.0,1855.0,4.0,False
+7017,Earth,True,GP,PSO J318.5-22,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+1009,Earth,False,EP,55 Cancri e,25.0,False,79.0,709.0,0.0,0.0,0.0,False
+2478,Mars,False,ES,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+5858,Europa,False,AP,55 Cancri e,34.0,True,0.0,1174.0,0.0,130.0,1141.0,False
+2533,Earth,True,GP,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+3589,Mars,True,ES,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,False
+4376,Earth,False,GS,TRAPPIST-1e,9.0,False,0.0,0.0,0.0,0.0,0.0,False
+6309,Mars,False,FP,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+8037,Earth,False,GP,PSO J318.5-22,21.0,False,10.0,1028.0,3.0,2519.0,0.0,False
+3775,Europa,True,CP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+6536,Earth,True,GS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+5750,Mars,False,DP,TRAPPIST-1e,29.0,False,3564.0,0.0,802.0,0.0,0.0,False
+8421,Europa,False,DP,TRAPPIST-1e,39.0,False,2101.0,41.0,0.0,525.0,19.0,False
+219,Mars,False,FS,TRAPPIST-1e,32.0,False,56.0,0.0,256.0,1438.0,0.0,False
+6290,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+2689,Earth,False,GS,55 Cancri e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+2797,Earth,False,GS,TRAPPIST-1e,31.0,False,517.0,1.0,301.0,60.0,4.0,False
+4562,Earth,False,FS,TRAPPIST-1e,39.0,False,12.0,8.0,0.0,4.0,753.0,True
+2766,Europa,False,BP,TRAPPIST-1e,33.0,False,0.0,0.0,0.0,0.0,0.0,False
+8518,Europa,True,AP,TRAPPIST-1e,57.0,False,0.0,0.0,0.0,0.0,0.0,True
+5489,Europa,True,BP,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,0.0,0.0,True
+6695,Earth,False,FP,TRAPPIST-1e,21.0,False,0.0,13.0,0.0,720.0,170.0,False
+335,Europa,False,CS,55 Cancri e,63.0,False,0.0,1068.0,0.0,176.0,8188.0,False
+4614,Europa,False,BS,55 Cancri e,36.0,True,1.0,10029.0,1.0,1679.0,27.0,True
+7883,Earth,False,GP,TRAPPIST-1e,24.0,False,0.0,171.0,591.0,22.0,0.0,False
+8429,Europa,True,BP,55 Cancri e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+446,Mars,True,FP,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,True
+6392,Europa,False,BP,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+3739,Earth,True,FP,TRAPPIST-1e,12.0,False,0.0,0.0,0.0,0.0,0.0,False
+921,Earth,False,ES,TRAPPIST-1e,36.0,False,1.0,784.0,0.0,55.0,149.0,True
+1110,Europa,True,CP,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,True
+7665,Earth,False,GS,TRAPPIST-1e,31.0,False,116.0,0.0,298.0,2.0,227.0,False
+280,Europa,False,FP,TRAPPIST-1e,67.0,False,0.0,230.0,0.0,4476.0,241.0,False
+8524,Earth,False,ES,TRAPPIST-1e,32.0,False,0.0,475.0,51.0,440.0,642.0,False
+6607,Europa,False,CP,55 Cancri e,28.0,False,0.0,4173.0,0.0,33.0,420.0,True
+3933,Earth,False,FS,TRAPPIST-1e,55.0,False,0.0,198.0,703.0,1.0,0.0,True
+920,Earth,False,GS,TRAPPIST-1e,28.0,False,0.0,3.0,906.0,0.0,0.0,False
+5535,Mars,True,FP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,True
+1306,Earth,False,ES,TRAPPIST-1e,19.0,False,189.0,510.0,0.0,0.0,0.0,True
+1676,Earth,False,GS,TRAPPIST-1e,21.0,False,0.0,0.0,809.0,0.0,0.0,False
+475,Europa,False,DS,55 Cancri e,32.0,False,0.0,5755.0,0.0,59.0,122.0,True
+7270,Europa,False,CP,55 Cancri e,28.0,False,7.0,489.0,0.0,4.0,6027.0,False
+5896,Earth,False,FS,TRAPPIST-1e,23.0,False,2189.0,0.0,0.0,0.0,0.0,True
+4069,Earth,False,EP,55 Cancri e,22.0,False,429.0,2.0,232.0,0.0,59.0,True
+6373,Earth,False,FS,PSO J318.5-22,18.0,False,103.0,0.0,181.0,1611.0,22.0,False
+1825,Earth,False,FP,TRAPPIST-1e,58.0,False,0.0,0.0,0.0,0.0,717.0,False
+7897,Earth,True,GP,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,False
+5385,Earth,False,FP,TRAPPIST-1e,51.0,False,542.0,0.0,360.0,0.0,0.0,False
+386,Europa,False,CS,TRAPPIST-1e,29.0,False,0.0,4118.0,0.0,715.0,3139.0,True
+8602,Mars,False,FS,TRAPPIST-1e,37.0,False,148.0,0.0,684.0,1446.0,88.0,False
+4646,Europa,False,AS,TRAPPIST-1e,56.0,False,153.0,1750.0,0.0,334.0,1539.0,False
+1081,Earth,True,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,False
+2809,Europa,False,BP,55 Cancri e,30.0,False,728.0,2551.0,0.0,48.0,1804.0,True
+5582,Mars,False,ES,TRAPPIST-1e,19.0,False,300.0,5.0,642.0,0.0,0.0,False
+7151,Mars,False,DP,TRAPPIST-1e,36.0,False,1103.0,3.0,0.0,0.0,659.0,False
+4016,Mars,True,FP,TRAPPIST-1e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+6570,Earth,False,EP,TRAPPIST-1e,15.0,False,9.0,776.0,4.0,0.0,2.0,True
+3703,Earth,True,GP,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4165,Earth,True,FP,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+4379,Europa,False,DS,TRAPPIST-1e,38.0,False,0.0,93.0,0.0,0.0,7303.0,False
+5868,Europa,False,BS,55 Cancri e,37.0,False,0.0,90.0,0.0,3282.0,11.0,False
+492,Earth,True,GP,55 Cancri e,1.0,False,0.0,0.0,0.0,0.0,0.0,False
+4903,Mars,True,ES,TRAPPIST-1e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+6480,Mars,True,EP,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+4882,Earth,False,FP,PSO J318.5-22,60.0,False,0.0,0.0,789.0,283.0,3.0,False
+8453,Earth,False,FP,TRAPPIST-1e,28.0,False,1954.0,43.0,0.0,0.0,7.0,False
+2393,Europa,True,CS,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+955,Earth,False,FS,TRAPPIST-1e,20.0,False,0.0,15.0,122.0,1125.0,0.0,False
+1749,Mars,False,FS,TRAPPIST-1e,61.0,False,953.0,415.0,974.0,0.0,133.0,False
+1935,Europa,False,CS,55 Cancri e,45.0,False,0.0,3559.0,0.0,3615.0,163.0,False
+3753,Europa,False,BP,TRAPPIST-1e,42.0,False,0.0,456.0,1.0,1193.0,3039.0,False
+5004,Earth,False,EP,TRAPPIST-1e,21.0,False,37.0,0.0,31.0,696.0,63.0,True
+450,Earth,False,ES,TRAPPIST-1e,27.0,False,0.0,118.0,0.0,5.0,665.0,False
+1385,Europa,False,DS,TRAPPIST-1e,37.0,False,0.0,13561.0,15.0,4060.0,72.0,False
+6676,Earth,False,FP,PSO J318.5-22,36.0,False,56.0,0.0,81.0,0.0,468.0,False
+6742,Earth,False,FS,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,0.0,757.0,False
+986,Earth,False,FP,TRAPPIST-1e,20.0,False,0.0,537.0,612.0,3.0,0.0,True
+5270,Mars,False,EP,PSO J318.5-22,49.0,False,0.0,0.0,0.0,0.0,0.0,False
+2505,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,0.0,21.0,0.0,695.0,False
+4634,Mars,True,FS,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+1002,Mars,True,FP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+5074,Earth,False,GS,TRAPPIST-1e,37.0,False,389.0,0.0,1.0,3369.0,3.0,False
+2960,Mars,True,FP,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+3319,Earth,True,GP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+3155,Earth,True,GS,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,False
+8495,Earth,False,GS,PSO J318.5-22,27.0,False,0.0,468.0,0.0,59.0,309.0,False
+3633,Earth,True,GS,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+7438,Mars,False,FS,TRAPPIST-1e,62.0,False,100.0,0.0,38.0,1211.0,0.0,False
+4415,Europa,True,BP,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+4557,Earth,False,FP,TRAPPIST-1e,30.0,False,148.0,0.0,0.0,619.0,34.0,True
+1502,Earth,False,GP,TRAPPIST-1e,29.0,False,0.0,3.0,0.0,2.0,923.0,True
+7689,Europa,False,ES,TRAPPIST-1e,30.0,False,209.0,157.0,2566.0,171.0,472.0,False
+5749,Europa,True,CS,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+5793,Earth,False,FS,TRAPPIST-1e,33.0,False,457.0,0.0,0.0,0.0,445.0,False
+2247,Mars,True,FS,TRAPPIST-1e,18.0,False,0.0,0.0,0.0,0.0,0.0,True
+3687,Earth,False,GP,55 Cancri e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+6634,Earth,False,FS,55 Cancri e,24.0,False,0.0,58.0,618.0,0.0,41.0,False
+3744,Earth,True,GS,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+6384,Mars,False,FS,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+2088,Mars,True,FP,55 Cancri e,17.0,False,0.0,0.0,0.0,0.0,0.0,True
+4824,Earth,True,GP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+2864,Mars,False,EP,55 Cancri e,22.0,False,2229.0,0.0,1349.0,121.0,0.0,True
+451,Earth,False,FS,TRAPPIST-1e,28.0,False,0.0,14.0,0.0,0.0,615.0,False
+3232,Earth,False,GP,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+5196,Mars,True,FP,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+7308,Earth,False,GP,55 Cancri e,24.0,False,0.0,0.0,809.0,0.0,0.0,True
+3855,Mars,True,FP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+7192,Europa,False,CS,TRAPPIST-1e,24.0,False,812.0,5450.0,0.0,1.0,262.0,True
+8219,Earth,False,FP,TRAPPIST-1e,20.0,False,874.0,0.0,80.0,0.0,0.0,False
+8590,Mars,False,DP,TRAPPIST-1e,38.0,False,48.0,2318.0,5.0,11.0,0.0,True
+7600,Europa,False,CS,TRAPPIST-1e,37.0,False,79.0,218.0,0.0,442.0,659.0,True
+7651,Mars,False,EP,TRAPPIST-1e,29.0,False,279.0,11.0,40.0,718.0,0.0,False
+2558,Mars,False,FP,TRAPPIST-1e,31.0,False,1511.0,0.0,310.0,0.0,0.0,False
+4298,Mars,True,FS,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+4461,Mars,False,FP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,True
+1205,Mars,True,FS,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+6709,Earth,False,ES,TRAPPIST-1e,44.0,False,143.0,47.0,0.0,717.0,87.0,False
+4360,Europa,False,CS,TRAPPIST-1e,41.0,False,0.0,412.0,0.0,4030.0,0.0,False
+171,Mars,False,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+1071,Europa,True,BP,TRAPPIST-1e,49.0,False,0.0,0.0,0.0,0.0,0.0,True
+2469,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,0.0,0.0,636.0,68.0,False
+5075,Europa,True,DS,55 Cancri e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+93,Mars,True,FP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+1311,Earth,True,GP,PSO J318.5-22,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+3524,Europa,False,AS,TRAPPIST-1e,38.0,False,821.0,960.0,0.0,27.0,321.0,False
+7143,Europa,True,BP,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+3369,Europa,False,CP,55 Cancri e,38.0,False,0.0,3456.0,0.0,1486.0,1157.0,False
+3892,Mars,False,FP,55 Cancri e,24.0,False,1363.0,0.0,50.0,0.0,0.0,False
+6289,Earth,False,FP,TRAPPIST-1e,47.0,False,590.0,0.0,47.0,3.0,53.0,False
+6142,Earth,False,GS,TRAPPIST-1e,22.0,False,89.0,0.0,795.0,0.0,3.0,True
+2111,Earth,False,FS,TRAPPIST-1e,39.0,False,0.0,0.0,13.0,0.0,868.0,True
+1316,Mars,False,FS,TRAPPIST-1e,19.0,False,2058.0,0.0,224.0,298.0,19.0,False
+3279,Europa,True,FP,55 Cancri e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+2741,Earth,False,FS,TRAPPIST-1e,51.0,False,214.0,3.0,16.0,569.0,0.0,False
+6486,Mars,False,ES,55 Cancri e,23.0,False,71.0,0.0,1376.0,0.0,890.0,False
+7464,Earth,False,FP,TRAPPIST-1e,18.0,False,1969.0,0.0,310.0,0.0,0.0,True
+5830,Earth,True,GS,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+6588,Europa,False,DP,TRAPPIST-1e,37.0,False,26.0,2898.0,9.0,0.0,40.0,True
+2113,Mars,False,ES,TRAPPIST-1e,43.0,False,2318.0,0.0,647.0,81.0,0.0,True
+8624,Europa,True,EP,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+1573,Earth,False,FS,TRAPPIST-1e,22.0,False,2.0,0.0,6.0,101.0,536.0,False
+1459,Mars,False,FS,TRAPPIST-1e,13.0,False,7172.0,0.0,157.0,20.0,0.0,False
+7761,Earth,False,FP,TRAPPIST-1e,45.0,False,0.0,1.0,233.0,453.0,17.0,False
+2928,Mars,True,FP,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+337,Europa,True,BS,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+6096,Earth,False,GS,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+8342,Earth,False,ES,TRAPPIST-1e,33.0,False,0.0,3.0,0.0,782.0,7.0,False
+3292,Europa,True,AS,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,True
+855,Europa,True,BP,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+5436,Earth,False,FP,TRAPPIST-1e,46.0,False,0.0,98.0,2077.0,0.0,0.0,True
+5800,Europa,True,CS,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+1290,Mars,False,DP,TRAPPIST-1e,25.0,False,591.0,466.0,0.0,0.0,0.0,False
+2808,Europa,False,CP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+4418,Europa,False,BS,TRAPPIST-1e,29.0,True,0.0,920.0,0.0,2052.0,3687.0,False
+5853,Mars,True,ES,TRAPPIST-1e,34.0,False,0.0,0.0,0.0,0.0,0.0,True
+5684,Earth,True,GS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+1276,Mars,False,FS,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,True
+4565,Europa,False,TS,TRAPPIST-1e,37.0,False,1721.0,667.0,0.0,28.0,1362.0,False
+5909,Earth,False,FP,TRAPPIST-1e,24.0,False,0.0,2680.0,0.0,2.0,45.0,True
+4502,Europa,True,BP,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+53,Europa,True,AS,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,True
+3728,Earth,True,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+1726,Mars,False,FS,TRAPPIST-1e,26.0,False,17.0,0.0,1582.0,0.0,0.0,True
+1694,Earth,False,GS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+8553,Europa,True,CP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+167,Earth,False,GP,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,False
+8585,Mars,False,ES,TRAPPIST-1e,20.0,False,574.0,1.0,792.0,11.0,0.0,False
+1538,Earth,False,FS,TRAPPIST-1e,37.0,False,0.0,27.0,11.0,732.0,5.0,False
+6215,Earth,False,GS,TRAPPIST-1e,27.0,False,0.0,0.0,0.0,908.0,0.0,False
+5632,Earth,False,GS,TRAPPIST-1e,29.0,False,0.0,5.0,6.0,0.0,0.0,True
+7807,Earth,True,GP,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+8666,Earth,False,FS,55 Cancri e,38.0,False,28.0,1208.0,973.0,207.0,0.0,True
+4000,Mars,True,FS,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+4618,Mars,True,FS,TRAPPIST-1e,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+1558,Europa,False,AS,TRAPPIST-1e,47.0,False,4.0,1303.0,830.0,774.0,2.0,False
+7998,Europa,True,BS,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+1884,Earth,True,GP,PSO J318.5-22,33.0,False,0.0,0.0,0.0,0.0,0.0,True
+6504,Europa,True,AP,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+6987,Mars,False,FP,TRAPPIST-1e,38.0,False,1126.0,0.0,23.0,34.0,0.0,False
+3468,Europa,False,DS,TRAPPIST-1e,34.0,True,0.0,4.0,0.0,685.0,1779.0,False
+3964,Earth,False,FP,55 Cancri e,13.0,False,406.0,0.0,1670.0,0.0,427.0,False
+3459,Mars,True,FS,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+5944,Europa,True,BS,55 Cancri e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+376,Earth,False,FP,TRAPPIST-1e,18.0,False,0.0,157.0,0.0,352.0,60.0,False
+6476,Earth,True,GP,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,False
+186,Earth,True,DP,55 Cancri e,24.0,False,0.0,0.0,0.0,0.0,0.0,True
+6422,Europa,False,CS,TRAPPIST-1e,39.0,False,2167.0,30.0,1472.0,0.0,0.0,True
+4837,Mars,True,DS,55 Cancri e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+327,Mars,True,FP,TRAPPIST-1e,61.0,False,0.0,0.0,0.0,0.0,0.0,True
+6453,Mars,False,ES,55 Cancri e,36.0,False,1339.0,6.0,7810.0,0.0,0.0,True
+7064,Europa,True,BP,TRAPPIST-1e,26.0,False,0.0,0.0,0.0,0.0,0.0,True
+962,Earth,False,GP,55 Cancri e,54.0,False,0.0,5.0,0.0,594.0,209.0,False
+5449,Mars,True,DS,55 Cancri e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+7925,Earth,False,FS,TRAPPIST-1e,21.0,False,32.0,640.0,0.0,0.0,0.0,True
+7931,Mars,False,DP,55 Cancri e,38.0,False,1161.0,0.0,19.0,0.0,0.0,False
+1303,Earth,True,GS,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+6036,Earth,False,FP,TRAPPIST-1e,18.0,False,358.0,336.0,0.0,0.0,0.0,False
+1505,Earth,True,GP,TRAPPIST-1e,31.0,False,0.0,0.0,0.0,0.0,0.0,True
+723,Mars,False,FS,TRAPPIST-1e,23.0,False,755.0,0.0,121.0,0.0,0.0,False
+1504,Europa,True,BP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+3904,Mars,True,FP,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+1947,Europa,False,CP,TRAPPIST-1e,38.0,False,0.0,590.0,2640.0,6202.0,99.0,False
+2562,Earth,False,FP,TRAPPIST-1e,18.0,False,600.0,0.0,0.0,179.0,11.0,True
+3868,Europa,True,CS,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,True
+2516,Earth,False,GS,TRAPPIST-1e,18.0,False,0.0,617.0,0.0,0.0,10.0,False
+20,Earth,False,FP,55 Cancri e,14.0,False,412.0,0.0,1.0,0.0,679.0,False
+2048,Earth,True,GS,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,False
+7961,Earth,True,GP,55 Cancri e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+3178,Earth,False,GS,TRAPPIST-1e,33.0,False,22.0,37.0,415.0,0.0,333.0,False
+3881,Europa,False,BP,55 Cancri e,58.0,True,0.0,279.0,3627.0,122.0,30.0,True
+7989,Earth,False,FP,TRAPPIST-1e,21.0,False,129.0,106.0,280.0,183.0,18.0,False
+4549,Europa,True,BS,55 Cancri e,59.0,False,0.0,0.0,0.0,0.0,0.0,True
+5140,Earth,True,GP,TRAPPIST-1e,14.0,False,0.0,0.0,0.0,0.0,0.0,True
+4895,Europa,True,BP,55 Cancri e,32.0,False,0.0,0.0,0.0,0.0,0.0,True
+2975,Earth,False,FS,55 Cancri e,58.0,False,52.0,0.0,5.0,517.0,0.0,False
+2540,Earth,False,FP,TRAPPIST-1e,40.0,False,0.0,0.0,362.0,272.0,0.0,False
+5662,Earth,True,GP,55 Cancri e,39.0,False,0.0,0.0,0.0,0.0,0.0,False
+4208,Mars,False,DP,TRAPPIST-1e,25.0,False,1956.0,0.0,161.0,239.0,28.0,False
+4822,Mars,True,FP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+3919,Europa,False,AS,TRAPPIST-1e,43.0,False,0.0,124.0,0.0,3975.0,186.0,False
+7052,Earth,False,ES,TRAPPIST-1e,19.0,False,0.0,789.0,0.0,0.0,0.0,False
+2522,Mars,True,FS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+4420,Earth,False,FS,55 Cancri e,27.0,False,0.0,630.0,0.0,71.0,0.0,True
+4404,Earth,False,GP,TRAPPIST-1e,42.0,False,0.0,0.0,1677.0,65.0,62.0,True
+7983,Earth,False,FS,TRAPPIST-1e,24.0,False,686.0,0.0,13.0,0.0,0.0,False
+4462,Europa,False,ES,TRAPPIST-1e,38.0,False,0.0,4504.0,0.0,13.0,302.0,True
+8570,Earth,True,GP,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+462,Mars,False,FP,TRAPPIST-1e,22.0,False,10.0,0.0,817.0,471.0,0.0,False
+603,Mars,False,DP,PSO J318.5-22,31.0,True,629.0,0.0,0.0,150.0,0.0,False
+7073,Europa,True,CS,55 Cancri e,61.0,False,0.0,0.0,0.0,0.0,0.0,True
+4106,Europa,False,BS,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+4344,Europa,True,BS,55 Cancri e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+4133,Europa,False,CS,TRAPPIST-1e,50.0,False,0.0,817.0,388.0,78.0,693.0,True
+1497,Europa,False,DS,TRAPPIST-1e,37.0,False,0.0,1336.0,2.0,12.0,7.0,True
+2828,Europa,False,FP,55 Cancri e,52.0,False,0.0,2.0,0.0,10976.0,810.0,False
+3764,Mars,False,FP,TRAPPIST-1e,32.0,False,1843.0,0.0,662.0,0.0,0.0,False
+2973,Mars,False,EP,TRAPPIST-1e,56.0,False,324.0,574.0,116.0,0.0,0.0,False
+5326,Mars,False,EP,TRAPPIST-1e,23.0,False,821.0,0.0,863.0,664.0,0.0,False
+8559,Mars,False,FS,TRAPPIST-1e,25.0,False,410.0,32.0,14.0,1239.0,10.0,False
+3873,Mars,True,FS,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+615,Europa,False,CS,TRAPPIST-1e,79.0,False,0.0,0.0,0.0,2210.0,2.0,False
+7426,Europa,True,BP,55 Cancri e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+3955,Mars,False,FP,TRAPPIST-1e,40.0,False,1268.0,0.0,0.0,0.0,0.0,False
+8093,Earth,False,FP,55 Cancri e,23.0,False,1.0,26.0,1908.0,318.0,0.0,True
+1031,Mars,True,ES,TRAPPIST-1e,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+3401,Earth,False,ES,TRAPPIST-1e,24.0,False,3.0,2053.0,335.0,0.0,4.0,True
+7613,Mars,True,FS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+6451,Mars,True,ES,55 Cancri e,68.0,False,0.0,0.0,0.0,0.0,0.0,True
+6745,Earth,True,GP,PSO J318.5-22,26.0,False,0.0,0.0,0.0,0.0,0.0,False
+4942,Earth,False,FS,TRAPPIST-1e,14.0,False,0.0,56.0,0.0,0.0,2.0,True
+3829,Earth,False,EP,TRAPPIST-1e,15.0,False,0.0,840.0,123.0,0.0,20.0,False
+5312,Earth,True,GS,55 Cancri e,35.0,False,0.0,0.0,0.0,0.0,0.0,True
+1166,Europa,False,CS,55 Cancri e,29.0,False,0.0,42.0,0.0,4651.0,661.0,False
+2557,Earth,False,FS,TRAPPIST-1e,15.0,False,746.0,0.0,2.0,0.0,11.0,False
+6218,Europa,False,AP,TRAPPIST-1e,22.0,False,0.0,335.0,0.0,818.0,3014.0,False
+3643,Europa,True,DS,55 Cancri e,55.0,False,0.0,0.0,0.0,0.0,0.0,True
+5389,Earth,True,FP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,True
+3813,Earth,True,GS,TRAPPIST-1e,60.0,False,0.0,0.0,0.0,0.0,0.0,True
+1462,Mars,False,FP,TRAPPIST-1e,20.0,False,206.0,0.0,629.0,67.0,523.0,True
+5380,Earth,False,FP,TRAPPIST-1e,29.0,False,715.0,47.0,0.0,0.0,0.0,False
+5388,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,False
+11,Europa,False,BP,55 Cancri e,45.0,False,39.0,7295.0,589.0,110.0,124.0,True
+7224,Earth,False,GP,TRAPPIST-1e,64.0,False,0.0,0.0,0.0,563.0,344.0,False
+6941,Earth,False,GP,TRAPPIST-1e,20.0,False,0.0,802.0,0.0,16.0,0.0,False
+982,Europa,False,CP,TRAPPIST-1e,37.0,False,0.0,0.0,0.0,0.0,0.0,False
+2282,Earth,False,FS,55 Cancri e,42.0,False,526.0,2.0,28.0,161.0,0.0,False
+7353,Europa,False,CP,55 Cancri e,43.0,False,0.0,16856.0,0.0,4344.0,977.0,False
+1799,Europa,True,AS,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,False
+6744,Earth,False,FS,TRAPPIST-1e,24.0,False,0.0,489.0,21.0,0.0,184.0,False
+3172,Earth,False,FP,PSO J318.5-22,40.0,False,15.0,0.0,0.0,670.0,0.0,False
+4858,Earth,False,GP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+1832,Earth,True,EP,TRAPPIST-1e,36.0,False,0.0,0.0,0.0,0.0,0.0,True
+3429,Europa,True,CP,55 Cancri e,30.0,False,0.0,0.0,0.0,0.0,0.0,True
+1732,Earth,True,GS,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,True
+2597,Earth,False,GP,TRAPPIST-1e,46.0,False,0.0,0.0,1661.0,52.0,8.0,True
+4356,Mars,False,FP,TRAPPIST-1e,24.0,False,672.0,0.0,501.0,0.0,0.0,False
+3874,Earth,True,GP,55 Cancri e,15.0,False,0.0,0.0,0.0,0.0,0.0,False
+8271,Mars,True,FS,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+738,Europa,False,ES,55 Cancri e,7.0,False,0.0,0.0,0.0,0.0,0.0,True
+4692,Earth,False,FP,TRAPPIST-1e,46.0,False,819.0,31.0,0.0,49.0,2.0,False
+6372,Earth,False,GS,TRAPPIST-1e,37.0,False,0.0,1190.0,4.0,455.0,71.0,True
+1266,Earth,False,FS,TRAPPIST-1e,25.0,False,1174.0,0.0,18.0,721.0,0.0,False
+2284,Earth,False,FP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,157.0,644.0,False
+1988,Earth,False,FS,TRAPPIST-1e,29.0,False,717.0,0.0,0.0,0.0,0.0,False
+2076,Earth,True,GP,PSO J318.5-22,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+3125,Mars,False,DS,TRAPPIST-1e,18.0,False,2532.0,0.0,46.0,0.0,0.0,False
+8593,Earth,False,FP,PSO J318.5-22,33.0,False,0.0,688.0,2.0,0.0,426.0,False
+2713,Earth,False,FS,TRAPPIST-1e,25.0,False,0.0,9.0,2005.0,0.0,5.0,True
+5761,Earth,False,FP,55 Cancri e,18.0,False,0.0,0.0,0.0,63.0,525.0,True
+4324,Earth,False,GP,PSO J318.5-22,23.0,False,0.0,138.0,4.0,412.0,220.0,False
+8607,Mars,True,FP,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,True
+1995,Mars,True,FS,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+2921,Earth,True,GP,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,False
+7671,Earth,True,GS,PSO J318.5-22,23.0,False,0.0,0.0,0.0,0.0,0.0,False
+7575,Europa,True,BS,TRAPPIST-1e,41.0,False,0.0,0.0,0.0,0.0,0.0,True
+664,Mars,True,ES,TRAPPIST-1e,23.0,False,0.0,0.0,0.0,0.0,0.0,True
+5521,Mars,False,FP,TRAPPIST-1e,24.0,False,10.0,49.0,0.0,1497.0,10.0,False
+3210,Mars,True,FP,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+3122,Earth,False,GP,PSO J318.5-22,5.0,False,0.0,0.0,0.0,0.0,0.0,False
+4222,Earth,True,GS,PSO J318.5-22,14.0,False,0.0,0.0,0.0,0.0,0.0,False
+2635,Earth,False,FP,TRAPPIST-1e,38.0,False,77.0,169.0,0.0,0.0,470.0,False
+4992,Earth,False,FP,TRAPPIST-1e,23.0,False,0.0,1.0,292.0,0.0,340.0,False
+5650,Earth,True,GP,TRAPPIST-1e,44.0,False,0.0,0.0,0.0,0.0,0.0,True
+2802,Earth,False,FP,TRAPPIST-1e,19.0,False,0.0,0.0,1752.0,187.0,0.0,True
+3569,Earth,False,FP,55 Cancri e,41.0,False,312.0,89.0,44.0,0.0,252.0,False
+3574,Europa,False,CS,55 Cancri e,24.0,False,38.0,257.0,0.0,54.0,4184.0,False
+7898,Earth,False,FP,TRAPPIST-1e,25.0,False,341.0,608.0,2.0,2.0,16.0,True
+5974,Earth,True,GP,PSO J318.5-22,2.0,False,0.0,0.0,0.0,0.0,0.0,False
+1249,Earth,True,GS,TRAPPIST-1e,43.0,False,0.0,0.0,0.0,0.0,0.0,True
+4452,Europa,True,CP,TRAPPIST-1e,4.0,False,0.0,0.0,0.0,0.0,0.0,True
+4725,Europa,False,CS,55 Cancri e,39.0,False,10.0,199.0,0.0,6216.0,101.0,False
+1756,Earth,False,GS,TRAPPIST-1e,25.0,False,0.0,60.0,0.0,646.0,1115.0,False
+4235,Mars,False,FP,55 Cancri e,54.0,False,433.0,0.0,867.0,19.0,1.0,False
+6412,Earth,True,GP,TRAPPIST-1e,6.0,False,0.0,0.0,0.0,0.0,0.0,False
+2985,Europa,False,BS,TRAPPIST-1e,45.0,False,3.0,2344.0,1100.0,498.0,0.0,True
+5394,Earth,True,GS,TRAPPIST-1e,22.0,False,0.0,0.0,0.0,0.0,0.0,True
+4307,Mars,True,FS,TRAPPIST-1e,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+4265,Earth,True,GS,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,True
+787,Earth,True,GP,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,True
+6068,Earth,False,GS,TRAPPIST-1e,31.0,False,294.0,480.0,31.0,3.0,0.0,True
+5779,Europa,False,CS,TRAPPIST-1e,55.0,False,916.0,1056.0,0.0,1677.0,593.0,False
+108,Europa,False,BS,55 Cancri e,48.0,True,0.0,2537.0,87.0,17.0,13.0,True
+4956,Earth,False,FS,TRAPPIST-1e,26.0,False,0.0,196.0,0.0,0.0,487.0,True
+5889,Earth,False,FS,TRAPPIST-1e,33.0,False,6.0,0.0,0.0,0.0,950.0,False
+6298,Europa,False,BP,TRAPPIST-1e,53.0,False,0.0,0.0,0.0,0.0,0.0,True
+6335,Europa,True,BP,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+181,Europa,False,AP,55 Cancri e,29.0,False,0.0,2433.0,0.0,878.0,443.0,True
+6684,Earth,True,GS,TRAPPIST-1e,21.0,False,0.0,0.0,0.0,0.0,0.0,True
+5658,Earth,False,GP,TRAPPIST-1e,20.0,False,3.0,0.0,0.0,806.0,0.0,False
+8649,Earth,True,GP,PSO J318.5-22,1.0,False,0.0,0.0,0.0,0.0,0.0,True
+128,Earth,False,EP,TRAPPIST-1e,34.0,False,0.0,22.0,0.0,564.0,207.0,False
+3124,Earth,True,GS,PSO J318.5-22,20.0,False,0.0,0.0,0.0,0.0,0.0,True
+710,Earth,False,FS,55 Cancri e,22.0,False,15.0,142.0,0.0,41.0,493.0,False
+7139,Europa,True,CP,55 Cancri e,40.0,False,0.0,0.0,0.0,0.0,0.0,True
+1949,Europa,False,AS,TRAPPIST-1e,19.0,False,0.0,1342.0,0.0,152.0,556.0,True
+596,Europa,True,CS,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,True
+5269,Mars,True,EP,TRAPPIST-1e,19.0,False,0.0,0.0,0.0,0.0,0.0,False
+3752,Mars,False,EP,TRAPPIST-1e,14.0,False,460.0,0.0,0.0,315.0,172.0,False
+2369,Earth,True,GP,TRAPPIST-1e,16.0,False,0.0,0.0,0.0,0.0,0.0,True
+2826,Mars,True,ES,TRAPPIST-1e,25.0,False,0.0,0.0,0.0,0.0,0.0,False
+7280,Earth,False,GS,TRAPPIST-1e,13.0,False,406.0,0.0,52.0,0.0,387.0,False
+1681,Earth,False,FS,TRAPPIST-1e,40.0,False,596.0,0.0,135.0,73.0,0.0,False
+5954,Europa,False,CS,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,6.0,9837.0,False
+4398,Earth,True,GP,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,False
+4900,Mars,True,FS,PSO J318.5-22,29.0,False,0.0,0.0,0.0,0.0,0.0,True
+5419,Mars,False,FS,TRAPPIST-1e,27.0,False,850.0,0.0,681.0,1.0,0.0,True
+7103,Mars,False,DP,TRAPPIST-1e,50.0,True,828.0,0.0,572.0,1367.0,0.0,False
+5581,Earth,False,GS,PSO J318.5-22,47.0,False,163.0,2.0,11.0,593.0,0.0,True
+398,Earth,False,FS,TRAPPIST-1e,39.0,False,382.0,0.0,22.0,467.0,0.0,False
+8170,Europa,False,EP,TRAPPIST-1e,66.0,False,354.0,2639.0,0.0,1180.0,0.0,False
+2240,Earth,True,GP,PSO J318.5-22,42.0,False,0.0,0.0,0.0,0.0,0.0,True
+775,Mars,True,FP,TRAPPIST-1e,59.0,False,0.0,0.0,0.0,0.0,0.0,True
+7415,Europa,False,BS,TRAPPIST-1e,31.0,False,0.0,910.0,58.0,1654.0,1217.0,False
+7466,Mars,False,DP,TRAPPIST-1e,40.0,False,3809.0,0.0,21.0,0.0,1.0,False
+4256,Europa,True,CP,TRAPPIST-1e,54.0,False,0.0,0.0,0.0,0.0,0.0,True
+4517,Mars,True,FP,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,True
+1822,Earth,False,FS,TRAPPIST-1e,21.0,False,942.0,0.0,0.0,0.0,7.0,False
+8331,Mars,True,FS,55 Cancri e,33.0,False,0.0,0.0,0.0,0.0,0.0,True
