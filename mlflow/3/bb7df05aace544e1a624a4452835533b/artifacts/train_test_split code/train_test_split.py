@@ -3,7 +3,7 @@ import numpy as np
 import os
 import mlflow
 
-# os.environ["MLFLOW_REGISTRY_URI"] = "/home/danil/project/mlops3/mlflow/"
+os.environ["MLFLOW_REGISTRY_URI"] = "/home/danil/project/mlops3/mlflow/"
 mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("train_test_split")
 
@@ -18,10 +18,10 @@ with mlflow.start_run():
 
     mlflow.log_artifact(local_path="/home/danil/project/mlops3/scripts/train_test_split.py",
                         artifact_path="train_test_split code")
-    # mlflow.log_artifact(local_path="/home/danil/project/mlops3/datasets/data_train.csv",
-    #                     artifact_path="train data")
-    # mlflow.log_artifact(local_path="/home/danil/project/mlops3/datasets/data_test.csv",
-    #                     artifact_path="test data")
+    mlflow.log_artifact(local_path="/home/danil/project/mlops3/datasets/data_train.csv",
+                        artifact_path="train data")
+    mlflow.log_artifact(local_path="/home/danil/project/mlops3/datasets/data_test.csv",
+                        artifact_path="test data")
     mlflow.end_run()
 
 df.loc[train_idxs, :].to_csv('/home/danil/project/mlops3/datasets/data_train.csv', index=False)

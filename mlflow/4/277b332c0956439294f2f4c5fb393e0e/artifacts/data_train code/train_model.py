@@ -8,7 +8,7 @@ import pickle
 import os
 import mlflow
 
-# os.environ["MLFLOW_REGISTRY_URI"] = "/home/danil/project/mlops3/mlflow/"
+os.environ["MLFLOW_REGISTRY_URI"] = "/home/danil/project/mlops3/mlflow/"
 mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("data_train")
 

@@ -34,7 +34,5 @@ with mlflow.start_run():
     trainData.drop(["PassengerId", "Name"], axis=1, inplace=True)
     mlflow.log_artifact(local_path="/home/danil/project/mlops3/scripts/preprocess.py",
                         artifact_path="preprocess code")
-    mlflow.log_artifact(local_path="/home/danil/project/mlops3/datasets/data_preprocess.csv",
-                        artifact_path="train_pre data")
 
 trainData.to_csv('/home/danil/project/mlops3/datasets/data_preprocess.csv')
